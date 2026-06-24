@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://tubextra.b-cdn.net/eEux2.png", Fifa WC Live 1 
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+
+#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://tubextra.b-cdn.net/eEux2.png", Fifa WC Live 2
+https://live-stream-url.com/news.m3u8
+
+#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://tubextra.b-cdn.net/eEux2.png", Fifa WC Live 4 
+https://trs1.aynaott.com/tsports/tracks-v1a1/mono.ts.m3u8&apos
+
+#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://tubextra.b-cdn.net/eEux2.png", Fifa WC Live 3 
+https://mflixott.com/tv/dd/live.php?id=270
+
+
+#EXTINF:-1 group-title="Cricket" tvg-logo="https://tubextra.b-cdn.net/rxRF7.jpg", Cricket Live 1
+https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
+
+
+#EXTINF:-1 group-title="Cricket" tvg-logo="https://tubextra.b-cdn.net/rxRF7.jpg", Cricket Live 2
+https://mflixott.com/tv/dd/live.php?id=270
+
+#EXTINF:-1 group-title="News"tvg-logo="https://tubextra.b-cdn.net/images%20(8).jpg", NTV
+
+https://live-stream-url.com/racing.m3u8
+
+#EXTINF:-1 group-title="News"tvg-logo="https://tubextra.b-cdn.net/download%20(9).jpg", SOMOY TV
+
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
