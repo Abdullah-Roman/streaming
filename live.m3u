@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://example.com/logo.png", Default Player Server
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-https://tv.beyondtaxconsultants.com/api/robi/lps/http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
-
 https://trs1.aynaott.com/tsports/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://tubextra.b-cdn.net/eEux2.png", Fifa WC Live 1 
