@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://example.com/logo.png", Default Player Server
-https://github.com/Abdullah-Roman/streaming/blob/main/live.m3u
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(7iXlyRc12FpME8jBI2tZ5mujzJRuwHeHgcb1s50tkW19x6aJttJMVyAP30qwflUl0e2rPppO02xyL6ZFAU7vSr2AdyrtGcbmocXxeQxGjZt6GP1O6NxtMFYlFmmRve7P)/cloud/3/x9ksaba/s/live-720.m3u8
 
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://tubextra.b-cdn.net/eEux2.png", Fifa WC Live 1 
 https://tv.emnetbd.com/flussonic/Tsports1/tracks-v1a1/mono.m3u8?nocache=1782587084247
