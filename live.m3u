@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://iili.io/CRyyGX2.jpg", Default Player Server
-https://rglzdwqlaqpzfoofnohk.supabase.co/functions/v1/go?url=Q09k4OundlrSFkr5dU83LGrXH7rB7kbSolduHVH5qsH5dsHRH_ak4M83L0o64MIJq1NuQVdkolbmLGgj471XF5SmHhu_qMas4UgUFU15LGBjqjSs4OSJLONmQConI0zf
 https://tv.emnetbd.com/flussonic/Tsports1/tracks-v1a1/mono.m3u8?nocache=1782587084247
 
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://tubextra.b-cdn.net/eEux2.png", Fifa WC Live 1 
