@@ -1,18 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="", Default Player Server
+https://node8.no-612.workers.dev/resource/MjQwNTk5MDY0MTY5OjI0MDU5OTA2NDE2OToxMjAzNTpsaXZl/index
 https://andro.evrenesoglu57.click/checklist/androstreamliveexn1.m3u8
 https://sports.abdullahroman276.workers.dev/play/CoApKkDJQ_E_0K_M2qzdm3BAY5aEC8tzd5kv1vayk3I/m3u8
 https://sports.abdullahroman276.workers.dev/play/CoApKkDJQ_E_0K_M2qzdm5x8MSxHV7Y_psOmm8MlSTQ/m3u8
-https://node8.no-612.workers.dev/resource/MjQwNTk5MDY0MTY5OjI0MDU5OTA2NDE2OToxMjAzNTpsaXZl/index
 https://sports.abdullahroman276.workers.dev/play/CoApKkDJQ_E_0K_M2qzdmwh5mVzElDOplpqFTKNiFTU/m3u8
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 https://sports.abdullahroman276.workers.dev/play/CoApKkDJQ_E_0K_M2qzdm-8AoZ2a-iBS4XQx0MeyT50/m3u8
 
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://tubextra.b-cdn.net/eEux2.png", Fifa WC Live 1 
-https://sports.abdullahroman276.workers.dev/play/CoApKkDJQ_E_0K_M2qzdm3BAY5aEC8tzd5kv1vayk3I/m3u8
+https://andro.evrenesoglu57.click/checklist/androstreamliveexn1.m3u8
 
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://tubextra.b-cdn.net/eEux2.png", Fifa WC Live 2
-https://ir14.livekadeh.com/hls2/bein1.m3u8
+https://andro.evrenesoglu57.click/checklist/androstreamliveexn.m3u8
+
 
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://tubextra.b-cdn.net/eEux2.png", Fifa WC Live 3
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
