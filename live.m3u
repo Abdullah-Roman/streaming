@@ -1,9 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="", Default Player Server
+https://sports.abdullahroman276.workers.dev/live/roman368/01726686368/459.m3u8
 https://m3u8-proxy-v1.jahinalamshamim.workers.dev/proxy?url=https://andro.evrenesoglu57.click/checklist/androstreamliveexn3.m3u8
 https://sports.abdullahroman276.workers.dev/play/CoApKkDJQ_E_0K_M2qzdm5x8MSxHV7Y_psOmm8MlSTQ/m3u8
 https://andro.evrenesoglu57.click/checklist/androstreamliveexn4.m3u8
-https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+
 
 
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://tubextra.b-cdn.net/eEux2.png", Fifa WC Live 1 
@@ -57,7 +58,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=442000.m3u8
 
 #EXTINF:-1 group-title="News"tvg-logo="", Test
-https://sports.abdullahroman276.workers.dev/live/roman368/01726686368/459.m3u8
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 
 #EXTINF:-1 group-title="News"tvg-logo="https://iili.io/Ca2tYKP.jpg", Gopal Var
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
