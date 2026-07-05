@@ -37,7 +37,7 @@ https://node8.no-612.workers.dev/resource/MjQwNTk5MDY0MTY5OjI0MDU5OTA2NDE2OToxMj
 https://sports.abdullahroman276.workers.dev/play/CoApKkDJQ_E_0K_M2qzdm95EytuR6q8YTMLLoKQBjK0/m3u8
 
 #EXTINF:-1 group-title="Cricket" tvg-logo="https://iili.io/C5XW2tf.md.jpg", Cricket Live 2
-https://sports.abdullahroman276.workers.dev/play/CoApKkDJQ_E_0K_M2qzdm95EytuR6q8YTMLLoKQBjK0/m3u8
+https://sports.abdullahroman276.workers.dev/play/CoApKkDJQ_E_0K_M2qzdm0gxBCMR2xc9cktqAB_0j0c/m3u8
 
 #EXTINF:-1 group-title="News"tvg-logo="https://iili.io/C5XhmFV.png", NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
@@ -53,9 +53,11 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-vid
 #EXTINF:-1 group-title="News"tvg-logo="https://iili.io/C5X9K1j.md.png", Ekattor TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=2202800.m3u8
 
-
 #EXTINF:-1 group-title="News"tvg-logo="https://iili.io/C74OoNa.th.png", Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=442000.m3u8
+
+#EXTINF:-1 group-title="News"tvg-logo="https://iili.io/CcdYICN.pn", Duronto TV
+https://sports.abdullahroman276.workers.dev/play/CoApKkDJQ_E_0K_M2qzdm8co9L36VZCZ16fcQ-bFo2U/m3u8
 
 #EXTINF:-1 group-title="News"tvg-logo="", Test
 https://sports.abdullahroman276.workers.dev/play/CoApKkDJQ_E_0K_M2qzdmxS4cmI0aXpD41taDSwbHAc/m3u8
