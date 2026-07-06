@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="", Default Player Server
 #https://sports.abdullahroman276.workers.dev/play/CoApKkDJQ_E_0K_M2qzdmxS4cmI0aXpD41taDSwbHAc/m3u8
-https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
+https://flussonic.deltainfonet.com/02_Tsports_HD/index.m3u8https
 https://sports.abdullahroman276.workers.dev/play/CoApKkDJQ_E_0K_M2qzdm0l7PlkArANmLmqevVPf5xg/m3u8
 https://sports.abdullahroman276.workers.dev/play/CoApKkDJQ_E_0K_M2qzdmwh5mVzElDOplpqFTKNiFTU/m3u8
 https://node8.no-612.workers.dev/resource/MjQwNTk5MDY0MTY5OjI0MDU5OTA2NDE2OToxMjAzNTpsaXZl/index
@@ -44,7 +44,7 @@ https://sports.abdullahroman276.workers.dev/play/CoApKkDJQ_E_0K_M2qzdm95EytuR6q8
 https://sports.abdullahroman276.workers.dev/play/CoApKkDJQ_E_0K_M2qzdm-yvegST54LfvKesLVBhOEU/m3u8
 
 #EXTINF:-1 group-title="News"tvg-logo="https://iili.io/C5XhmFV.png", NTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716.m3u8
 
 
 #EXTINF:-1 group-title="News"tvg-logo="https://iili.io/C5XT7et.png", Jago News24
@@ -69,6 +69,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="News"tvg-logo="", Test 1
 https://sports.abdullahroman276.workers.dev/play/CoApKkDJQ_E_0K_M2qzdmxS4cmI0aXpD41taDSwbHAc/m3u8
 
-#EXTINF:-1 group-title="News"tvg-logo="", Test 1
-https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+#EXTINF:-1 group-title="News"tvg-logo="", Test 2
+https://dis.arroman298.workers.dev//DISCOVERY-BANGLA/index.m3u8
 
