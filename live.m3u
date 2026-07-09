@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="", Default Player Server 1
-https://andro.evrenesoglu57.click/checklist/androstreamliveexn.m3u8
+https://proxy.futuredesh.com/api/proxy?url=http://114.130.57.233:8080/TsportHD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 
 #EXTINF:-1 tvg-logo="", Default Player Server 2
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
