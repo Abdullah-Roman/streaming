@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="", Default Player Server 1
-https://sports.abdullahroman276.workers.dev/play/CoApKkDJQ_E_0K_M2qzdm5x8MSxHV7Y_psOmm8MlSTQ/m3u8
+https://content-aapm1.uplynk.com/2bc03997af1642b198695e9a0ee565da/f.m3u8?pbs=9be58739c6bd4d0bb3da671a12f2c1b2
 
 #EXTINF:-1 tvg-logo="", Default Player Server 2
-https://sports.abdullahroman276.workers.dev/play/CoApKkDJQ_E_0K_M2qzdmxS4cmI0aXpD41taDSwbHAc/m3u8
+https://sports.abdullahroman276.workers.dev/play/CoApKkDJQ_E_0K_M2qzdm5x8MSxHV7Y_psOmm8MlSTQ/m3u8
 
 #EXTINF:-1 tvg-logo="", Default Player Server 3
 https://node8.no-612.workers.dev/resource/MjQwNTk5MDY0MTY5OjI0MDU5OTA2NDE2OToxMjAzNTpsaXZl/index
