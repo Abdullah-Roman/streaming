@@ -4,7 +4,7 @@
 https://proxy.futuredesh.com/api/proxy?url=http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
 
 #EXTINF:-1 tvg-logo="", Default Player Server 2
-https://trophystream.com/cors-proxy/https/deviantart.lovetier.bz/TSN4/tracks-v1a1/mono.m3u8?token=VFNONHxub19jaGVja19pcHwxNzgzNzE1ODEy.646b4a3ae5fac259db43ea7c6c0f3a55f4d164b46ac8c677ce0a8d11091e2284
+https://cp11.adabmedia.com/hls2/sport.m3u8
 
 #EXTINF:-1 tvg-logo="", Default Player Server 3
 https://proxy.futuredesh.com/api/proxy?url=http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
