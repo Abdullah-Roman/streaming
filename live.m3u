@@ -2,7 +2,6 @@
 
 #EXTINF:-1 tvg-logo="", Default Player Server 1
 https://bdixserver.tvhunter.top/ant1009/tracks-v1a1/mono.m3u8
-#https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/kancdn-live/live/kan11/live.livx?playlist.mpd
 
 #EXTINF:-1 tvg-logo="", Default Player Server 2
 https://sports.abdullahroman276.workers.dev/play/CoApKkDJQ_E_0K_M2qzdm5x8MSxHV7Y_psOmm8MlSTQ/m3u8
