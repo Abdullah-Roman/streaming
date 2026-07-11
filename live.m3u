@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="", Default Player Server 1
-https://dalvikcmpsr.ahmedtahsindipto.workers.dev/r/https%3A%2F%2Ffifa-stream-01.bioscopelive.com%2Fout%2Fv1%2F60e7608404004b1186261497b404630b%2Findex_1.m3u8
+https://sports.abdullahroman276.workers.dev/play/CoApKkDJQ_E_0K_M2qzdm0l7PlkArANmLmqevVPf5xg/m3u8
 
 #EXTINF:-1 tvg-logo="", Default Player Server 2
 https://proxy.futuredesh.com/api/proxy?url=http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
