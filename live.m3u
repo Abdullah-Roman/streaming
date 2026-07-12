@@ -64,7 +64,7 @@ https://live.sanandatelevision.in/sananda/index.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/ClqMnb1.th.jpg", Discovery
-https://stream.ottplus.bd/live/discovery_sd_abr/live/discovery_sd/chunks.m3u8
+https://s2.itcnbd.live/server-2/stream/discovery_hd.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/ClcgnwX.th.jpg", Bangla Natok
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
