@@ -1,18 +1,23 @@
 #EXTM3U
 
+# --- Default Server ---
 #EXTINF:-1 tvg-logo="", Default Player Server 1
 https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="", Default Player Server 1
 #https://proxy.abdullahroman276.workers.dev/?url=http://103.158.133.53:8080/viralclub/index.m3u8
 
-#EXTINF:-1 tvg-logo="", Default Player Server 2
+#EXTINF:-1 tvg-logo="", Default Player Server 1
 https://s1.itcnbd.live/unite-8-sports-2-hd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="", Default Player Server 3
+#EXTINF:-1 tvg-logo="", Default Player Server 1
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="", Default Player Server 4
+#EXTINF:-1 tvg-logo="", Default Player Server 1
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09OTI.m3u8
 
+
+# --- Fifa Live ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", PTV Sports 
 https://sports.abdullahroman276.workers.dev/play/CoApKkDJQ_E_0K_M2qzdmwh5mVzElDOplpqFTKNiFTU/m3u8
 
