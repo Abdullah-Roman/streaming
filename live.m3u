@@ -29,8 +29,8 @@ https://trophystream.com/cors-proxy/https/deviantart.lovetier.bz/TSN3/tracks-v1a
 https://node8.no-612.workers.dev/resource/MjQwNTk5MDY0MTY5OjI0MDU5OTA2NDE2OToxMjAzNTpsaXZl/index
 
 # --- Fifa WC Live 6 (1 Server) ---
-#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Fifa WC Live 6
-https://sports.abdullahroman276.workers.dev/play/CoApKkDJQ_E_0K_M2qzdm3BAY5aEC8tzd5kv1vayk3I/m3u8
+#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", CCTV
+https://live01-cn-ali.bvjicd.com/live/79361366.m3u8?nocache=1783801575194
 
 # --- Fifa WC Live 7 (1 Server) ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Fifa WC Live 7
@@ -47,6 +47,7 @@ https://andro.evrenesoglu57.click/checklist/androstreamliveexn6.m3u8
 
 # --- Ban Vs Zim (1 Server) ---
 #EXTINF:-1 group-title="Cricket" tvg-logo="https://iili.io/ClmZfwX.th.jpg", Ban Vs Zim
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd_audio_3_0_20701844.mp4?m=1742278285
 
 
