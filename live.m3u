@@ -1,6 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="", Default Player Server 1
+https://proxy.abdullahroman276.workers.dev/viralclub/index.m3u8
 https://ultraprox.johirxofficial.workers.dev/viralclub/index.m3u8
 https://ultraprox.johirxofficial.workers.dev/viralclub/video.m3u8
 https://proxy.abdullahroman276.workers.dev/viralclub/video.m3u8
