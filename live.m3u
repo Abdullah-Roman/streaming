@@ -62,7 +62,9 @@ https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09OTI.m3u8
 
 # --- NTV (1 Server) ---
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/C5XhmFV.png", NTV
-https://amadertv.top:8880/play/CoApKkDJQ_E_0K_M2qzdm0rPiWFwXLiMzSE7GE0Eeyg/m3u8
+https://viralg.abdullahroman276.workers.dev//play/CoApKkDJQ_E_0K_M2qzdm0rPiWFwXLiMzSE7GE0Eeyg/m3u8
+
+#https://amadertv.top:8880/play/CoApKkDJQ_E_0K_M2qzdm0rPiWFwXLiMzSE7GE0Eeyg/m3u8
 
 # --- Jago News24 (1 Server) ---
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/C5XT7et.png", Jago News24
