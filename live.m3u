@@ -5,10 +5,16 @@
 # ==========================================
 # ---     Default Server 1 ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", T Sports
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1783050323-0-0-15869de1b8eb3a7b9881bdaf7918dd40
+https://ts.arroman99.workers.dev/playlist.m3u8
 
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", T Sports
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1783050323-0-0-15869de1b8eb3a7b9881bdaf7918dd40
+https://fsone.arroman99.workers.dev/playlist.m3u8
+
+#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", T Sports
+https://fstwo.arroman99.workers.dev/playlist.m3u8
+
+#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", T Sports
+https://fsthree.arroman99.workers.dev/playlist.m3u8
 
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", T Sports
 https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1783050323-0-0-15869de1b8eb3a7b9881bdaf7918dd40
