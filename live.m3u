@@ -6,7 +6,8 @@
 
 # --- T Sports (2 Servers) ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", T Sports
-https://proxy.abdullahroman276.workers.dev//?url=http://103.158.133.53:8080/viralclub/index.m3u8
+https://dg.abdullahroman276.workers.dev/?url=http%3A%2F%2F103.158.133.53%3A8080%2Fviralclub%2Findex.m3u8
+#https://proxy.abdullahroman276.workers.dev//?url=http://103.158.133.53:8080/viralclub/index.m3u8
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", T Sports
 https://dg.abdullahroman276.workers.dev/play/CoApKkDJQ_E_0K_M2qzdm6ZTstgvm4Fcxnx-ufgRx74/m3u8
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", T Sports
