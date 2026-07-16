@@ -64,10 +64,17 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/9jiie2ephv/out/v1/9e89
 # --- Somoy TV (2 Servers) ---
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Somoy TV
 https://viralg.abdullahroman276.workers.dev//play/CoApKkDJQ_E_0K_M2qzdm0rPiWFwXLiMzSE7GE0Eeyg/playlist.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=2202800.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://iili.io/CcRcJJS.th.jpg", News 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=2202800.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://iili.io/CcRcJJS.th.jpg", News 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=2202800.m3u8
 
 # --- NTV (1 Server) ---
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/C5XhmFV.png", NTV
-https://amadertv.top:8880/play/CoApKkDJQ_E_0K_M2qzdm0rPiWFwXLiMzSE7GE0Eeyg/m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=2202800.m3u8
 
 # --- Jago News24 (1 Server) ---
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/C5XT7et.png", Jago News24
@@ -75,7 +82,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 # --- Independent TV (1 Server) ---
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/C76RVR9.png", Independent TV
-https://sports.abdullahroman276.workers.dev/play/xADajH1lcUezCzEudyfF1pDgviwPTXmNkiTU_SicOz_Pg3UenQQjA4W9wjhvYD5GbkurmNAjHEGtwpQepNHbRfdTzd1a33EQlHMzch64K3VEDK3UKtl4yV-ITjPCQKe30vsIufO6HxWMfO8/m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=1181200.m3u8
 
 # --- Ekattor TV (1 Server) ---
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/C5X9K1j.md.png", Ekattor TV
@@ -83,7 +90,7 @@ https://sports.abdullahroman276.workers.dev/play/CoApKkDJQ_E_0K_M2qzdm0hyGN27FZe
 
 # --- Jamuna TV (1 Server) ---
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/C74OoNa.th.png", Jamuna TV
-https://ts.arroman99.workers.dev/playlist.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=2202800.m3u8
 
 
 # --- Duronto TV (1 Server) ---
@@ -116,7 +123,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 
 # --- Discovery (1 Server) ---
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/ClqMnb1.th.jpg", Discovery
-https://s2.itcnbd.live/server-2/stream/discovery_hd.m3u8
+https://livecdn.live247stream.com/discoverpakistan/web/discoverpakistan/q_480p/chunks.m3u8?nimblesessionid=119812613
 
 # --- Bangla Natok (1 Server) ---
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/ClcgnwX.th.jpg", Bangla Natok
