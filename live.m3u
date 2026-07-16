@@ -63,6 +63,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-vid
 
 # --- Jago News24 (1 Server) ---
 #EXTINF:-1 group-title="News" tvg-logo="httpgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/jagonews24.stream/playlist.m3u8
+https://amadertv.top:8880/play/CoApKkDJQ_E_0K_M2qzdm9u70PYhOj_bqUJh94BJxuw/ts
 
 # --- Independent TV (1 Server) ---
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/C76RVR9.png", Independent TV
