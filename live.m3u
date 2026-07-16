@@ -24,12 +24,6 @@ https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1783050323-0-0-1586
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Fifa WC Live 7
 https://live01-cn-ali.bvjicd.com/live/31756019.m3u8
 
-# --- Fifa WC Live 8 (1 Server) ---
-#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Fifa WC Live 8
-https://ba.bdix.xyz:8880/play/txdeNYxHo_vOVO2g2_ujB2WFicJGaukBOjpqhtb1iMujWUYw2iTfyO-VSTesOPg-/ts
-
-
-
 # ==========================================
 # 🏏 CRICKET TV
 # ==========================================
@@ -52,10 +46,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-vid
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/C5XhmFV.png", NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=2202800.m3u8
 
-# --- Jago News24 (1 Server) ---
-#EXTINF:-1 group-title="News" tvg-logo="httpgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/jagonews24.stream/playlist.m3u8
-https://amadertv.top:8880/play/CoApKkDJQ_E_0K_M2qzdm9u70PYhOj_bqUJh94BJxuw/ts
-
 # --- Independent TV (1 Server) ---
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/C76RVR9.png", Independent TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=1181200.m3u8
@@ -68,6 +58,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-vid
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/C74OoNa.th.png", Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=2202800.m3u8
 
+# --- Jamuna TV (1 Server) ---
+#EXTINF:-1 group-title="News" tvg-logo="https://iili.io/C74OoNa.th.png", Desi Tv TV
+https://tv.hrdvy.dpdns.org
 
 # --- Duronto TV (1 Server) ---
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/CcdYICN.th.png", Duronto TV
@@ -75,10 +68,6 @@ https://duronto.arroman99.workers.dev/stream.ts
 # --- Sony Ath (1 Server) ---
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/CEdShYv.th.png", Sony Ath
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NDQ.m3u8
-
-# --- ZEE Bangla (1 Server) ---
-#EXTINF:-1 group-title="News" tvg-logo="https://iili.io/CEtU2af.th.jpg", ZEE Bangla
-https://dg..workers.dev/Zee_Bangla/tracks-v1a1/mono.m3u8
 
 # --- ZEE Bangla (2 Server) ---
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/CEtU2af.th.jpg", ZEE Bangla
