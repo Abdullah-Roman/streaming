@@ -19,7 +19,7 @@ https://s1.itcnbd.live/unite-8-sports-2-hd/tracks-v1a1/mono.m3u8
 
 # --- Bein 1 (1 Server) ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Bein Sports 1
-https://amadertv.top:8880/play/txdeNYxHo_vOVO2g2_ujBy97eWd65iKQy5YAhzvouPrxfJV658mt3Qho4mYUkY91/ts
+
 
 # --- Bein 5 (1 Server) ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Bein Sports 5
@@ -27,7 +27,7 @@ https://node8.no-612.workers.dev/resource/MjQwNTk5MDY0MTY5OjI0MDU5OTA2NDE2OToxMj
 
 # --- PTV Sports (1 Server) ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", CCTV
-https://amadertv.top:8880/play/CoApKkDJQ_E_0K_M2qzdm3BAY5aEC8tzd5kv1vayk3I/m3u8
+
 
 # --- Fifa WC Live 7 (1 Server) ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Fifa WC Live 7
@@ -80,8 +80,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-vid
 
 # --- Duronto TV (1 Server) ---
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/CcdYICN.th.png", Duronto TV
-https://amadertv.top:8880/play/txdeNYxHo_vOVO2g2_ujBy2ajmWkM60efm9fozRcymUQSI9R5yqLdbDj8xLmHRFi/ts
-
+https://duronto.arroman99.workers.dev/stream.ts
 # --- Sony Ath (1 Server) ---
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/CEdShYv.th.png", Sony Ath
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NDQ.m3u8
