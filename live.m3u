@@ -6,6 +6,7 @@
 # ---     Default Server 1 ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", T Sports
 https://ts.arroman99.workers.dev/playlist.m3u8
+https://bdixserver.tvhunter.top/ant1009/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", T Sports
 https://fsone.arroman99.workers.dev/play/CoApKkDJQ_E_0K_M2qzdmyKLBs2207KMaLqAfLTu0o4/m3u8
@@ -86,7 +87,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-vid
 
 # --- Ekattor TV (1 Server) ---
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/C5X9K1j.md.png", Ekattor TV
-https://sports.abdullahroman276.workers.dev/play/CoApKkDJQ_E_0K_M2qzdm0hyGN27FZeGqvPLk9k0jJE/m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=2202800.m3u8
 
 # --- Jamuna TV (1 Server) ---
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/C74OoNa.th.png", Jamuna TV
