@@ -3,31 +3,22 @@
 # ==========================================
 # 🏆 FIFA LIVE TV (SPORTS)
 # ==========================================
-# ---     Default Server 1 ---
+
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", T Sports
 https://ts.arroman99.workers.dev/playlist.m3u8
 https://bdixserver.tvhunter.top/ant1009/tracks-v1a1/mono.m3u8
 
-# ---     Default Server 2 ---
-# --- Soco Live (1 Server) ---
-#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Soco Live
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1783050323-0-0-15869de1b8eb3a7b9881bdaf7918dd40
-
 # --- Unite 8 Sports (1 Server) ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CRyyGX2.jpg", Unite 8 Sports
-https://s1.itcnbd.live/unite-8-sports-2-hd/tracks-v1a1/mono.m3u8
-
-# --- Bein 1 (1 Server) ---
-#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Bein Sports 1
-
+fsone.arroman99.workers.dev/stream.ts
 
 # --- Bein 5 (1 Server) ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Bein Sports 5
-https://node8.no-612.workers.dev/resource/MjQwNTk5MDY0MTY5OjI0MDU5OTA2NDE2OToxMjAzNTpsaXZl/index
+bein5.arroman99.workers.dev/stream.ts
 
-# --- PTV Sports (1 Server) ---
-#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", CCTV
-
+# --- Soco Live (1 Server) ---
+#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Soco Live
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1783050323-0-0-15869de1b8eb3a7b9881bdaf7918dd40
 
 # --- Fifa WC Live 7 (1 Server) ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Fifa WC Live 7
@@ -91,15 +82,11 @@ https://dg..workers.dev/Zee_Bangla/tracks-v1a1/mono.m3u8
 
 # --- ZEE Bangla (2 Server) ---
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/CEtU2af.th.jpg", ZEE Bangla
-https://sports.abdullahroman276.workers.dev/play/CoApKkDJQ_E_0K_M2qzdmxOGxA7LAPgRPxp9B5I--OY/m3u8
+https://zeebangla.arroman99.workers.dev/steam.ts
 
 # --- Star Jalsa (1 Server) ---
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/CE2C1G2.th.jpg", Star Jalsa
-https://fsone.arroman99.workers.dev/stream.ts
-
-# --- Star Jalsa (2 Server) ---
-#EXTINF:-1 group-title="News" tvg-logo="https://iili.io/CE2C1G2.th.jpg", Star Jalsa
-https://amadertv.top:8880/play/CoApKkDJQ_E_0K_M2qzdm9u70PYhOj_bqUJh94BJxuw/ts
+https://starjalsa.arroman99.workers.dev/stream.ts
 
 # --- Gopal Var (1 Server) ---
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/Ca2tYKP.jpg", Gopal Var
