@@ -15,9 +15,8 @@ https://btv.arroman99.workers.dev/playlist.m3u8
 https://amadertv.top:8880/play/txdeNYxHo_vOVO2g2_ujBy97eWd65iKQy5YAhzvouPrxfJV658mt3Qho4mYUkY91/ts
 
 # --- Bein 5 (1 Server) ---
-#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Bein Sports 5
-https://node8.no-612.workers.dev/resource/CoApKkDJQ_E_0K_M2qzdmxS4cmI0aXpD41taDSwbHAc/index
-
+#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Bein Sports 1
+https://biostartvworld.pages.dev/api/united-sports.m3u8?key=aHR0cHM6Ly90di5iZGl4YmQubmV0L2FwaS9wcm94eS9zdHJlYW0ubTN1OD91cmw9aHR0cDovLzEwMy4xNjUuOTMuMzE6ODA5NS91bnQtcy90cmFja3MtdjFhMS9tb25vLm0zdTh8fHx8fHx7fQ
 # --- Soco Live (1 Server) ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Soco Live
 https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783284383-0-0-ba541e77b9330eab42075af6aa5029e4
@@ -66,18 +65,19 @@ https://tv.hrdvy.dpdns.org
 
 # --- Duronto TV (1 Server) ---
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/CcdYICN.th.png", Duronto TV
-https://duronto.arroman99.workers.dev/stream.ts
+https://amadertv.top:8880/play/txdeNYxHo_vOVO2g2_ujB6Z4Mj1Ef3PJecLrW0WrYzsqLSOZuynwladNsatPtCoU/ts
+
 # --- Sony Ath (1 Server) ---
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/CEdShYv.th.png", Sony Ath
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NDQ.m3u8
 
 # --- ZEE Bangla (2 Server) ---
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/CEtU2af.th.jpg", ZEE Bangla
-https://zeebangla.arroman99.workers.dev/steam.ts
+https://amadertv.top:8880/play/txdeNYxHo_vOVO2g2_ujB71NYGiHaOQRx1T_oHXClhY/ts
 
 # --- Star Jalsa (1 Server) ---
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/CE2C1G2.th.jpg", Star Jalsa
-https://starjalsa.arroman99.workers.dev/stream.ts
+https://amadertv.top:8880/play/txdeNYxHo_vOVO2g2_ujB1fHAERjiJ1gJXYLWbzVrITZeQzEHAV5oQOQ0wnUO7wc/ts
 
 # --- Gopal Var (1 Server) ---
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/Ca2tYKP.jpg", Gopal Var
@@ -85,7 +85,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 
 # --- Discovery (1 Server) ---
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/ClqMnb1.th.jpg", Discovery
-https://livecdn.live247stream.com/discoverpakistan/web/discoverpakistan/q_480p/chunks.m3u8?nimblesessionid=119812613
+https://amadertv.top:8880/play/txdeNYxHo_vOVO2g2_ujBymk24-bobPGNXQnqN9GkN0_zU4YSvOkXZypynimv-ar/ts
 
 # --- Bangla Natok (1 Server) ---
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/ClcgnwX.th.jpg", Bangla Natok
