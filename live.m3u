@@ -102,3 +102,6 @@ https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NDQ.m3u8
 # --- Gopal Var ---
 #EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/Ca2tYKP.jpg", Gopal Var
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/Ca2tYKP.jpg", test
+https://dg.abdullahroman276.workers.dev/live/77963977/11184526/159164.ts
