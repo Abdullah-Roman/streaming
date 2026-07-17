@@ -1,12 +1,13 @@
 #EXTM3U
-
 # ==========================================
 # 🏆 FIFA LIVE TV (SPORTS)
 # ==========================================
 
+# --- T Sports ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", T Sports
 https://ts.arroman99.workers.dev/playlist.m3u8
 
+# --- BTV HD ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/Che0xwP.th.jpg", BTV HD
 https://btv.arroman99.workers.dev/playlist.m3u8
 
@@ -14,9 +15,10 @@ https://btv.arroman99.workers.dev/playlist.m3u8
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CRyyGX2.jpg", Unite 8 Sports
 https://amadertv.top:8880/play/txdeNYxHo_vOVO2g2_ujBy97eWd65iKQy5YAhzvouPrxfJV658mt3Qho4mYUkY91/ts
 
-# --- Bein 5 (1 Server) ---
+# --- Bein Sports 1 (1 Server) ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Bein Sports 1
 https://biostartvworld.pages.dev/api/united-sports.m3u8?key=aHR0cHM6Ly90di5iZGl4YmQubmV0L2FwaS9wcm94eS9zdHJlYW0ubTN1OD91cmw9aHR0cDovLzEwMy4xNjUuOTMuMzE6ODA5NS91bnQtcy90cmFja3MtdjFhMS9tb25vLm0zdTh8fHx8fHx7fQ
+
 # --- Soco Live (1 Server) ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Soco Live
 https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783284383-0-0-ba541e77b9330eab42075af6aa5029e4
@@ -31,20 +33,22 @@ https://tfxl1gwh1hcjigezdncb3fahdrmmcpf5gkce.100ycdn.com/live1.streambylivepulse
 
 # --- Ban Vs Zim (1 Server) ---
 #EXTINF:-1 group-title="Cricket" tvg-logo="https://iili.io/ClmZfwX.th.jpg", Ban Vs Zim
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/9jiie2ephv/out/v1/9e895e2c1c894a75ac6d21a4deddd5d3/cenc.mpd# ==========================================
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/9jiie2ephv/out/v1/9e895e2c1c894a75ac6d21a4deddd5d3/cenc.mpd
 
+# ==========================================
 # 📺 BD TV
 # ==========================================
 
-# --- Somoy TV (2 Servers) ---
+# --- Somoy TV (1 Server) ---
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Somoy TV
 https://s1.itcnbd.live/somoy/tracks-v1a1/mono.m3u8
 
+# --- News 24 (1 Server) ---
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/CcRcJJS.th.jpg", News 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=2202800.m3u8
 
 # --- NTV (1 Server) ---
-#EXTINF:-1 group-title="News" tvg-logo="https://iili.io/C5XhmFV.png", NTV
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/C5XhmFV.png", NTV
 https://tv.bdixbd.net/api/proxy/stream.m3u8?url=https%3A%2F%2Fowrcovcrpy.gpcdn.net%2Fbpk-tv%2F1716%2Foutput%2F1716-audio_113462_eng%3D113200-video%3D1998800.m3u8
 
 # --- Independent TV (1 Server) ---
@@ -59,43 +63,42 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-vid
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/C74OoNa.th.png", Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=2202800.m3u8
 
-# --- Jamuna TV (1 Server) ---
-#EXTINF:-1 group-title="News" tvg-logo="https://iili.io/C74OoNa.th.png", Desi Tv TV
+# --- Desi Tv TV (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/C74OoNa.th.png", Desi Tv TV
 https://tv.hrdvy.dpdns.org
 
 # --- Duronto TV (1 Server) ---
-#EXTINF:-1 group-title="News" tvg-logo="https://iili.io/CcdYICN.th.png", Duronto TV
+#EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/CcdYICN.th.png", Duronto TV
 https://amadertv.top:8880/play/txdeNYxHo_vOVO2g2_ujB6Z4Mj1Ef3PJecLrW0WrYzsqLSOZuynwladNsatPtCoU/ts
 
-# --- Sony Ath (1 Server) ---
-#EXTINF:-1 group-title="News" tvg-logo="https://iili.io/CEdShYv.th.png", Sony Ath
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NDQ.m3u8
-
-# --- ZEE Bangla (2 Server) ---
-#EXTINF:-1 group-title="News" tvg-logo="https://iili.io/CEtU2af.th.jpg", ZEE Bangla
-https://amadertv.top:8880/play/txdeNYxHo_vOVO2g2_ujB71NYGiHaOQRx1T_oHXClhY/ts
-
-# --- Star Jalsa (1 Server) ---
-#EXTINF:-1 group-title="News" tvg-logo="https://iili.io/CE2C1G2.th.jpg", Star Jalsa
-https://dg.abdullahroman276.workers.dev/?url=http%3A%2F%2Fbosstv.click%3A8080%2FM3VWK0Z6UlFBNEZlR2dhS3FwTFVHWHJ0eUpvSVF4Nk9IRGIwVGMxblZvMUc4RlpxOGhIQWJFY1RRZTBONW53WA
-
-#EXTINF:-1 group-title="News" tvg-logo="https://iili.io/Ca2tYKP.jpg", Gopal Var
-https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
-
 # --- Discovery (1 Server) ---
-#EXTINF:-1 group-title="News" tvg-logo="https://iili.io/ClqMnb1.th.jpg", Discovery
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://iili.io/ClqMnb1.th.jpg", Discovery
 https://amadertv.top:8880/play/txdeNYxHo_vOVO2g2_ujBymk24-bobPGNXQnqN9GkN0_zU4YSvOkXZypynimv-ar/ts
 
 # --- Bangla Natok (1 Server) ---
-#EXTINF:-1 group-title="News" tvg-logo="https://iili.io/ClcgnwX.th.jpg", Bangla Natok
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/ClcgnwX.th.jpg", Bangla Natok
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+
+# ==========================================
 # 📺 INDIAN BANGLA TV
 # ==========================================
 
+# --- ZEE Bangla (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CEtU2af.th.jpg", ZEE Bangla
+https://amadertv.top:8880/play/txdeNYxHo_vOVO2g2_ujB71NYGiHaOQRx1T_oHXClhY/ts
+
+# --- Star Jalsa (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CE2C1G2.th.jpg", Star Jalsa
+https://amadertv.top:8880/play/txdeNYxHo_vOVO2g2_ujBxY_jfk9Ji_mdJfFdhqJ4vSRe6i8pkFOhmEQs1Sgb4nL/ts
+
+# --- Sony Ath (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CEdShYv.th.png", Sony Ath
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NDQ.m3u8
+
 # ==========================================
-# 🍿 TRENDING MOVIES
+# 📺 CARTOON TV
 # ==========================================
 
-# --- Bonolota Express (1 Server) ---
-#EXTINF:-1 group-title="movies" tvg-logo="https://iili.io/C1JfkNa.th.webp", Bonolota Express
-https://sports.abdullahroman276.workers.dev/play/8qrAVB_GwZk4qzLAOlzAryNjs4JQRfZGivpe3ZPyKUnuBYphw5P2rhqR_qBKAnGq/m3u8
+# --- Gopal Var ---
+#EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/Ca2tYKP.jpg", Gopal Var
+https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
