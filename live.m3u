@@ -6,7 +6,9 @@
 
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", T Sports
 https://ts.arroman99.workers.dev/playlist.m3u8
-https://bdixserver.tvhunter.top/ant1009/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/Che0xwP.th.jpg", BTV HD
+https://btv.arroman99.workers.dev/playlist.m3u8
 
 # --- Unite 8 Sports (1 Server) ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CRyyGX2.jpg", Unite 8 Sports
