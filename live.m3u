@@ -16,15 +16,11 @@ fsone.arroman99.workers.dev/stream.ts
 
 # --- Bein 5 (1 Server) ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Bein Sports 5
-bein5.arroman99.workers.dev/stream.ts
+https://node8.no-612.workers.dev/resource/CoApKkDJQ_E_0K_M2qzdmxS4cmI0aXpD41taDSwbHAc/index
 
 # --- Soco Live (1 Server) ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Soco Live
 https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1783050323-0-0-15869de1b8eb3a7b9881bdaf7918dd40
-
-# --- Fifa WC Live 7 (1 Server) ---
-#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Fifa WC Live 7
-https://live01-cn-ali.bvjicd.com/live/31756019.m3u8
 
 # ==========================================
 # 🏏 CRICKET TV
@@ -90,7 +86,6 @@ https://livecdn.live247stream.com/discoverpakistan/web/discoverpakistan/q_480p/c
 # --- Bangla Natok (1 Server) ---
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/ClcgnwX.th.jpg", Bangla Natok
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
-
 
 # ==========================================
 # 🍿 TRENDING MOVIES
