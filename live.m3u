@@ -33,7 +33,7 @@ https://tfxl1gwh1hcjigezdncb3fahdrmmcpf5gkce.100ycdn.com/live1.streambylivepulse
 #EXTINF:-1 group-title="Cricket" tvg-logo="https://iili.io/ClmZfwX.th.jpg", Ban Vs Zim
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/9jiie2ephv/out/v1/9e895e2c1c894a75ac6d21a4deddd5d3/cenc.mpd# ==========================================
 
-# 📺 NEWS & ENTERTAINMENT TV
+# 📺 BD TV
 # ==========================================
 
 # --- Somoy TV (2 Servers) ---
@@ -77,7 +77,7 @@ https://amadertv.top:8880/play/txdeNYxHo_vOVO2g2_ujB71NYGiHaOQRx1T_oHXClhY/ts
 
 # --- Star Jalsa (1 Server) ---
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/CE2C1G2.th.jpg", Star Jalsa
-https://dg.abdullahroman276.workers.dev/?url=http%3A%2F%2Fbosstv.click%3A8080%2FM3VWK0Z6UlFBNEZlR2dhS3FwTFVHWHJ0eUpvSVF4Nk9IRGIwVGMxblZvMUc4RlpxOGhIQWJFY1RRZTBONW53WA# --- Gopal Var (1 Server) ---
+https://dg.abdullahroman276.workers.dev/?url=http%3A%2F%2Fbosstv.click%3A8080%2FM3VWK0Z6UlFBNEZlR2dhS3FwTFVHWHJ0eUpvSVF4Nk9IRGIwVGMxblZvMUc4RlpxOGhIQWJFY1RRZTBONW53WA
 
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/Ca2tYKP.jpg", Gopal Var
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
@@ -89,6 +89,8 @@ https://amadertv.top:8880/play/txdeNYxHo_vOVO2g2_ujBymk24-bobPGNXQnqN9GkN0_zU4YS
 # --- Bangla Natok (1 Server) ---
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/ClcgnwX.th.jpg", Bangla Natok
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+# 📺 INDIAN BANGLA TV
+# ==========================================
 
 # ==========================================
 # 🍿 TRENDING MOVIES
