@@ -3,17 +3,16 @@
 # 🏆 FIFA LIVE TV (SPORTS)
 # ==========================================
 
+# --- T Sports ---
+#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
+https://ts.arroman99.workers.dev/playlist.m3u8
+
 # --- BTV HD ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/Che0xwP.th.jpg", BTV HD
 https://btv.arroman99.workers.dev/playlist.m3u8
 # --- 26 Fox ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Fox 26
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://stream.mcquack.net/72/index.m3u8
-
-# --- T Sports ---
-#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
-https://ts.arroman99.workers.dev/playlist.m3u8
-
 
 # --- Xoilac Live (1 Server) ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Xoilac
@@ -22,10 +21,6 @@ https://tfxl1gwh1hcjigezdncb3fahdrmmcpf5gkce.100ycdn.com/live1.streambylivepulse
 # --- Unite 8 Sports (1 Server) ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CRyyGX2.jpg", Mahsun Sports
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
-
-# --- Soco Live (1 Server) ---
-#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Soco Live
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=f3959a2def663a37de22d2129132fa14&txTime=6a5bf64d
 
 # --- Bein Sports 1 (1 Server) ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Beign Sports
