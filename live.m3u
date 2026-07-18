@@ -44,8 +44,12 @@ https://tfxl1gwh1hcjigezdncb3fahdrmmcpf5gkce.100ycdn.com/live1.streambylivepulse
 # ==========================================
 
 # --- Ban Vs Zim (1 Server) ---
-#EXTINF:-1 group-title="Cricket" tvg-logo="https://iili.io/ClmZfwX.th.jpg", Ban Vs Zim
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/9jiie2ephv/out/v1/9e895e2c1c894a75ac6d21a4deddd5d3/cenc.mpd
+#EXTINF:-1 group-title="Cricket" tvg-logo="https://iili.io/ClmZfwX.th.jpg", Willow Sports
+https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://27.124.71.27/Willow_Extra/index.m3u8
+
+# --- Ban Vs Zim (1 Server) ---
+#EXTINF:-1 group-title="Cricket" tvg-logo="https://iili.io/ClmZfwX.th.jpg", Star Sports 1
+https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://103.151.60.204:881/StarSports1/video.m3u8
 
 # ==========================================
 # 📺 BD TV
@@ -70,6 +74,10 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728-audio_113582_eng=113200-vid
 # --- NTV (1 Server) ---
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/C5XhmFV.png", NTV
 https://tv.bdixbd.net/api/proxy/stream.m3u8?url=https%3A%2F%2Fowrcovcrpy.gpcdn.net%2Fbpk-tv%2F1716%2Foutput%2F1716-audio_113462_eng%3D113200-video%3D1998800.m3u8
+
+# --- Independent TV (1 Server) ---
+#EXTINF:-1 group-title="News" tvg-logo="https://iili.io/C76RVR9.png", GTV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8
 
 # --- Independent TV (1 Server) ---
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/C76RVR9.png", Independent TV
