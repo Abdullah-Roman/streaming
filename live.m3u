@@ -12,12 +12,12 @@ https://ts.arroman99.workers.dev/playlist.m3u8
 https://btv.arroman99.workers.dev/playlist.m3u8
 
 # --- Unite 8 Sports (1 Server) ---
-#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CRyyGX2.jpg", Unite 8 Sports
+#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CRyyGX2.jpg", Caze TV
 https://amadertv.top:8880/play/txdeNYxHo_vOVO2g2_ujBxy9MMk8-sspAer6fG0n7iFCkbhekx5kzeScZUFTSW6K/ts
 
 # --- Bein Sports 1 (1 Server) ---
-#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Bein Sports 1
-https://biostartvworld.pages.dev/api/united-sports.m3u8?key=aHR0cHM6Ly90di5iZGl4YmQubmV0L2FwaS9wcm94eS9zdHJlYW0ubTN1OD91cmw9aHR0cDovLzEwMy4xNjUuOTMuMzE6ODA5NS91bnQtcy90cmFja3MtdjFhMS9tb25vLm0zdTh8fHx8fHx7fQ
+#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Unite8 Sports 2
+https://amadertv.top:8880/play/txdeNYxHo_vOVO2g2_ujBy97eWd65iKQy5YAhzvouPrxfJV658mt3Qho4mYUkY91/ts
 
 # --- Soco Live (1 Server) ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Soco Live
@@ -107,4 +107,4 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 https://dg.abdullahroman276.workers.dev/?url=http://bosstv.click:8080/live/77963977/11184526/159164.ts
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/Ca2tYKP.jpg", test 2
-https://tubextra.com/proxy.php?url=http://bosstv.click:8080/live/77963977/11184526/159164.ts
+https://dg.abdullahroman276.workers.dev/play/live.php?mac=00:1A:79:8F:BA:8A&stream=155770&extension=m3u8
