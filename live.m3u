@@ -160,3 +160,6 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/Ca2tYKP.jpg", test 2
 https://d952e52961615b5576267090ed78c739.livehwc4.com/pullsgp.yyzb456.top/live/stream-896956_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=ff122b9515ee2faa1d4435ce3609806c
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/Ca2tYKP.jpg", test 3
+https://amadertv.top:8880/play/CoApKkDJQ_E_0K_M2qzdm0l7PlkArANmLmqevVPf5xg/m3u8
