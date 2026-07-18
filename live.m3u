@@ -10,6 +10,7 @@ https://ts.arroman99.workers.dev/playlist.m3u8
 # --- BTV HD ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/Che0xwP.th.jpg", BTV HD
 https://btv.arroman99.workers.dev/playlist.m3u8
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=f3959a2def663a37de22d2129132fa14&txTime=6a5bf64d
 
 # --- Unite 8 Sports (1 Server) ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CRyyGX2.jpg", Caze TV
@@ -54,6 +55,9 @@ https://s1.itcnbd.live/somoy/tracks-v1a1/mono.m3u8
 # --- News 24 (1 Server) ---
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/CcRcJJS.th.jpg", News 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=2202800.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://iili.io/CcRcJJS.th.jpg", DBC News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728-audio_113582_eng=113200-video=3224800.m3u8
 
 # --- NTV (1 Server) ---
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/C5XhmFV.png", NTV
