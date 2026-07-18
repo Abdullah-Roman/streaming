@@ -15,13 +15,13 @@ https://btv.arroman99.workers.dev/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/CjUEHuV.th.jpg", Somoy TV
 https://tv.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.60.204%3A881%2FSomoy-tv%2Ftracks-v1a1%2Fmono.m3u8
 
-# --- Soco Live (1 Server) ---
-#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Soco Live
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=f3959a2def663a37de22d2129132fa14&txTime=6a5bf64d
-
 # --- Unite 8 Sports (1 Server) ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CRyyGX2.jpg", Caze TV
 https://amadertv.top:8880/play/txdeNYxHo_vOVO2g2_ujBxy9MMk8-sspAer6fG0n7iFCkbhekx5kzeScZUFTSW6K/ts
+
+# --- Soco Live (1 Server) ---
+#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Soco Live
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=f3959a2def663a37de22d2129132fa14&txTime=6a5bf64d
 
 # --- Bein Sports 1 (1 Server) ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Beign Sports
