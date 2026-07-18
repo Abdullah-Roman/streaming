@@ -19,6 +19,10 @@ https://amadertv.top:8880/play/txdeNYxHo_vOVO2g2_ujBxy9MMk8-sspAer6fG0n7iFCkbhek
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Beign Sports
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
+# --- Bein Sports 1 (1 Server) ---
+#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", CC TV
+https://live01-cn-ali.bvjicd.com/live/79361366.m3u8
+
 # --- Soco Live (1 Server) ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Soco Live
 https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783284383-0-0-ba541e77b9330eab42075af6aa5029e4
@@ -98,7 +102,7 @@ https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
 
 # --- Star Jalsa (1 Server) ---
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CE2C1G2.th.jpg", Star Jalsa
-https://yupptvcatchupire.yuppcdn.net/starjalsha/18Jul2026/1800/1784386885357_4000.ts
+https://yupptvcatchupire.yuppcdn.net/starjalsha/18Jul2026/1800/1784385037343_4000.ts
 
 # --- Sony Ath (1 Server) ---
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CEdShYv.th.png", Sony Ath
