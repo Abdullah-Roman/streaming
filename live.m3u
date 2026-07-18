@@ -40,6 +40,10 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/9jiie2ephv/out/v1/9e89
 # ==========================================
 
 # --- Somoy TV (1 Server) ---
+#EXTINF:-1 group-title="News" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Bangla Vision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+
+# --- Somoy TV (1 Server) ---
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Somoy TV
 https://s1.itcnbd.live/somoy/tracks-v1a1/mono.m3u8
 
@@ -64,12 +68,12 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=2202800.m3u8
 
 # --- Desi Tv TV (1 Server) ---
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/C74OoNa.th.png", Desi Tv TV
-https://tv.hrdvy.dpdns.org
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/C74OoNa.th.png", Deepto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
-# --- Duronto TV (1 Server) ---
-#EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/CcdYICN.th.png", Duronto TV
-https://amadertv.top:8880/play/txdeNYxHo_vOVO2g2_ujB6Z4Mj1Ef3PJecLrW0WrYzsqLSOZuynwladNsatPtCoU/ts
+# --- Desi Tv TV (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/C74OoNa.th.png", Deshe Bideshe
+https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 
 # --- Discovery (1 Server) ---
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://iili.io/ClqMnb1.th.jpg", Discovery
@@ -96,12 +100,19 @@ https://kaizokutv.me/jio-prox.php?url=https%3A%2F%2Fjiotvmblive.cdn.jio.com%2Fbp
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NDQ.m3u8
 
 # ==========================================
-# 📺 CARTOON TV
+# 📺 KIDS TV
 # ==========================================
+
+# --- Duronto TV (1 Server) ---
+#EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/CcdYICN.th.png", Duronto TV
+https://amadertv.top:8880/play/txdeNYxHo_vOVO2g2_ujB6Z4Mj1Ef3PJecLrW0WrYzsqLSOZuynwladNsatPtCoU/ts
 
 # --- Gopal Var ---
 #EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/Ca2tYKP.jpg", Gopal Var
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/Ca2tYKP.jpg", Motu Patlu
+https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/Ca2tYKP.jpg", Cartoon Network
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
