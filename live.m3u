@@ -6,6 +6,9 @@
 # --- BTV HD ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/Che0xwP.th.jpg", BTV HD
 https://btv.arroman99.workers.dev/playlist.m3u8
+# --- 26 Fox ---
+#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/Che0xwP.th.jpg", Fox @6
+https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://stream.mcquack.net/72/index.m3u8
 
 # --- T Sports ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
