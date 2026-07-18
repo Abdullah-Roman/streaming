@@ -74,6 +74,11 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 # --- Desi Tv TV (1 Server) ---
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/C74OoNa.th.png", Deshe Bideshe
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
+https://live.sanandatelevision.in/sananda/index.m3u8
+
+# --- Desi Tv TV (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/C74OoNa.th.png", Sananda TV
+https://live.sanandatelevision.in/sananda/index.m3u8
 
 # --- Discovery (1 Server) ---
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://iili.io/ClqMnb1.th.jpg", Discovery
