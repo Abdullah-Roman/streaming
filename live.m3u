@@ -111,9 +111,23 @@ https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CE2C1G2.th.jpg", Star Jalsa
 https://sports.abdullahroman276.workers.dev/playlist.m3u8
 
+# --- Colors Bangla (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CE2C1G2.th.jpg", COLORS Bangla
+https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
+
+# --- Rongeen TV (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CEdShYv.th.png", Rongeen TV
+https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
+
+# --- Akash Ath (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CEdShYv.th.png", Akash Ath
+https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
+
 # --- Sony Ath (1 Server) ---
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CEdShYv.th.png", Sony Ath
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NDQ.m3u8
+
+
 
 # ==========================================
 # 📺 CARTOON TV
@@ -137,4 +151,4 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/Ca2tYKP.jpg", test 2
-https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://192.168.91.8/streams/118/index.m3u8
+https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/748388.ts
