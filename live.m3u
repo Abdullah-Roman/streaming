@@ -16,8 +16,12 @@ https://btv.arroman99.workers.dev/playlist.m3u8
 https://tv.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.60.204%3A881%2FSomoy-tv%2Ftracks-v1a1%2Fmono.m3u8
 
 # --- Unite 8 Sports (1 Server) ---
-#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CRyyGX2.jpg", Caze TV
-https://amadertv.top:8880/play/txdeNYxHo_vOVO2g2_ujBxy9MMk8-sspAer6fG0n7iFCkbhekx5kzeScZUFTSW6K/ts
+#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CRyyGX2.jpg", Unite8 Sports 2
+https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://103.165.93.31:8095/unt-s/video.m3u8
+
+# --- Unite 8 Sports (1 Server) ---
+#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CRyyGX2.jpg", Mahsun Sports
+https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
 
 # --- Soco Live (1 Server) ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Soco Live
@@ -101,7 +105,7 @@ https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
 # --- ZEE Bangla (1 Server) ---
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CEtU2af.th.jpg", ZEE Bangla
-https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
+https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 
 # --- Star Jalsa (1 Server) ---
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CE2C1G2.th.jpg", Star Jalsa
