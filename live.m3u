@@ -44,15 +44,15 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/9jiie2ephv/out/v1/9e89
 # ==========================================
 
 # --- Bangla Vision (1 Server) ---
-#EXTINF:-1 group-title="News" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Bangla Vision
+#EXTINF:-1 group-title="News" tvg-logo="https://iili.io/CjUVOHG.th.jpg", Bangla Vision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 
-# --- Somoy TV (1 Server) ---
-#EXTINF:-1 group-title="News" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Somoy TV
+# --- Somoy TV (1 Server) ---https://iili.io/CjUEHuV.th.jpg
+#EXTINF:-1 group-title="News" tvg-logo="", Somoy TV
 https://s1.itcnbd.live/somoy/tracks-v1a1/mono.m3u8
 
 # --- News 24 (1 Server) ---
-#EXTINF:-1 group-title="News" tvg-logo="https://iili.io/CcRcJJS.th.jpg", News 24
+#EXTINF:-1 group-title="News" tvg-logo="https://iili.io/CjUX1CN.th.png", News 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=2202800.m3u8
 
 # --- DBC News (1 Server) ---
@@ -78,11 +78,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-vid
 # --- Desi Tv TV (1 Server) ---
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/C74OoNa.th.png", Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-
-# --- Desi Tv TV (1 Server) ---
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://tubextra.b-cdn.net/images.jpg", Deshe Bideshe
-https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
-https://live.sanandatelevision.in/sananda/index.m3u8
 
 # --- Desi Tv TV (1 Server) ---
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CjUoypj.th.jpg", Sananda TV
