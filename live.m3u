@@ -17,14 +17,19 @@ https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://stream.mcquack.net/7
 
 # --- Xoilac Live (1 Server) ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Xoilac
-https://tfxl1gwh1hcjigezdncb3fahdrmmcpf5gkce.100ycdn.com/live1.streambylivepulse.com/live/channel6/playlist.m3u8?wsSecret=3843feb764c2a2b81a5169383f8e26d4&wsABSTime=1784182501&wsSession=da91794d1c82a6518aab13e0-178413930348783&wsIPSercert=b7031d922ec6c56c5993cc6d76628bf5&wsBindIP=2&wsserid=1168262300818150876
+https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://193.47.62.41/hls/XAXAXA-7458.ts
 
 # --- PTV Sports (1 Server) ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CRyyGX2.jpg", PTV Sports
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://mxonlive.xyz/live/xap/444385.m3u8?e=1784555045&token=ef91865129dfffc76effe937d4a70f102a4087b99606ff4b6ad9e8a75538f2db
+
 # --- Unite 8 Sports 1 (1 Server) ---
-#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CRyyGX2.jpg", Mahsun Sports
+#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CRyyGX2.jpg", Unite8 sports ! 
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://mxonlive.xyz/live/xap/444332.m3u8?e=1784555045&token=e46ee0632bf41305d9e002fce7f693b6b3b8f4eca02145f637cb6acf0b7c82b6
+
+#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CRyyGX2.jpg", Unite8 sports ! 
+https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://mxonlive.xyz/live/xap/444333.m3u8?e=1784555045&token=b0feeac6512dba22f058b739dd8dcd4d3f6766bde2ac9062d55474c7ff5da1d0
+
 # --- Bein Sports 1 (1 Server) ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Beign Sports
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
