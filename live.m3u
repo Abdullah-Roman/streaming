@@ -2,13 +2,14 @@
 # ==========================================
 # 🏆 FIFA LIVE TV (SPORTS)
 # ==========================================
-# --- CCTV 1 (1 Server) ---
-#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", CC TV
-https://live01-cn-ali.bvjicd.com/live/79361366.m3u8
 
 # --- BTV HD ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/Che0xwP.th.jpg", BTV HD
 https://btv.arroman99.workers.dev/playlist.m3u8
+
+# --- CCTV 1 (1 Server) ---
+#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", CC TV
+https://live01-cn-ali.bvjicd.com/live/79361366.m3u8
 
 # --- T Sports ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
