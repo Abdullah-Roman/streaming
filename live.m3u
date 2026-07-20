@@ -7,17 +7,9 @@
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
 https://ts.arroman99.workers.dev/playlist.m3u8
 
-# --- BTV HD ---
-#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/Che0xwP.th.jpg", BTV HD
-https://btv.arroman99.workers.dev/playlist.m3u8
-
 # --- CCTV 1 (1 Server) ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", CC TV
 https://live01-cn-ali.bvjicd.com/live/79361366.m3u8
-
-# --- T Sports ---
-#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
-https://ts.arroman99.workers.dev/playlist.m3u8
 
 # --- Bein Sports 1 (1 Server) ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Beign Sports
@@ -64,6 +56,11 @@ https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/manifest/611d79b11b7
 # --- Bangla Vision (1 Server) ---
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/CjUVOHG.th.jpg", Bangla Vision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+
+
+# --- BTV HD ---
+#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/Che0xwP.th.jpg", BTV HD
+https://btv.arroman99.workers.dev/playlist.m3u8
 
 # --- Somoy TV (1 Server) ---
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/CjUEHuV.th.jpg", Somoy TV
@@ -184,7 +181,7 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 # ==========================================
 
 # --- ZB Cartoon ---
-#EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/Ca2tYKP.jpg", ZB Cartoon
+#EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/CwNWPIf.th.jpg", ZB Cartoon
 https://server.zillarbarta.com/zbcatun/video.m3u8
 
 # --- Duronto TV (1 Server) ---
