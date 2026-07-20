@@ -3,6 +3,10 @@
 # 🏆 FIFA LIVE TV (SPORTS)
 # ==========================================
 
+# --- Bangla Natok (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/ClcgnwX.th.jpg", Bangla Natok
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+
 # --- T Sports ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
 https://ts.arroman99.workers.dev/playlist.m3u8
