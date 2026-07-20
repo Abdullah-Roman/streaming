@@ -4,10 +4,6 @@
 # ==========================================
 
 # --- T Sports ---
-#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CwYXFEP.th.png", Final Recap
-https://img.refooty.com/m3u8/14695-0jol9m3u8-seboq.m3u8
-
-# --- T Sports ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
 https://ts.arroman99.workers.dev/playlist.m3u8
 
@@ -181,5 +177,7 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/Ca2tYKP.jpg", test 2
 https://d952e52961615b5576267090ed78c739.livehwc4.com/pullsgp.yyzb456.top/live/stream-896956_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=ff122b9515ee2faa1d4435ce3609806c
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/Ca2tYKP.jpg", test 3
-https://subscribers-october-recommend-concluded.trycloudflare.com/live/mystream/index.m3u8?cookieCheck=1
+# --- T Sports ---
+#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CwYXFEP.th.png", Final Recap
+https://img.refooty.com/m3u8/14695-0jol9m3u8-seboq.m3u8
+
