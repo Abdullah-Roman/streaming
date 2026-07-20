@@ -4,6 +4,10 @@
 # ==========================================
 
 # --- T Sports ---
+#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CwYXFEP.th.png", Final Recap
+https://img.refooty.com/m3u8/14695-0jol9m3u8-seboq.m3u8
+
+# --- T Sports ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
 https://ts.arroman99.workers.dev/playlist.m3u8
 
