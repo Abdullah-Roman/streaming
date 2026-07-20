@@ -52,6 +52,11 @@ https://ts.arroman99.workers.dev/playlist.m3u8
 #EXTINF:-1 group-title="Cricket" tvg-logo="https://iili.io/ClmZfwX.th.jpg", Star Sports 1
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://103.151.60.204:881/StarSports1/video.m3u8
 
+# --- Cricket Gold (1 Server) ---
+#EXTINF:-1 group-title="Cricket" tvg-logo="https://iili.io/ClmZfwX.th.jpg", Cricket Gold
+https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/bfc6a36e-c250-4afe-b6c9-2bc57855bb7d/4.m3u8
+
+
 # ==========================================
 # 📺 BD TV
 # ==========================================
@@ -84,9 +89,13 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CjpNgix.th.jpg", Ekhon TV
 https://stream.ottplus.live/live/ekhon_tv_abr/index.m3u8
 
-# --- Independent TV (1 Server) ---
-#EXTINF:-1 group-title="News" tvg-logo="https://iili.io/CjLcStf.th.png", GTV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+# --- Desh TV (1 Server) ---
+#EXTINF:-1 group-title="News" tvg-logo="https://iili.io/CwNc0IS.th.jpg", Desh TV
+https://bozztv.com/rongo/rongo-DeshTV/tracks-v1a1/mono.m3u8
+
+# --- Deshe Bideshe TV (1 Server) ---
+#EXTINF:-1 group-title="News" tvg-logo="https://iili.io/CwNl6Pe.th.jpg", Deshe Bideshe
+https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 
 # --- Independent TV (1 Server) ---
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/C76RVR9.png", Independent TV
@@ -100,7 +109,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-vid
 #EXTINF:-1 group-title="News" tvg-logo="https://iili.io/C74OoNa.th.png", Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=2202800.m3u8
 
-# --- Desi Tv TV (1 Server) ---
+# --- Deepto TV (1 Server) ---
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/Cj4Bjol.th.jpg", Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
@@ -108,9 +117,14 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CjUoypj.th.jpg", Sananda TV
 https://live.sanandatelevision.in/sananda/index.m3u8
 
-# --- Discovery (1 Server) ---
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://iili.io/CjL0TqQ.th.jpg"", Ruposi Bangla
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/406.ts
+# --- Porbashi TV (1 Server) ---
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://iili.io/CwNa2S4.th.jpg", Pobashi TV
+https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://158.69.24.53:8080/probashi_tv/tracks-v1a1/mono.m3u8
+
+# ---  National Geography (1 Server) ---
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://iili.io/CwNYoaR.th.png", National Geography
+https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://202.70.146.135:8000/play/a05o/index.m3u8
+
 
 # --- Discovery (1 Server) ---
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://iili.io/CjyXDgI.th.png", Discovery
@@ -128,9 +142,26 @@ https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CEtU2af.th.jpg", ZEE Bangla
 https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 
+# --- ZEE Bangla Sonar (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CwNMSCN.th.jpg", ZEE Bangla Sonar
+https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/playlist.m3u8
+
+
 # --- Star Jalsa (1 Server) ---
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CE2C1G2.th.jpg", Star Jalsa
 https://sports.abdullahroman276.workers.dev/playlist.m3u8
+
+# --- Jalsa Movies (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CwNEuwl.th.jpg", Jalsa Movies HD
+https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/63524
+
+# --- Enter 10 (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CwN1YYJ.th.jpg", Enter 10
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
+
+# --- Jhankar Tv (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CE2C1G2.th.jpg", Jhankar Tv
+https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
 
 # --- Colors Bangla (1 Server) ---
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CjpIwzb.th.jpg", COLORS Bangla
@@ -144,15 +175,17 @@ https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CjLENsf.th.jpg", Akash Ath
 https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
 
-# --- Sony Ath (1 Server) ---
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CEdShYv.th.png", Sony Ath
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NDQ.m3u8
-
-
+# --- Bangla Plus (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CwN0v0g.th.jpg", Bangla Plus
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 # ==========================================
 # 📺 CARTOON TV
 # ==========================================
+
+# --- ZB Cartoon ---
+#EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/Ca2tYKP.jpg", ZB Cartoon
+https://server.zillarbarta.com/zbcatun/video.m3u8
 
 # --- Duronto TV (1 Server) ---
 #EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/CcdYICN.th.png", Duronto TV
