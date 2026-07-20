@@ -7,10 +7,6 @@
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
 https://ts.arroman99.workers.dev/playlist.m3u8
 
-# --- CCTV 1 (1 Server) ---
-#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", CC TV
-https://live01-cn-ali.bvjicd.com/live/79361366.m3u8
-
 # --- Bein Sports 1 (1 Server) ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Beign Sports
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
@@ -25,6 +21,10 @@ https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://206.212.244.63/63/in
 # --- PTV Sports (1 Server) ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CRyyGX2.jpg", PTV Sports
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://mxonlive.xyz/live/xap/444385.m3u8?e=1784555045&token=ef91865129dfffc76effe937d4a70f102a4087b99606ff4b6ad9e8a75538f2db
+
+# --- CCTV 1 (1 Server) ---
+#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", CC TV
+https://live01-cn-ali.bvjicd.com/live/79361366.m3u8
 
 # ==========================================
 # 🏏 CRICKET TV
