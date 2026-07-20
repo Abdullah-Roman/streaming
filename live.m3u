@@ -166,6 +166,10 @@ https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CjLENsf.th.jpg", Akash Ath
 https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
 
+# --- Sony Ath (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CwOJwUx.th.jpg", Sony Ath
+https://amadertv.top:8880/play/CoApKkDJQ_E_0K_M2qzdm-PAOfBBZYctnA-iBEInogo/m3u8
+
 # --- Bangla Plus (1 Server) ---
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CwN0v0g.th.jpg", Bangla Plus
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
