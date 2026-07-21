@@ -122,8 +122,8 @@ https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://202.70.146.135:8000/
 
 
 # --- Discovery (1 Server) ---
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://iili.io/CjyXDgI.th.png", Discovery Bangla
-https://amadertv.top:8880/play/CoApKkDJQ_E_0K_M2qzdm8p8XmtHKZKtZTmzlwOenE8/m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://iili.io/CjyXDgI.th.png", Discovery 
+https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://202.70.146.135:8000/play/a05z/index.m3u8
 
 # --- Bangla Natok (1 Server) ---
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/ClcgnwX.th.jpg", Bangla Natok
