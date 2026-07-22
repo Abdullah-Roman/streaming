@@ -201,3 +201,8 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/Ca2tYKP.jpg", test 2
 https://bd-mc-pdlive.fancode.com/mumbai/143511_english_hls_a68c16eafb19863_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 group-title="Drama" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/5638c4e8-36ba-4e8e-848e-233183b3ec17.png",Toffee Dramas
+#EXTVLCOPT:http-user-agent=okhttp/5.1.0
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1784916037:KeyName=prod_linear:Signature=nIa342fyRWFahb67vxyF1MY8PVYt4QYZX4P60FjyDkGDRa8wI_A879AzWsuN6Kk_5Qp_h6qAV5tnaOryX_vtDw"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
