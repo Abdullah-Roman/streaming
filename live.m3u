@@ -206,3 +206,7 @@ https://bd-mc-pdlive.fancode.com/mumbai/143511_english_hls_a68c16eafb19863_1ta-d
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1784916037:KeyName=prod_linear:Signature=nIa342fyRWFahb67vxyF1MY8PVYt4QYZX4P60FjyDkGDRa8wI_A879AzWsuN6Kk_5Qp_h6qAV5tnaOryX_vtDw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bbtsp1" tvg-name="TNT 1" tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/tnt.png" group-title="CricHD",TNT 1
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn1.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=fdnP2LI4HwviVpCaX3irIA&expires=1782502820
