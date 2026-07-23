@@ -11,10 +11,6 @@ https://ts.arroman99.workers.dev/playlist.m3u8
 #EXTINF:-1 tvg-name="Kandy Royals Vs Colombo Kaps" tvg-logo="https://images.fancode.com/aig/match/v1784105762382/4246723_CASACARDS_SPORTY_APP.png" group-title="Cricket",Kandy Royals Vs Colombo Kaps
 https://bd-mc-pdlive.fancode.com/mumbai/4246723_english_hls_315eea1bdd6419_1ta-di_h264/index.m3u8
 
-# --- Bein Sports 1 (1 Server) ---
-#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Beign Sports
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Beign Sports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
@@ -24,7 +20,8 @@ https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://206.212.244.63/63/in
 
 # --- PTV Sports (1 Server) ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CRyyGX2.jpg", PTV Sports
-https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://mxonlive.xyz/live/xap/444385.m3u8?e=1784555045&token=ef91865129dfffc76effe937d4a70f102a4087b99606ff4b6ad9e8a75538f2db
+
+https://live.bdixbd.net/api/proxy/segment.ts?url=http%3A%2F%2F103.165.93.31%3A8095%2Fptv%2Ftracks-v1a1%2F2026%2F07%2F23%2F15%2F20%2F08-06000.ts
 
 # --- CCTV 1 (1 Server) ---
 #EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", CC TV
