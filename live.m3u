@@ -202,9 +202,7 @@ https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/CjUNsJ1.th.png", Cartoon Network
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/Ca2tYKP.jpg", test 2
-https://kaizokutv.me/jio-prox.php?url=https%3A%2F%2Fjiotvmblive.cdn.jio.com%2Fbpk-tv%2FDiscoveryHDBen_MOB%2FWDVLive%2Findex.mpd%3F__hdnea__%3Dst%3D1784802627%7Eexp%3D1784824227%7Eacl%3D%2F%2A%7Ehmac%3Df1ee88b3d2d83bfc6b985c20998c025f71a4d4438ddb8f917f940484baa3c1d9 
-
-
+#EXTINF:-1 tvg-name="Surongo" group-title="Bangla Movies",Surongo
+https://pub-d8f5af7f053343ed8295b16a145f6c1c.r2.dev/siam/[FGBDVibes]Surongo.(2023).480p.mkv
 
 
