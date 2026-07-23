@@ -200,13 +200,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/Ca2tYKP.jpg", test 2
-https://bd-mc-pdlive.fancode.com/mumbai/143511_english_hls_a68c16eafb19863_1ta-di_h264/index.m3u8
+https://bd-mc-pdlive.fancode.com/mumbai/4246723_english_hls_315eea1bdd6419_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 group-title="Drama" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/5638c4e8-36ba-4e8e-848e-233183b3ec17.png",Toffee Dramas
-#EXTVLCOPT:http-user-agent=okhttp/5.1.0
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1784916037:KeyName=prod_linear:Signature=nIa342fyRWFahb67vxyF1MY8PVYt4QYZX4P60FjyDkGDRa8wI_A879AzWsuN6Kk_5Qp_h6qAV5tnaOryX_vtDw"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
 
-#EXTINF:-1 tvg-id="bbtsp1" tvg-name="TNT 1" tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/tnt.png" group-title="CricHD",TNT 1
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=fdnP2LI4HwviVpCaX3irIA&expires=1782502820
