@@ -116,18 +116,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-vid
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/Cj4Bjol.th.jpg", Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
-# --- Desi Tv TV (1 Server) ---
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CjUoypj.th.jpg", Sananda TV
-https://live.sanandatelevision.in/sananda/index.m3u8
-
 # --- Porbashi TV (1 Server) ---
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://iili.io/CwNa2S4.th.jpg", Pobashi TV
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://158.69.24.53:8080/probashi_tv/tracks-v1a1/mono.m3u8
-
-# ---  National Geography (1 Server) ---
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://iili.io/CwNYoaR.th.png", National Geography
-https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://202.70.146.135:8000/play/a05o/index.m3u8
-
 
 # --- Discovery (1 Server) ---
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://iili.io/CjyXDgI.th.png", Discovery 
@@ -153,10 +144,6 @@ https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_72
 # --- Star Jalsa (1 Server) ---
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CE2C1G2.th.jpg", Star Jalsa
 https://sports.abdullahroman276.workers.dev/playlist.m3u8
-
-# --- Jalsa Movies (1 Server) ---
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CwNEuwl.th.jpg", Jalsa Movies HD
-https://live.bdixbd.net/api/proxy/segment.ts?url=https%3A%2F%2Fmyco-channels.nurmd2006-official.workers.dev%2FJalsha_Movie%2Ftracks-v1a1%2F2026%2F07%2F23%2F10%2F24%2F24-06000.ts
 
 # --- Enter 10 (1 Server) ---
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CwN1YYJ.th.jpg", Enter 10
