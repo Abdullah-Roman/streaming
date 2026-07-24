@@ -4,27 +4,22 @@
 # ==========================================
 
 # --- T Sports ---
-#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
+#EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
 https://ts.arroman99.workers.dev/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg" group-title="Live Event", Zimbabwe vs India (India tour of Zimbabwe- 2026)
 https://bd-mc-pdlive.fancode.com/mumbai/143351_english_hls_7119dc88e319837_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Beign Sports Xtra
+#EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Beign Sports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 # --- 26 Fox ---
-#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Fox 26
+#EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Fox 26
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://206.212.244.63/63/index.m3u8
 
 # --- PTV Sports (1 Server) ---
-#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CRyyGX2.jpg", PTV Sports
-
+#EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CRyyGX2.jpg", PTV Sports
 https://live.bdixbd.net/api/proxy/segment.ts?url=http%3A%2F%2F103.165.93.31%3A8095%2Fptv%2Ftracks-v1a1%2F2026%2F07%2F23%2F15%2F20%2F08-06000.ts
-
-# --- CCTV 1 (1 Server) ---
-#EXTINF:-1 group-title="Fifa Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", CC TV
-https://live01-cn-ali.bvjicd.com/live/79361366.m3u8
 
 # ==========================================
 # 🏏 CRICKET TV
