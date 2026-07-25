@@ -212,6 +212,9 @@ https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/CjUNsJ1.th.png", Cartoon Network
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 
+#EXTINF:-1 tvg-id="tapmad-15188" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17848779031020x576men.jpg" group-title="Cricket", Welsh Fire vs MI London | The Hundred Men's Competition 2026
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+
 #EXTINF:-1 tvg-name="Surongo" group-title="Bangla Movies",Test
 https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
 
