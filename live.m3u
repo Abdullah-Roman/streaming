@@ -184,6 +184,41 @@ https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CwN0v0g.th.jpg", Bangla Plus
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
+
+# ==========================================
+# 📺 MUSIC TV 
+# ==========================================
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",YRF Music HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",9X Jalwa
+https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",9X Jhakaas
+https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
+
+#EXTINF:-1 tvg-name="Baallee" group-title="MUSIC",Music India
+https://cdn-2.pishow.tv/live/226/master.m3u8
+
+#EXTINF:-1 tvg-name="Music Mastii" group-title="MUSIC",B4U Music
+https://cdn-2.pishow.tv/live/415/master.m3u8
+
+#EXTINF:-1 tvg-name="B4U Movies" group-title="MUSIC",Zoom
+https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+
+
+# ==========================================
+# 📺 HINDI
+# ==========================================
+
+#EXTINF:-1 tvg-name="Surongo" group-title="Hindi",Sony Max
+https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Surongo" group-title="Hindi",Gold Mines
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+
+
 # ==========================================
 # 📺 CARTOON TV
 # ==========================================
