@@ -124,6 +124,8 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Thikana Tv
 https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="141000" tvg-name="SRK TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png" group-title="Entertainment",SRK TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Discovery ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp",[BD] Discovery
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://202.70.146.135:8000/play/a05z/index.m3u8
@@ -180,8 +182,14 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 # ==========================================
 # 📺 MUSIC TV 
 # ==========================================
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",9XM 
-https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://103.175.73.12:8080/live/155/155_0.m3u8
+#EXTINF:-1 tvg-name="Baallee" group-title="MUSIC",Baallee
+https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-name="Music Mastii" group-title="MUSIC",Music Mastii
+https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-name="B4U Movies" group-title="Hindi",B4U Movies
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 
 # ==========================================
 # 📺 HINDI
