@@ -212,10 +212,10 @@ https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 # 📺 HINDI
 # ==========================================
 
-#EXTINF:-1 tvg-name="Surongo" group-title="Hindi",Sony Max
+#EXTINF:-1 tvg-name="Hindi" tvg-logo="https://iili.io/CeW7rwG.th.jpg",  group-title="Hindi",Sony Max
 https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
 
-#EXTINF:-1 tvg-name="Surongo" group-title="Hindi",Gold Mines
+#EXTINF:-1 tvg-name="Movies" tvg-logo="https://iili.io/CeWYgUP.th.jpg",  group-title="Hindi",Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 
 
