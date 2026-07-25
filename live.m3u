@@ -53,7 +53,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 https://btv.arroman99.workers.dev/playlist.m3u8
 
 #-------ATN NEWS----
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ATN News
+#EXTINF:-1  tvg-logo="https://iili.io/CeMZ8fs.th.png",ATN News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Channel 1
@@ -75,11 +75,11 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728-audio_113582_eng=113200-vid
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/C5XhmFV.png", NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="BD TV",RTV (720p)
+#EXTINF:-1 tvg-logo="https://iili.io/CeM6ooG.th.jpg" group-title="BD TV",RTV (720p)
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://tvsen5.aynascope.net/RtvHD/index.m3u8
 
-# --- NTV (1 Server) ---
-#EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CjpvMeS.th.jpg", Channel I
+# ---Channel ! (1 Server) ---
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CeMDM9R.th.png", Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
 # --- Ekhon TV (1 Server) ---
