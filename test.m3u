@@ -1,1 +1,215 @@
+#EXTM3U
+# ==========================================
+# 🏆 Sports LIVE
+# ==========================================
 
+# --- T Sports ---
+#EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
+https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
+https://ts.arroman99.workers.dev/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg" group-title="Live Event", Zimbabwe vs India (India tour of Zimbabwe- 2026)
+https://bd-mc-pdlive.fancode.com/mumbai/143351_english_hls_7119dc88e319837_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Beign Sports Xtra
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
+# --- 26 Fox ---
+#EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Fox 26
+https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://206.212.244.63/63/index.m3u8
+
+# --- PTV Sports (1 Server) ---
+#EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CRyyGX2.jpg", PTV Sports
+https://live.bdixbd.net/api/proxy/segment.ts?url=http%3A%2F%2F103.165.93.31%3A8095%2Fptv%2Ftracks-v1a1%2F2026%2F07%2F23%2F15%2F20%2F08-06000.ts
+
+# ==========================================
+# 🏏 CRICKET TV
+# ==========================================
+
+# --- Ban Vs Zim (1 Server) ---
+#EXTINF:-1 group-title="Cricket" tvg-logo="https://iili.io/ClmZfwX.th.jpg", T Sports
+https://ts.arroman99.workers.dev/playlist.m3u8
+
+# --- Ban Vs Zim (1 Server) ---
+#EXTINF:-1 group-title="Cricket" tvg-logo="https://iili.io/ClmZfwX.th.jpg", Star Sports 1
+https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://103.151.60.204:881/StarSports1/video.m3u8
+
+# --- Cricket Gold (1 Server) ---
+#EXTINF:-1 group-title="Cricket" tvg-logo="https://iili.io/ClmZfwX.th.jpg", Cricket Gold
+https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/bfc6a36e-c250-4afe-b6c9-2bc57855bb7d/4.m3u8
+
+
+# ==========================================
+# 📺 BD TV
+# ==========================================
+
+# --- Bangla Vision (1 Server) ---
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CjUVOHG.th.jpg", Bangla Vision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+
+
+# --- BTV HD ---
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/Che0xwP.th.jpg", BTV HD
+https://btv.arroman99.workers.dev/playlist.m3u8
+
+#-------ATN NEWS----
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ATN News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+
+# --- Somoy TV (1 Server) ---
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CjUEHuV.th.jpg", Somoy TV
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+
+# --- News 24 (1 Server) ---
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CjUX1CN.th.png", News 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=2202800.m3u8
+
+# --- DBC News (1 Server) ---
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CjUTzjj.th.jpg", DBC News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728-audio_113582_eng=113200-video=3224800.m3u8
+
+# --- NTV (1 Server) ---
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/C5XhmFV.png", NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="BD TV",RTV (720p)
+https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://tvsen5.aynascope.net/RtvHD/index.m3u8
+
+# --- NTV (1 Server) ---
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CjpvMeS.th.jpg", Channel I
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+
+# --- Ekhon TV (1 Server) ---
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CjpNgix.th.jpg", Ekhon TV
+https://stream.ottplus.live/live/ekhon_tv_abr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="BD TV",Green TV (1080p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
+
+# --- Desh TV (1 Server) ---
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CwNc0IS.th.jpg", Desh TV
+https://bozztv.com/rongo/rongo-DeshTV/tracks-v1a1/mono.m3u8
+
+# --- Deshe Bideshe TV (1 Server) ---
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CwNl6Pe.th.jpg", Deshe Bideshe
+https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
+
+# --- Independent TV (1 Server) ---
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/C76RVR9.png", Independent TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=1181200.m3u8
+
+#EXTINF:-1 tvg-id="191000" tvg-name="Star News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png" group-title="BD TV",Star News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="BD TV",Ekushey TV
+https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+# --- Ekattor TV (1 Server) ---
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/C5X9K1j.md.png", Ekattor TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=2202800.m3u8
+
+# --- Jamuna TV (1 Server) ---
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/C74OoNa.th.png", Jamuna TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=2202800.m3u8
+
+#-------Channel 9----------
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Channel 9 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+
+# --- Deepto TV (1 Server) ---
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/Cj4Bjol.th.jpg", Deepto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+
+#-------Thikana TV---------
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Thikana Tv
+https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Discovery ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp",[BD] Discovery
+https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://202.70.146.135:8000/play/a05z/index.m3u8
+
+# --- Bangla Natok (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/ClcgnwX.th.jpg", Bangla Natok
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+
+# ==========================================
+# 📺 INDIAN BANGLA TV
+# ==========================================
+
+# --- ZEE Bangla (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CEtU2af.th.jpg", ZEE Bangla
+https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
+
+# --- ZEE Bangla Sonar (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CwNMSCN.th.jpg", ZEE Bangla Sonar
+https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/playlist.m3u8
+
+
+# --- Star Jalsa (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CE2C1G2.th.jpg", Star Jalsa
+https://sports.abdullahroman276.workers.dev/playlist.m3u8
+
+# --- Enter 10 (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CwN1YYJ.th.jpg", Enter 10
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
+
+# --- Jhankar Tv (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CwNgw8v.th.jpg", Jhankar Tv
+https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
+
+# --- Colors Bangla (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CjpIwzb.th.jpg", COLORS Bangla
+https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
+
+# --- Rongeen TV (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CjL1Wnj.th.png", Rongeen TV
+https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
+
+# --- Akash Ath (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CjLENsf.th.jpg", Akash Ath
+https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
+
+# --- Sony Ath (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CwOJwUx.th.jpg", Sony Ath
+https://amadertv.top:8880/play/CoApKkDJQ_E_0K_M2qzdm-PAOfBBZYctnA-iBEInogo/m3u8
+
+# --- Bangla Plus (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CwN0v0g.th.jpg", Bangla Plus
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+
+# ==========================================
+# 📺 MUSIC TV 
+# ==========================================
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",9XM 
+http://103.175.73.12:8080/live/155/155_0.m3u8
+
+# ==========================================
+# 📺 CARTOON TV
+# ==========================================
+
+# --- ZB Cartoon ---
+#EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/CwNWPIf.th.jpg", ZB Cartoon
+https://server.zillarbarta.com/zbcatun/video.m3u8
+
+# --- Duronto TV (1 Server) ---
+#EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/CcdYICN.th.png", Duronto TV
+https://amadertv.top:8880/play/txdeNYxHo_vOVO2g2_ujB6Z4Mj1Ef3PJecLrW0WrYzsqLSOZuynwladNsatPtCoU/ts
+
+# --- Gopal Var ---
+#EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/Ca2tYKP.jpg", Gopal Var
+https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/CjU8F3l.th.jpg", Motu Patlu
+https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/CjUecjs.th.jpg", Tom & Jerry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Mr Bean Animated" group-title="CARTOON Drama",Mr Bean Animated
+https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/CjUNsJ1.th.png", Cartoon Network
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Surongo" group-title="Bangla Movies",Surongo
+https://pub-d8f5af7f053343ed8295b16a145f6c1c.r2.dev/siam/[FGBDVibes]Surongo.(2023).480p.mkv
