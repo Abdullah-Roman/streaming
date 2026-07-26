@@ -3,6 +3,13 @@
 # 🏆 Sports LIVE
 # ==========================================
 
+
+# --- T Sports ---
+#EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
+https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://103.13.193.194:8082/T-SPORTS-HD/tracks-v1a1a2/mono.m3u8?token=RusriRM-L73G33
+https://ts.arroman99.workers.dev/playlist.m3u8
+
+
 # --- PTV Sports (1 Server) ---
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png", West Indies Vs Pakistan
 https://live.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.61.12%2FPTV%2Ftracks-v1a1%2Fmono.m3u8
@@ -10,11 +17,6 @@ https://live.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.61.12%2FP
 #EXTINF:-1 tvg-id="tapmad-15190" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17848910051020x576men.jpg" group-title="Cricket", Trent Rockets vs London Spirit | The Hundred Men's Competition 2026
 http://tvsen5.aynascope.net/willowhd/index.m3u8
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-
-# --- T Sports ---
-#EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
-https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://103.13.193.194:8082/T-SPORTS-HD/tracks-v1a1a2/mono.m3u8?token=RusriRM-L73G33
-https://ts.arroman99.workers.dev/playlist.m3u8
 
 #EXTINF:-1 tvg-name="West Indies Vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Cricket",West Indies Vs Pakistan
 https://bd-mc-pdlive.fancode.com/mumbai/143633_english_hls_37959550fb90160_1ta-di_h264/index.m3u8
