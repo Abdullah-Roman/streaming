@@ -101,6 +101,9 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CwNc0IS.th.jpg", Desh TV
 https://bozztv.com/rongo/rongo-DeshTV/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",NEXUS TV
+https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
+
 # --- Deshe Bideshe TV (1 Server) ---
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CwNl6Pe.th.jpg", Deshe Bideshe
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
@@ -159,6 +162,9 @@ https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_72
 # --- Star Jalsa (1 Server) ---
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CE2C1G2.th.jpg", Star Jalsa
 https://sports.abdullahroman276.workers.dev/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZB Cinema
+https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 
 # --- Enter 10 (1 Server) ---
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CwN1YYJ.th.jpg", Enter 10
@@ -229,6 +235,29 @@ https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
 #EXTINF:-1 tvg-name="Movies" tvg-logo="https://iili.io/CeWYgUP.th.jpg",  group-title="Hindi",Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 
+EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zee TV HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SAB HD
+http://live.balajibroadband.com:3500/live/471.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony Pal
+http://live.balajibroadband.com:3500/live/474.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors HD
+http://live.balajibroadband.com:3500/live/144.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",&TV HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/manifest.mpd
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",COLORS RISHTEY
+http://103.159.180.34:5001/live/279.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",COLORS RISHTEY
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6586/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Anmol TV
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/main.mpd
 
 # ==========================================
 # 📺 CARTOON TV
