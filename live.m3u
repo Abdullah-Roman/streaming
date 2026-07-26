@@ -64,7 +64,7 @@ https://btv.arroman99.workers.dev/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://iili.io/CeMZ8fs.th.png",ATN News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Channel 1
+#EXTINF:-1  tvg-logo="https://iili.io/CkfCY1R.th.png",Channel 1
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 # --- Somoy TV (1 Server) ---
@@ -87,7 +87,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://tvsen5.aynascope.net/RtvHD/index.m3u8
 
 # ---Channel ! (1 Server) ---
-#EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CeMDM9R.th.png", Channel I
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CkfBUfR.th.jpg", Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
 # --- Ekhon TV (1 Server) ---
@@ -101,7 +101,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CwNc0IS.th.jpg", Desh TV
 https://bozztv.com/rongo/rongo-DeshTV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",NEXUS TV
+#EXTINF:-1  tvg-logo="https://iili.io/CkfnBQs.th.jpg",NEXUS TV
 https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
 
 # --- Deshe Bideshe TV (1 Server) ---
@@ -127,7 +127,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=2202800.m3u8
 
 #-------Channel 9----------
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Channel 9 HD
+#EXTINF:-1  tvg-logo="https://iili.io/Ckfo6JV.th.jpg",Channel 9 HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 
 # --- Deepto TV (1 Server) ---
@@ -135,7 +135,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
 #-------Thikana TV---------
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Thikana Tv
+#EXTINF:-1  tvg-logo="https://iili.io/Ckfo9te.th.jpg",Thikana Tv
 https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/playlist.m3u8
 
 
