@@ -7,6 +7,10 @@
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png", West Indies Vs Pakistan
 https://live.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.61.12%2FPTV%2Ftracks-v1a1%2Fmono.m3u8
 
+#EXTINF:-1 tvg-id="tapmad-15190" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17848910051020x576men.jpg" group-title="Cricket", Trent Rockets vs London Spirit | The Hundred Men's Competition 2026
+http://tvsen5.aynascope.net/willowhd/index.m3u8
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+
 # --- T Sports ---
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
 https://ts.arroman99.workers.dev/playlist.m3u8
