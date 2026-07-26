@@ -19,7 +19,7 @@ https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://206.212.244.63/63/in
 
 # --- PTV Sports (1 Server) ---
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CRyyGX2.jpg", PTV Sports
-https://live.bdixbd.net/api/proxy/segment.ts?url=http%3A%2F%2F103.165.93.31%3A8095%2Fptv%2Ftracks-v1a1%2F2026%2F07%2F23%2F15%2F20%2F08-06000.ts
+https://live.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.61.12%2FPTV%2Ftracks-v1a1%2Fmono.m3u8
 
 # ==========================================
 # 🏏 CRICKET TV
