@@ -206,6 +206,12 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 # 📺 MUSIC TV 
 # ==========================================
 
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",9xm
+https://wiselp.wiseplayout.com/9XM/HD1080/HD1080.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Music Masti
+https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
@@ -235,29 +241,7 @@ https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
 #EXTINF:-1 tvg-name="Movies" tvg-logo="https://iili.io/CeWYgUP.th.jpg",  group-title="Hindi",Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 
-EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zee TV HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
 
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SAB HD
-https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://live.balajibroadband.com:3500/live/471.m3u8
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony Pal
-https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://live.balajibroadband.com:3500/live/474.m3u8
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors HD
-https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://live.balajibroadband.com:3500/live/144.m3u8
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",&TV HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/manifest.mpd
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",COLORS RISHTEY
-https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://103.159.180.34:5001/live/279.m3u8
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",COLORS RISHTEY
-https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6586/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Anmol TV
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/main.mpd
 
 # ==========================================
 # 📺 CARTOON TV
