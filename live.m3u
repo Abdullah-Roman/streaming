@@ -208,13 +208,13 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 # 📺 MUSIC TV 
 # ==========================================
 
-#EXTINF:-1  tvg-logo="https://iili.io/CkfzYZX.th.jpg",9xm
+#EXTINF:-1  tvg-logo="https://tubextra.b-cdn.net/images.jpg",9xm
 https://wiselp.wiseplayout.com/9XM/HD1080/HD1080.m3u8
 
-#EXTINF:-1  tvg-logo="https://iili.io/CkfI2Ps.th.png",YRF Music HD
+#EXTINF:-1  tvg-logo="https://tubextra.b-cdn.net/images.png",YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://iili.io/Ck8007f.th.png",9X Jalwa
+#EXTINF:-1  tvg-logo="https://tubextra.b-cdn.net/download%20(4).png",9X Jalwa
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
 
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",9X Jhakaas
