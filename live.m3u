@@ -140,9 +140,6 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1  tvg-logo="https://tubextra.b-cdn.net/thikana.jpg",Thikana Tv
 https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HDpmh2wH/Zee-Cinema-2025-svg.png" group-title="MOVIES CHANNELS",ZEE CINEMA HD
-https://stream.ottplus.bd/live/zee_cinema_hd_abr/live/zee_cinema_hd_720/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VWL70Dvx/logo.png" group-title="BANGLADESHI CHANNELS",Me IPTV BD
 https://iptvbd.live/metv1080/1080.m3u8
 
@@ -268,6 +265,12 @@ https://stream.ottplus.live/live/and_tv_hd_abr/live/and_tv_hd_720/chunks.m3u8?ni
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="MOVIES CHANNELS",SHEEMAROO BOLLYWOOD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HDpmh2wH/Zee-Cinema-2025-svg.png" group-title="MOVIES CHANNELS",ZEE CINEMA HD
+https://stream.ottplus.bd/live/zee_cinema_hd_abr/live/zee_cinema_hd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/55zvH8Z/Picsart-23-06-09-19-57-34-590.png" group-title="INFOTAINMENT CHANNELS",DISCOVERY HINDI
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=discovery_hd&e=.m3u8
 
 # ==========================================
 # 📺 CARTOON TV
