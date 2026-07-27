@@ -88,7 +88,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/CeM6ooG.th.jpg" group-title="BD TV",RTV (720p)
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://tvsen5.aynascope.net/RtvHD/index.m3u8
 
-# ---Channel ! (1 Server) ---
+# ---Channel I (1 Server) ---
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CkfBUfR.th.jpg", Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
@@ -103,7 +103,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CwNc0IS.th.jpg", Desh TV
 https://bozztv.com/rongo/rongo-DeshTV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1  tvg-logo="https://iili.io/CkfnBQs.th.jpg",NEXUS TV
+#EXTINF:-1  tvg-logo="https://iili.io/CkkTc9n.th.jpg",NEXUS TV
 https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
 
 # --- Deshe Bideshe TV (1 Server) ---
