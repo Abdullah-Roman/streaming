@@ -214,7 +214,7 @@ https://wiselp.wiseplayout.com/9XM/HD1080/HD1080.m3u8
 #EXTINF:-1  tvg-logo="https://iili.io/CkfI2Ps.th.png",YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://iili.io/CkfIwRp.th.jpg",9X Jalwa
+#EXTINF:-1  tvg-logo="https://iili.io/Ck8007f.th.png",9X Jalwa
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
 
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",9X Jhakaas
@@ -226,7 +226,7 @@ https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Music Masti
 https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-name="Music Mastii" group-title="MUSIC",B4U Music
+#EXTINF:-1 tvg-logo="https://iili.io/Ck8EfSa.th.jpg" group-title="MUSIC",B4U Music
 https://cdn-2.pishow.tv/live/415/master.m3u8
 
 #EXTINF:-1 tvg-name="B4U Movies" group-title="MUSIC",Zoom
