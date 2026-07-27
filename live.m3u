@@ -143,6 +143,12 @@ https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HDpmh2wH/Zee-Cinema-2025-svg.png" group-title="MOVIES CHANNELS",ZEE CINEMA HD
 https://stream.ottplus.bd/live/zee_cinema_hd_abr/live/zee_cinema_hd_720/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VWL70Dvx/logo.png" group-title="BANGLADESHI CHANNELS",Me IPTV BD
+https://iptvbd.live/metv1080/1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6xkMyD7/mob-logo.png" group-title="BANGLADESHI CHANNELS",Star News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
+
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp", Discovery Bangla
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://line.umetop.pro:80/play/live.php?mac=00:1A:79:8F:BA:8A&stream=225747&extension=m3u8
 
@@ -204,6 +210,9 @@ https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
 # --- Bangla Plus (1 Server) ---
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CwN0v0g.th.jpg", Bangla Plus
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GyDcpFZ/Aaj-tak-logo.png" group-title="INDIAN CHANNELS",Aaj Tak Bangla
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
 
 
 # ==========================================
