@@ -244,6 +244,16 @@ https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 
 
+#EXTINF:-1 tvg-name="Movies" tvg-logo="https://iili.io/Ckk9pWJ.th.jpg",  group-title="Hindi", Zee Cinema
+https://stream.ottplus.live/live/zee_cinema_hd_abr/live/zee_cinema_hd_720/chunks.m3u8?nimblesessionid=64203217
+
+
+#EXTINF:-1 tvg-name="Movies" tvg-logo="https://iili.io/Ckk353x.th.jpg",  group-title="Hindi", Sony SAB
+https://stream.ottplus.bd/live/sub_hd_abr/live/sony_sub_hd_720/chunks.m3u8?nimblesessionid=64213928
+
+
+#EXTINF:-1 tvg-name="Movies" tvg-logo="https://iili.io/CkkquDB.th.jpg",  group-title="Hindi", & TV
+https://stream.ottplus.live/live/and_tv_hd_abr/live/and_tv_hd_720/chunks.m3u8?nimblesessionid=64218612
 
 # ==========================================
 # 📺 CARTOON TV
