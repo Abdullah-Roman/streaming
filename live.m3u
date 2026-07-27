@@ -66,7 +66,7 @@ https://btv.arroman99.workers.dev/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://iili.io/CeMZ8fs.th.png",ATN News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://iili.io/CkfCY1R.th.png",Channel 1
+#EXTINF:-1  tvg-logo="https://tubextra.b-cdn.net/channelone.png",Channel 1
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 # --- Somoy TV (1 Server) ---
@@ -129,7 +129,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=2202800.m3u8
 
 #-------Channel 9----------
-#EXTINF:-1  tvg-logo="https://iili.io/Ckfo6JV.th.jpg",Channel 9 HD
+#EXTINF:-1  tvg-logo="https://tubextra.b-cdn.net/channel9.png",Channel 9 HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 
 # --- Deepto TV (1 Server) ---
@@ -137,7 +137,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
 #-------Thikana TV---------
-#EXTINF:-1  tvg-logo="https://iili.io/Ckfo9te.th.jpg",Thikana Tv
+#EXTINF:-1  tvg-logo="https://tubextra.b-cdn.net/thikana.jpg",Thikana Tv
 https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HDpmh2wH/Zee-Cinema-2025-svg.png" group-title="MOVIES CHANNELS",ZEE CINEMA HD
