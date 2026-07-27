@@ -210,7 +210,7 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 # 📺 MUSIC TV 
 # ==========================================
 
-#EXTINF:-1  tvg-logo="https://tubextra.b-cdn.net/images.jpg",9xm
+#EXTINF:-1  tvg-logo="https://tubextra.b-cdn.net/9xm.png.jpg",9xm
 https://wiselp.wiseplayout.com/9XM/HD1080/HD1080.m3u8
 
 #EXTINF:-1  tvg-logo="https://tubextra.b-cdn.net/images.png",YRF Music HD
@@ -256,6 +256,9 @@ https://stream.ottplus.bd/live/sub_hd_abr/live/sony_sub_hd_720/chunks.m3u8?nimbl
 
 #EXTINF:-1 tvg-name="Movies" tvg-logo="https://iili.io/CkkquDB.th.jpg",  group-title="Hindi", & TV
 https://stream.ottplus.live/live/and_tv_hd_abr/live/and_tv_hd_720/chunks.m3u8?nimblesessionid=64218612
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="MOVIES CHANNELS",SHEEMAROO BOLLYWOOD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
 # ==========================================
 # 📺 CARTOON TV
