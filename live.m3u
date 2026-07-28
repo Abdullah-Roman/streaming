@@ -3,13 +3,13 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-
-#EXTINF:-1 tvg-name="Colombo Kaps Vs Jaffna Kings" tvg-logo="https://images.fancode.com/aig/match/v1784105762380/4246727_CASACARDS_SPORTY_APP.png" group-title="Cricket",Colombo Kaps Vs Jaffna Kings
-https://bd-mc-pdlive.fancode.com/mumbai/4246727_english_hls_1455c8dfec73022_1ta-di_h264/index.m3u8
-
 # --- T Sports ---
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
 https://ts.arroman99.workers.dev/playlist.m3u8
+
+
+#EXTINF:-1 tvg-name="Colombo Kaps Vs Jaffna Kings" tvg-logo="https://images.fancode.com/aig/match/v1784105762380/4246727_CASACARDS_SPORTY_APP.png" group-title="Cricket",Colombo Kaps Vs Jaffna Kings
+https://bd-mc-pdlive.fancode.com/mumbai/4246727_english_hls_1455c8dfec73022_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-name="West Indies Vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Cricket",West Indies Vs Pakistan
 https://bd-mc-pdlive.fancode.com/mumbai/143633_english_hls_37959550fb58378_1ta-di_h264/index.m3u8
