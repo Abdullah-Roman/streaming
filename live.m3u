@@ -20,7 +20,6 @@ https://live.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.61.12%2FP
 
 #EXTINF:-1 tvg-id="tapmad-15190" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17848910051020x576men.jpg" group-title="Cricket", Trent Rockets vs London Spirit | The Hundred Men's Competition 2026
 http://tvsen5.aynascope.net/willowhd/index.m3u8
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 
 #EXTINF:-1 tvg-name="West Indies Vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Cricket",West Indies Vs Pakistan
 https://bd-mc-pdlive.fancode.com/mumbai/143633_english_hls_37959550fb90160_1ta-di_h264/index.m3u8
@@ -232,6 +231,9 @@ https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",9X Jhakaas
 https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
 
+#EXTINF:-1 tvg-name="Hindi Hits HD" group-title="Hindi Music",Hindi Hits HD
+https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://146.59.253.52:8080/hindihitshd/index.m3u8
+
 #EXTINF:-1 tvg-name="Baallee" group-title="MUSIC",Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
 
@@ -244,6 +246,9 @@ https://cdn-2.pishow.tv/live/415/master.m3u8
 #EXTINF:-1 tvg-name="B4U Movies" group-title="MUSIC",Zoom
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
+# --- Sangeet Bangla (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://tubextra.b-cdn.net/download%20(14).jpg", Sangeet Bangla
+https://cdn-4.pishow.tv/live/1143/1143_1.m3u8
 
 # ==========================================
 # 📺 HINDI
