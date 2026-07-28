@@ -7,7 +7,7 @@
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
 https://ts.arroman99.workers.dev/playlist.m3u8
 
-
+# --- T Sports ---
 #EXTINF:-1 tvg-name="Colombo Kaps Vs Jaffna Kings" tvg-logo="https://images.fancode.com/aig/match/v1784105762380/4246727_CASACARDS_SPORTY_APP.png" group-title="Cricket",Colombo Kaps Vs Jaffna Kings
 https://bd-mc-pdlive.fancode.com/mumbai/4246727_english_hls_1455c8dfec73022_1ta-di_h264/index.m3u8
 
@@ -40,8 +40,11 @@ https://live.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.61.12%2FP
 # ==========================================
 
 # --- Ban Vs Zim (1 Server) ---
-#EXTINF:-1 group-title="Cricket" tvg-logo="https://iili.io/ClmZfwX.th.jpg", T Sports
+#EXTINF:-1 group-title="Cricket" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
 https://ts.arroman99.workers.dev/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports Live" tvg-logo="https://tubextra.b-cdn.net/download%20(5).png", Willow Sports
+http://tvsen5.aynascope.net/willowhd/index.m3u8
 
 # --- Ban Vs Zim (1 Server) ---
 #EXTINF:-1 group-title="Cricket" tvg-logo="https://iili.io/ClmZfwX.th.jpg", Star Sports 1
