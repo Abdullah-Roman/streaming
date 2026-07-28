@@ -234,6 +234,9 @@ https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
 #EXTINF:-1 tvg-name="Hindi Hits HD" group-title="Hindi Music",Hindi Hits HD
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://146.59.253.52:8080/hindihitshd/index.m3u8
 
+#EXTINF:-1 tvg-name="Joo Music" group-title="Hindi Movies",Joo Music
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Baallee" group-title="MUSIC",Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
 
