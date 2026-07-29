@@ -5,6 +5,7 @@
 
 # --- T Sports ---
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
+http://103.13.193.194:8082/T-SPORTS-HD/video.m3u8?token=RusriRM-L73G33
 https://ts.arroman99.workers.dev/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Galle Gallants Vs Kandy Royals" tvg-logo="https://images.fancode.com/aig/match/v1784105762381/4246726_CASACARDS_SPORTY_APP.png" group-title="Cricket",Galle Gallants Vs Kandy Royals
