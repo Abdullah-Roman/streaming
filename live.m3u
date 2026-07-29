@@ -159,6 +159,9 @@ https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://line.umetop.pro:80/p
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/ClcgnwX.th.jpg", Bangla Natok
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://imglink.cc/cdn/B1Dn0E5UKs.png", Movie Bangla
+https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://alvetv.com/moviebanglatv/8080/index.m3u8
+
 # ==========================================
 # 📺 INDIAN BANGLA TV
 # ==========================================
