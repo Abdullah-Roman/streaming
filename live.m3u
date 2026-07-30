@@ -300,7 +300,7 @@ https://server.zillarbarta.com/zbcatun/video.m3u8
 
 # --- Duronto TV (1 Server) ---
 #EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/CcdYICN.th.png", Duronto TV
-https://amadertv.top:8880/play/txdeNYxHo_vOVO2g2_ujB6Z4Mj1Ef3PJecLrW0WrYzsqLSOZuynwladNsatPtCoU/ts
+https://playztv-apps.pages.dev/duronto-tv/index.m3u8
 
 # --- Gopal Var ---
 #EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/Ca2tYKP.jpg", Gopal Var
