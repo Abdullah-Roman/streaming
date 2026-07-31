@@ -3,19 +3,14 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-#EXTINF:-1 tvg-name="Indian Royals Vs Bangladesh Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248192_53019_INR_BAT_fc-web.jpg" group-title="Cricket",Indian Royals Vs Bangladesh Tigers
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//level_0.m3u8
+# --- Bangla Natok (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/ClcgnwX.th.jpg", Bangla Natok
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
 # --- T Sports ---
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://103.13.193.194:8082/T-SPORTS-HD/video.m3u8?token=RusriRM-L73G33
 https://ts.arroman99.workers.dev/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Galle Gallants Vs Kandy Royals" tvg-logo="https://images.fancode.com/aig/match/v1784105762381/4246726_CASACARDS_SPORTY_APP.png" group-title="Cricket",Galle Gallants Vs Kandy Royals
-https://bd-mc-pdlive.fancode.com/mumbai/4246726_english_hls_44910f186893977_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-name="Netherlands Vs Nepal" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246708_52990_NEP_NED_fc-App.png" group-title="Cricket",Netherlands Vs Nepal
-https://bd-mc-pdlive.fancode.com/mumbai/4246708_english_hls_ea32c4304326061_1ta-di_h264/index.m3u8
 
 # --- PTV Sports (1 Server) ---
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png", West Indies Vs Pakistan
