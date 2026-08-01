@@ -150,8 +150,12 @@ https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6xkMyD7/mob-logo.png" group-title="BANGLADESHI CHANNELS",Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6xkMyD7/mob-logo.png" group-title="BANGLADESHI CHANNELS",Sanonda TV
+https://live.sanandatelevision.in/sananda/index.m3u8
+
+
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp", Discovery Bangla
-https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://line.umetop.pro:80/play/live.php?mac=00:1A:79:8F:BA:8A&stream=225747&extension=m3u8
+https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://180.94.28.28:8097//DISCOVERY-BANGLA/index.fmp4.m3u8?token=2c8ee71be8bca324c7695c06255bb0df4ef4efc8-161b0b59279082dc59bee57ac116fd64-1776169973-1776166373
 
 # --- Bangla Natok (1 Server) ---
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/ClcgnwX.th.jpg", Bangla Natok
@@ -320,7 +324,8 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/ts-eu-w1-n2/playlist/amg01412-xiaomiasia-yrfmusic-xiaomi/cb573d1e786c678f9bd43c67cef44182af7906e5474e857336fd05d32a8300589bbbefc7f34aff7020c6419b29011c0f092594408a6c00c6d56aa90c6623543c8388c73386f94e58fb8d4d5673e1651c4fff0b0bd13747738db94b0b8468b1345d4bbe582307638bec44a52056909d0bda792f89abdd693d2b0e0cfd2367c1989b6786cb6f37ac7e9bc34d16c27314b3d70191f62381b2a538bed852bbc33ea9e3b3d2823ab29ca161b86f4a55780a172dd349aac4e924a43074edab6b47080c7474f5aa92b16a34874c4266d295ef9051cb53e08833886736af0f8a00d57edd25fe47f6a1068ca4b5ca5a1a18aac0496e2ea4a5f1dba07562b064f4b1f194335981f9247446d068ca0e223adfaf8545d18d44e4d659e5be0a4c619471243f58463089fd7e7be2475ab1c200562436ca2c3ebc/194/1280x720_2300392/index.m3u8
 
 #EXTINF:-1 tvg-name="Surongo" group-title="Bangla Movies",Test
-https://bd-ak-pdlive.akamaized.net/mumbai/4248192_english_hls_4f347bd4c216779_1ta-di_h264/index.m3u8
+https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/198.ts
+
 
 
 
