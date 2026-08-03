@@ -145,7 +145,7 @@ https://live.sanandatelevision.in/sananda/index.m3u8
 
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp", Discovery Bangla
-https://sm-monirul.top/@monirul_Islam_SM/play/discovery_hd.m3u8
+https://sm-monirul.top/sm/proxy.php?id=discovery_bangla&formet=.m3u8
 
 # --- Bangla Natok (1 Server) ---
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/ClcgnwX.th.jpg", Bangla Natok
@@ -263,9 +263,8 @@ https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 
 
-#EXTINF:-1 tvg-name="Movies" tvg-logo="https://iili.io/Ckk9pWJ.th.jpg",  group-title="Hindi", Zee Cinema
-https://stream.ottplus.live/live/zee_cinema_hd_abr/live/zee_cinema_hd_720/chunks.m3u8?nimblesessionid=64203217
-
+#EXTINF:-1 tvg-name="Movies" tvg-logo="https://iili.io/CUjmDkN.th.png",  group-title="Hindi", Colors Cineplex HD
+https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://66.102.126.10:8000/play/a076/index.m3u8
 
 #EXTINF:-1 tvg-name="Movies" tvg-logo="https://iili.io/Ckk353x.th.jpg",  group-title="Hindi", Sony SAB
 https://stream.ottplus.bd/live/sub_hd_abr/live/sony_sub_hd_720/chunks.m3u8?nimblesessionid=64213928
