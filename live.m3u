@@ -58,7 +58,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 # --- Somoy TV (1 Server) ---
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CjUEHuV.th.jpg", Somoy TV
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+https://sm-monirul.top/@monirul_Islam_SM/play/somoy_tv.m3u8
 
 # --- News 24 (1 Server) ---
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CjUX1CN.th.png", News 24
@@ -140,6 +140,9 @@ https://sm-monirul.top/sm/proxy.php?id=discovery_bangla&formet=.m3u8
 # --- Bangla Natok (1 Server) ---
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/ClcgnwX.th.jpg", Bangla Natok
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="toffee_drama" tvg-name="Toffee Dramas" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/5638c4e8-36ba-4e8e-848e-233183b3ec17.png" group-title="Drama",Toffee Dramas
+https://sm-monirul.top/@monirul_Islam_SM/play/toffee_drama.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://imglink.cc/cdn/B1Dn0E5UKs.png", Movie Bangla
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://alvetv.com/moviebanglatv/8080/index.m3u8
