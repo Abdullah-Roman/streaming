@@ -58,7 +58,7 @@ https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://sm-monirul.top/@moni
 
 #-------ATN NEWS----
 #EXTINF:-1  tvg-logo="https://iili.io/CeMZ8fs.th.png",ATN News
-https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?urlhttp://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=atn_news&format=.m3u8
+https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=atn_news&format=.m3u8
 
 #EXTINF:-1  tvg-logo="https://tubextra.b-cdn.net/channelone.png",Channel 1
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
@@ -73,7 +73,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-vid
 
 # --- DBC News (1 Server) ---
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CjUTzjj.th.jpg", DBC News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728-audio_113582_eng=113200-video=3224800.m3u8
+https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=dbc_news&format=.m3u8
 
 # --- NTV (1 Server) ---
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/C5XhmFV.png", NTV
