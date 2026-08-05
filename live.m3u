@@ -69,7 +69,7 @@ https://sm-monirul.top/@monirul_Islam_SM/play/somoy_tv.m3u8
 
 # --- News 24 (1 Server) ---
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CjUX1CN.th.png", News 24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=2202800.m3u8
+https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=news_24_bd&format=.m3u8
 
 # --- DBC News (1 Server) ---
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CjUTzjj.th.jpg", DBC News
@@ -77,18 +77,18 @@ https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://sm-monirul.top/@moni
 
 # --- NTV (1 Server) ---
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/C5XhmFV.png", NTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=ntv&format=.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/CeM6ooG.th.jpg" group-title="BD TV",RTV (720p)
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://tvsen5.aynascope.net/RtvHD/index.m3u8
 
 # ---Channel I (1 Server) ---
-#EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CkfBUfR.th.jpg", Channel I
-https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-01/images_99c9ba1977777337bdc037f79ed921ea_playmist_channel_i_500x296.jpg", Channel I
+https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=channel_i&format=.m3u8
 
 # --- Ekhon TV (1 Server) ---
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CjpNgix.th.jpg", Ekhon TV
-https://stream.ottplus.live/live/ekhon_tv_abr/index.m3u8
+https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=ekhon_tv&format=.m3u8
 
 # --- Desh TV (1 Server) ---
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CwNc0IS.th.jpg", Nagorik TV
