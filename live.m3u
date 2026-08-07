@@ -58,7 +58,7 @@ https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://sm-monirul.top/@moni
 
 #-------ATN NEWS----
 #EXTINF:-1  tvg-logo="https://iili.io/CeMZ8fs.th.png",ATN News
-https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=atn_news&format=.m3u8
+https://playztv-apps.pages.dev/atn-bangla/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://tubextra.b-cdn.net/channelone.png",Channel 1
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
@@ -73,18 +73,18 @@ https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://sm-monirul.top/@moni
 
 # --- DBC News (1 Server) ---
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CjUTzjj.th.jpg", DBC News
-https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=dbc_news&format=.m3u8
+https://playztv-apps.pages.dev/dbc-news/index.m3u8
 
 # --- NTV (1 Server) ---
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/C5XhmFV.png", NTV
-https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=ntv&format=.m3u8
+https://playztv-apps.pages.dev/ntv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/CeM6ooG.th.jpg" group-title="BD TV",RTV (720p)
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://tvsen5.aynascope.net/RtvHD/index.m3u8
 
 # ---Channel I (1 Server) ---
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-01/images_99c9ba1977777337bdc037f79ed921ea_playmist_channel_i_500x296.jpg", Channel I
-https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=channel_i&format=.m3u8
+https://playztv-apps.pages.dev/channel-i/index.m3u8
 
 # --- Ekhon TV (1 Server) ---
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CjpNgix.th.jpg", Ekhon TV
@@ -92,7 +92,7 @@ https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://sm-monirul.top/@moni
 
 # --- Desh TV (1 Server) ---
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CwNc0IS.th.jpg", Nagorik TV
-https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://103.151.61.12/Nagorik_TV/video.m3u8?token=i7bZaZWaFrSIE0
+https://playztv-apps.pages.dev/desh-tv/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://iili.io/CkkTc9n.th.jpg",NEXUS TV
 https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
@@ -113,15 +113,15 @@ https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://210.4.72.204/hls-liv
 
 # --- Ekattor TV (1 Server) ---
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/C5X9K1j.md.png", Ekattor TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=2202800.m3u8
+https://playztv-apps.pages.dev/ekattor-tv/index.m3u8
 
 # --- Jamuna TV (1 Server) ---
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/C74OoNa.th.png", Jamuna TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=2202800.m3u8
+https://playztv-apps.pages.dev/jamuna-tv/index.m3u8
 
 #-------Channel 9----------
 #EXTINF:-1  tvg-logo="https://tubextra.b-cdn.net/channel9.png",Channel 9 HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+https://playztv-apps.pages.dev/channel-9/index.m3u8
 
 # --- Deepto TV (1 Server) ---
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/Cj4Bjol.th.jpg", Deepto TV
