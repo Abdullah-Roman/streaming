@@ -65,7 +65,7 @@ https://stream.ottplus.live/live/channel_1_hd_abr/live/channel_1_hd_720/chunks.m
 
 # --- Somoy TV (1 Server) ---
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CjUEHuV.th.jpg", Somoy TV
-https://sm-monirul.top/@monirul_Islam_SM/play/somoy_tv.m3u8
+https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/tracks-v1a1/mono.ts.m3u8
 
 # --- News 24 (1 Server) ---
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CjUX1CN.th.png", News 24
@@ -164,8 +164,7 @@ https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 
 # --- ZEE Bangla Sonar (1 Server) ---
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CwNMSCN.th.jpg", ZEE Bangla Sonar
-https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/playlist.m3u8
-
+https://mflixott.com/tv/toffee-by-maruf/live.php?cid=zee_bangla_cinema&key=290d0c82c8ab83a96be79964a5e4efbc84b92ac83a8428a4835d89de1864cc8f93ae31db2594d959d181c0f0c2b9e0d7
 
 # --- Star Jalsa (1 Server) ---
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CE2C1G2.th.jpg", Star Jalsa
