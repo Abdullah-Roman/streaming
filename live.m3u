@@ -141,9 +141,6 @@ https://sm-monirul.top/sm/proxy.php?id=discovery_bangla&formet=.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/ClcgnwX.th.jpg", Bangla Natok
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="toffee_drama" tvg-name="Toffee Dramas" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/5638c4e8-36ba-4e8e-848e-233183b3ec17.png" group-title="Drama",Toffee Dramas
-https://sm-monirul.top/@monirul_Islam_SM/play/toffee_drama.m3u8
-
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://imglink.cc/cdn/B1Dn0E5UKs.png", Movie Bangla
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://alvetv.com/moviebanglatv/8080/index.m3u8
 
@@ -155,14 +152,9 @@ https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://alvetv.com/moviebang
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CEtU2af.th.jpg", ZEE Bangla
 https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 
-# --- ZEE Bangla Sonar (1 Server) ---
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CwNMSCN.th.jpg", ZEE Bangla Sonar
-https://mflixott.com/tv/toffee-by-maruf/live.php?cid=zee_bangla_cinema&key=290d0c82c8ab83a96be79964a5e4efbc84b92ac83a8428a4835d89de1864cc8f93ae31db2594d959d181c0f0c2b9e0d7
-
 # --- Star Jalsa (1 Server) ---
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CE2C1G2.th.jpg", Star Jalsa
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://103.165.93.31:8095/starJalsha/tracks-v1a1/mono.m3u8
-https://sports.abdullahroman276.workers.dev/playlist.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CE2C1G2.th.jpg", Jalsa Movies
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://103.151.61.12/Jalsha_Movie/video.m3u8
@@ -207,6 +199,10 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GyDcpFZ/Aaj-tak-logo.png" group-title="INDIAN CHANNELS",Aaj Tak Bangla
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
+
+# --- ZEE Bangla Sonar (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CwNMSCN.th.jpg", ZEE Bangla Sonar
+https://mflixott.com/tv/toffee-by-maruf/live.php?cid=zee_bangla_cinema&key=290d0c82c8ab83a96be79964a5e4efbc84b92ac83a8428a4835d89de1864cc8f93ae31db2594d959d181c0f0c2b9e0d7
 
 
 # ==========================================
