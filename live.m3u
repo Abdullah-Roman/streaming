@@ -3,34 +3,27 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-#EXTINF:-1 tvg-name="A Sports" group-title="SPORTS",A Sports
-https://playztv-apps.pages.dev/asports/index.m3u8
-
 # --- T Sports ---
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
-https://ts.arroman99.workers.dev/playlist.m3u8
 
+#EXTINF:-1 tvg-name="A Sports" group-title="SPORTS",A Sports
+https://playztv-apps.pages.dev/asports/index.m3u8
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png", West Indies Vs Pakistan
 https://tvsen5.aynascope.net/willowhd/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Sports Live" tvg-logo="", lanka Premier League
-https://github.com/abusaeeidx/Mrgify-BDIX-IPTV/blob/main/playlist.m3u
-
-#EXTINF:-1 tvg-id="fifa_world_cup" tvg-name="WC Match Recap" tvg-logo="https://assets-prod.services.toffeelive.com/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png" group-title="Sports",WC Match Recap
-https://sm-monirul.top/@monirul_Islam_SM/play/fifa_world_cup.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png",WC Match Recap
+#EXTVLCOPT:http-user-agent=okhttp/5.1.0
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1786644021:KeyName=prod_linear:Signature=P4esza0Lq2VIiPXfG3gyCa0JDF0Z1MbjO-IuBJG6yqLUfOlVhJzOG5z7dhy_jGEyPyl9xC52OshtSu0UO06jBg"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/fifa_world_cup/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Beign Sports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
-# --- 26 Fox ---
-#EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CcRcJJS.th.jpg", Fox 26
-https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://206.212.244.63/63/index.m3u8
-
 # --- PTV Sports (1 Server) ---
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CRyyGX2.jpg", PTV Sports
-https://live.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.61.12%2FPTV%2Ftracks-v1a1%2Fmono.m3u8
+https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059
 
 # ==========================================
 # 🏏 CRICKET TV
@@ -135,7 +128,7 @@ https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/playlist.m3u8
 https://iptvbd.live/metv1080/1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6xkMyD7/mob-logo.png" group-title="BANGLADESHI CHANNELS",Star News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
+https://akash.sm-monirul.top/star_news.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6xkMyD7/mob-logo.png" group-title="BANGLADESHI CHANNELS",Sanonda TV
 https://live.sanandatelevision.in/sananda/index.m3u8
