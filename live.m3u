@@ -7,6 +7,9 @@
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="tapmad-15958" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864294671020x576.jpg" group-title="Cricket", Australia vs Bangladesh | Bangladesh Tour of Australia 2026
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://postimg.cc/G8Tyk3dc", Star Sports 1
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://41.205.93.154/STARSPORTS1/tracks-v1/mono.m3u8
 
