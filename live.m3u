@@ -18,9 +18,8 @@ https://playztv-apps.pages.dev/asports/index.m3u8
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6127/index.m3u8
 
 # --- PTV Sports (1 Server) ---
-#EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CRyyGX2.jpg", PTV Sports
-https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059
-
+#EXTINF:-1 group-title="Sports Live" tvg-logo="", Euro Sports
+https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
 # ==========================================
 # 🏏 CRICKET TV
 # ==========================================
@@ -131,7 +130,7 @@ https://live.sanandatelevision.in/sananda/index.m3u8
 
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp", Discovery Bangla
-https://sm-monirul.top/sm/proxy.php?id=discovery_bangla&formet=.m3u8
+https://stream.ottplus.bd/live/discovery_sd_abr/index.m3u8
 
 # --- Bangla Natok (1 Server) ---
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/ClcgnwX.th.jpg", Bangla Natok
@@ -151,6 +150,9 @@ https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 # --- Star Jalsa (1 Server) ---
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CE2C1G2.th.jpg", Star Jalsa
 https://footfytv.pro/proxy/direct?url=https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281675.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="", Zee Bangla Sonar
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CE2C1G2.th.jpg", Jalsa Movies
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://103.151.61.12/Jalsha_Movie/video.m3u8
