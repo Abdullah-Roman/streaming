@@ -290,7 +290,7 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://imglink.cc/cdn/cZxNWhHkaZ.jpg", Oggy and the Cockroaches
 https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="tapmad-16701" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885050981020x576.jpg" group-title="Cricket", Rotterdam Dockers vs Edinburgh Castle Rockers | European T20 Premier League 2026
+#EXTINF:-1 group-title="Cartoon" tvg-id="tapmad-16701" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885050981020x576.jpg" group-title="Cricket", Rotterdam Dockers vs Edinburgh Castle Rockers | European T20 Premier League 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 
 
