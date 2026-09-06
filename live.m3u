@@ -15,9 +15,11 @@ https://playztv-apps.pages.dev/asports/index.m3u8
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="", Sony Sports 1
 https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8
+
 # --- PTV Sports (1 Server) ---
 #EXTINF:-1 group-title="Sports Live" tvg-logo="", Euro Sports
 https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
+
 # ==========================================
 # 🏏 CRICKET TV
 # ==========================================
@@ -153,7 +155,7 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b19
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CE2C1G2.th.jpg", Jalsa Movies
-https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://103.151.61.12/Jalsha_Movie/video.m3u8
+https://iptvlive-beta.vercel.app/jalsha-movies/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://iili.io/Ckk5qiv.th.jpg",ZB Cinema
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
