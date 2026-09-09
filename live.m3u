@@ -22,15 +22,6 @@ https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 #EXTINF:-1 tvg-name="A Sports" group-title="SPORTS",A Sports
 https://playztv-apps.pages.dev/a-sports/index.m3u8
 
-
-# --- PTV Sports (1 Server) ---
-#EXTINF:-1 group-title="Sports Live" tvg-logo="", Euro Sports
-https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090541741" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023417/1788434893656794_eng_vs_pak_3test_D1_live_landscape_thumb.jpg" group-title="Cricket", Day 1 - 3rd Test - 9 Sep 2026 | Pakistan Tour of England 2026
-https://sonydaimenew.akamaized.net/hls/live/2037142/Criclive0909/ENG/master.m3u8?hdnea=exp=1788988831~acl=/*~id=62415026938628427784494396688495~hmac=d75d1f44dec53c1039710f390e6b0ac45f16df36c8d2db19db166342b22245ca
-
-
 # ==========================================
 # 🏏 CRICKET TV
 # ==========================================
@@ -59,9 +50,8 @@ https://tvsen5.aynaott.com/banglavision/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  tvg-logo="https://iili.io/CeMZ8fs.th.png",ATN News
 https://playztv-apps.pages.dev/atn-bangla/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://tubextra.b-cdn.net/channelone.png",Channel 9
-https://tvsen6.aynaott.com/kajlsd57jnkdf/index.m3u8?e=1784102566&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=de9d33cfd8daf9a7f2e56a88534d0548
-
+#EXTINF:-1  tvg-logo="",Asian TV
+https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8
 # --- Somoy TV (1 Server) ---
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CjUEHuV.th.jpg", Somoy TV
 https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/tracks-v1a1/mono.ts.m3u8
