@@ -292,8 +292,9 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://imglink.cc/cdn/cZxNWhHkaZ.jpg", Oggy and the Cockroaches
 https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="tapmad-17021" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889412761020x576.jpg" group-title="Football", Napoli vs Arsenal | UEFA Champions League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFIDjbaQa9HhVkvfSO3QDkxybmP.jpg" group-title="VOD - India - Bollywood",Murphy (2024)
+http://polarbear.mov:80/movie/9857855271/8369553594/698748.mp4
+
 
 
 
