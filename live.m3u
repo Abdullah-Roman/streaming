@@ -250,8 +250,8 @@ https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://66.102.126.10:8000/p
 #EXTINF:-1 tvg-name="Hindi" tvg-logo="https://iili.io/CeW7rwG.th.jpg",  group-title="Hindi",Sony Max
 https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
 
-#EXTINF:-1 tvg-name="Movies" tvg-logo="https://iili.io/CeWYgUP.th.jpg",  group-title="Hindi",Goldmines
-https://cdn-2.pishow.tv/live/1459/master.m3u8
+#EXTINF:-1 tvg-name="Movies" tvg-logo="",  group-title="Hindi",Z Bollywood
+https://stream.ottplus.live/live/zee_bollywood_abr/index.m3u8
 
 #EXTINF:-1 tvg-name="Movies" tvg-logo="https://iili.io/CkkquDB.th.jpg",  group-title="Hindi", & TV
 https://sm-monirul.top/@monirul_Islam_SM/play/andpicture_hd.m3u8
@@ -293,8 +293,7 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFIDjbaQa9HhVkvfSO3QDkxybmP.jpg" group-title="VOD - India - Bollywood",Murphy (2024)
-https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://polarbear.mov:80/movie/9857855271/8369553594/698748.mp4
-
+https://flixhub.net/stream/movie/spider-man-brand-new-day
 
 
 
