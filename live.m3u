@@ -7,6 +7,9 @@
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="tapmad-17088" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890468111020x576.jpg" group-title="Football", Al Qadsiah vs Al-Ettifaq | Saudi Pro League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+
 #EXTINF:-1 group-title="Sports Live" tvg-logo="", Sony Sports 1
 https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8
 
