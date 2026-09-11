@@ -1,9 +1,9 @@
 import urllib.request
 import re
 
-# Pointing to the .m3u source you provided
 M3U_URL = "https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u"
 M3U_FILE = "live.m3u"
+PROXY_PREFIX = "https://tapmad.arroman99.workers.dev/?url="
 
 PLAYLIST_TEMPLATE = """#EXTM3U
 # ==========================================
@@ -136,6 +136,7 @@ https://akash.sm-monirul.top/star_news.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6xkMyD7/mob-logo.png" group-title="BANGLADESHI CHANNELS",Sanonda TV
 https://live.sanandatelevision.in/sananda/index.m3u8
 
+
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp", Discovery Bangla
 https://stream.ottplus.bd/live/discovery_sd_abr/index.m3u8
 
@@ -208,6 +209,7 @@ https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720
 # --- ZEE Bangla Sonar (1 Server) ---
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CwNMSCN.th.jpg", ZEE Bangla Sonar
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=562400.m3u8
+
 
 # ==========================================
 # 📺 MUSIC TV 
@@ -333,7 +335,14 @@ def generate_m3u():
             current_extinf = line
         elif line.startswith("http"):
             if current_extinf:
-                dynamic_m3u += f"{current_extinf}\n{line}\n\n"
+                
+                # Check if it's a stream that needs the proxy (Akamai, Tapmad, or SonyLIV)
+                if "akamaized.net" in line or "tapmad" in line:
+                    final_url = f"{PROXY_PREFIX}{line}"
+                else:
+                    final_url = line
+                
+                dynamic_m3u += f"{current_extinf}\n{final_url}\n\n"
                 current_extinf = ""
 
     final_m3u = PLAYLIST_TEMPLATE.replace("{DYNAMIC_CHANNELS}", dynamic_m3u)
