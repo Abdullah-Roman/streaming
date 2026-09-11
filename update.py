@@ -1,11 +1,10 @@
-import json
 import urllib.request
+import re
 
-JSON_URL = "https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.json"
+# Pointing to the .m3u source you provided
+M3U_URL = "https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u"
 M3U_FILE = "live.m3u"
 
-# This contains your EXACT playlist. The {DYNAMIC_CHANNELS} tag tells the 
-# script exactly where to inject the live Tapmad matches.
 PLAYLIST_TEMPLATE = """#EXTM3U
 # ==========================================
 # 🏆 Sports LIVE
@@ -45,7 +44,6 @@ https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 # --- Ban Vs Zim (1 Server) ---
 #EXTINF:-1 group-title="Cricket" tvg-logo="https://iili.io/ClmZfwX.th.jpg", Star Sports 1
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://103.151.60.204:881/StarSports1/video.m3u8
-
 
 # ==========================================
 # 📺 BD TV
@@ -211,7 +209,6 @@ https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CwNMSCN.th.jpg", ZEE Bangla Sonar
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=562400.m3u8
 
-
 # ==========================================
 # 📺 MUSIC TV 
 # ==========================================
@@ -311,36 +308,39 @@ https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_cafe_hd/playlist.m3u8"""
 
 def generate_m3u():
-    # Fetch the JSON data
-    req = urllib.request.Request(JSON_URL, headers={'User-Agent': 'Mozilla/5.0'})
+    req = urllib.request.Request(M3U_URL, headers={'User-Agent': 'Mozilla/5.0'})
     try:
         with urllib.request.urlopen(req) as response:
-            data = json.loads(response.read().decode())
-        
-        channels = data if isinstance(data, list) else data.get('channels', [])
+            lines = response.read().decode('utf-8').splitlines()
     except Exception as e:
-        print(f"Error fetching JSON: {e}")
+        print(f"Error fetching external M3U: {e}")
         return
 
-    # Build the dynamic section
     dynamic_m3u = ""
-    for ch in channels:
-        name = ch.get('name', ch.get('title', 'Unknown Channel'))
-        url = ch.get('url', ch.get('link', ''))
-        logo = ch.get('logo', ch.get('tvg-logo', ''))
+    current_extinf = ""
+
+    for line in lines:
+        line = line.strip()
+        if not line or line == "#EXTM3U":
+            continue
         
-        # Force capitalization to match your template
-        group = "Sports Live"
+        if line.startswith("#EXTINF"):
+            # Force the group-title to "Sports Live"
+            if 'group-title="' in line:
+                line = re.sub(r'group-title="[^"]*"', 'group-title="Sports Live"', line)
+            else:
+                line = line.replace('#EXTINF:-1', '#EXTINF:-1 group-title="Sports Live"')
+            current_extinf = line
+        elif line.startswith("http"):
+            if current_extinf:
+                dynamic_m3u += f"{current_extinf}\n{line}\n\n"
+                current_extinf = ""
 
-        if url:
-            dynamic_m3u += f'#EXTINF:-1 tvg-logo="{logo}" group-title="{group}",{name}\n{url}\n\n'
-
-    # Inject the generated dynamic string into the template
     final_m3u = PLAYLIST_TEMPLATE.replace("{DYNAMIC_CHANNELS}", dynamic_m3u)
 
-    # Write the complete file
     with open(M3U_FILE, 'w', encoding='utf-8') as f:
         f.write(final_m3u)
+        print("Successfully updated live.m3u")
 
 if __name__ == "__main__":
     generate_m3u()
