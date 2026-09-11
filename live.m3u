@@ -292,8 +292,9 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://imglink.cc/cdn/cZxNWhHkaZ.jpg", Oggy and the Cockroaches
 https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFIDjbaQa9HhVkvfSO3QDkxybmP.jpg" group-title="VOD - India - Bollywood",Murphy (2024)
-https://flixhub.net/stream/movie/spider-man-brand-new-day/hls/SpiderMan-Brand.New.Day.2026.1080p.V4-HDTC.Multi-LiNE.x264.mp4
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://uretyhn.b-cdn.net/upload/photos/2026/07/Heart.Beat.(2026).S03..jpg" group-title="Latest Movie", Heart Beat S03E25-28 Dual 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://uretyhn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Heart.Beat.S03E25-28.Dual.720p.mkv
 
 
 
