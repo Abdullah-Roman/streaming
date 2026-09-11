@@ -7,11 +7,12 @@
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="tapmad-17088" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890468111020x576.jpg" group-title="Football", Al Qadsiah vs Al-Ettifaq | Saudi Pro League 2026/27
-https://tapmad.arroman99.workers.dev/?url=https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15935" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881781931020x576.jpg" group-title="Sports Live", England vs Pakistan | Pakistan Tour of England 2026
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090542090" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023657/1788867245115826_WAC26_Semi_Final_Sri_Lanka_vs_Pakistan_8sep_eng_landscape_thumb.jpg" group-title="Cricket", Sri Lanka Women vs Pakistan Women - Semi-final - 11 Sep 2026 | DP World Women's Asia Cup 2026
-https://sonyliv.arroman99.workers.dev/?url=https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1109/ENG/master.m3u8?hdnea=exp=1789179642~acl=/*~id=36589603632662528717618025338865~hmac=d36a772f63b5ab0ce8fe05bb1b6d1cbc4642da46c7f3058e57a9ee70d2ea0466
+#EXTINF:-1 tvg-id="tapmad-16316" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890190991020x576.jpg" group-title="Sports Live", Women's Doubles Final | US Open 2026
+https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8
+
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="", Sony Sports 1
 https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8
@@ -42,7 +43,6 @@ https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 # --- Ban Vs Zim (1 Server) ---
 #EXTINF:-1 group-title="Cricket" tvg-logo="https://iili.io/ClmZfwX.th.jpg", Star Sports 1
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://103.151.60.204:881/StarSports1/video.m3u8
-
 
 # ==========================================
 # 📺 BD TV
@@ -135,7 +135,6 @@ https://akash.sm-monirul.top/star_news.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6xkMyD7/mob-logo.png" group-title="BANGLADESHI CHANNELS",Sanonda TV
 https://live.sanandatelevision.in/sananda/index.m3u8
 
-
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp", Discovery Bangla
 https://stream.ottplus.bd/live/discovery_sd_abr/index.m3u8
 
@@ -208,7 +207,6 @@ https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720
 # --- ZEE Bangla Sonar (1 Server) ---
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CwNMSCN.th.jpg", ZEE Bangla Sonar
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=562400.m3u8
-
 
 # ==========================================
 # 📺 MUSIC TV 
@@ -307,11 +305,3 @@ https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/U3QEd5YBcqxnFHJBpYzc/posters/8bc7ae1b-1a46-4b76-bdb1-13c7dbd3a95c.png",[BD] Zee Cafe
 https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_cafe_hd/playlist.m3u8
-
-
-
-
-
-
-
-
