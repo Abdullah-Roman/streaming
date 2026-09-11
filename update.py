@@ -4,12 +4,311 @@ import urllib.request
 JSON_URL = "https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.json"
 M3U_FILE = "live.m3u"
 
-# Define your default channels here. 
-# They will always appear at the top of the playlist.
-STATIC_CHANNELS = """#EXTM3U
-#EXTINF:-1 tvg-logo="https://iili.io/CjUgT6G.th.jpg" group-title="Sports LIVE",T Sports
+# This contains your EXACT playlist. The {DYNAMIC_CHANNELS} tag tells the 
+# script exactly where to inject the live Tapmad matches.
+PLAYLIST_TEMPLATE = """#EXTM3U
+# ==========================================
+# 🏆 Sports LIVE
+# ==========================================
+
+# --- T Sports ---
+#EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
-"""
+
+{DYNAMIC_CHANNELS}
+#EXTINF:-1 group-title="Sports Live" tvg-logo="", Sony Sports 1
+https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports Live" tvg-logo="", Sony Sports 2
+https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports Live" tvg-logo="", Sony Sports 5
+https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports Live" tvg-logo="https://postimg.cc/G8Tyk3dc", Star Sports 2
+https://tvsen7.aynaott.com/ssport2hd/index.m3u8
+
+#EXTINF:-1 tvg-name="A Sports" group-title="SPORTS",A Sports
+https://playztv-apps.pages.dev/a-sports/index.m3u8
+
+# ==========================================
+# 🏏 CRICKET TV
+# ==========================================
+
+#EXTINF:-1 group-title="Cricket" tvg-logo="https://tubextra.b-cdn.net/download%20(5).png", Willow Sports
+https://tvsen5.aynascope.net/willowhd/tracks-v1a1/mono.ts.m3u8
+
+# --- Ban Vs Zim (1 Server) ---
+#EXTINF:-1 group-title="Cricket" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
+
+# --- Ban Vs Zim (1 Server) ---
+#EXTINF:-1 group-title="Cricket" tvg-logo="https://iili.io/ClmZfwX.th.jpg", Star Sports 1
+https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://103.151.60.204:881/StarSports1/video.m3u8
+
+
+# ==========================================
+# 📺 BD TV
+# ==========================================
+
+# --- Bangla Vision (1 Server) ---
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CjUVOHG.th.jpg", Bangla Vision
+https://tvsen5.aynaott.com/banglavision/tracks-v1a1/mono.ts.m3u8
+
+#-------ATN NEWS----
+#EXTINF:-1  tvg-logo="https://iili.io/CeMZ8fs.th.png",ATN News
+https://playztv-apps.pages.dev/atn-bangla/index.m3u8
+
+#EXTINF:-1  tvg-logo="",Asian TV
+https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8
+# --- Somoy TV (1 Server) ---
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CjUEHuV.th.jpg", Somoy TV
+https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/tracks-v1a1/mono.ts.m3u8
+
+# --- News 24 (1 Server) ---
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CjUX1CN.th.png", News 24
+https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8?e=1784102534&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=ff40b53535a0e90b724ac25ff41c590c
+
+# --- DBC News (1 Server) ---
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CjUTzjj.th.jpg", DBC News
+https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8?e=1784102535&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=d1848b7fd84cef719a89b61f0f5704ee
+
+# --- NTV (1 Server) ---
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/C5XhmFV.png", NTV
+https://playztv-apps.pages.dev/ntv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/CeM6ooG.th.jpg" group-title="BD TV",RTV (720p)
+https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://tvsen5.aynascope.net/RtvHD/index.m3u8
+
+# ---Channel I (1 Server) ---
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-01/images_99c9ba1977777337bdc037f79ed921ea_playmist_channel_i_500x296.jpg", Channel I
+https://playztv-apps.pages.dev/channel-i/index.m3u8
+
+# --- Ekhon TV (1 Server) ---
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CjpNgix.th.jpg", Ekhon TV
+https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8?e=1784102563&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=b5e80a73380863be907284374bdb2bda
+
+# --- Desh TV (1 Server) ---
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CwNc0IS.th.jpg", Desh TV
+https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8?e=1784102570&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=78b23c868a34420397be9c985d04db9b
+
+#EXTINF:-1  tvg-logo="https://iili.io/CkkTc9n.th.jpg",NEXUS TV
+https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8?e=1784102571&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=61db2452abffc778eb75333c98c136a2
+
+# --- Deshe Bideshe TV (1 Server) ---
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CwNl6Pe.th.jpg", Deshe Bideshe
+https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
+
+# --- Independent TV (1 Server) ---
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/C76RVR9.png", Independent TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/independent-8-org.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="191000" tvg-name="Star News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png" group-title="BD TV",Star News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="BD TV",Ekushey TV
+https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+# --- Ekattor TV (1 Server) ---
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/C5X9K1j.md.png", Ekattor TV
+https://playztv-apps.pages.dev/ekattor-tv/index.m3u8
+
+# --- Jamuna TV (1 Server) ---
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/C74OoNa.th.png", Jamuna TV
+https://playztv-apps.pages.dev/jamuna-tv/index.m3u8
+
+#-------Channel 9----------
+#EXTINF:-1  tvg-logo="https://tubextra.b-cdn.net/channel9.png",Channel 9 HD
+https://playztv-apps.pages.dev/channel-9/index.m3u8
+
+# --- Deepto TV (1 Server) ---
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/Cj4Bjol.th.jpg", Deepto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+
+#-------Thikana TV---------
+#EXTINF:-1  tvg-logo="https://tubextra.b-cdn.net/thikana.jpg",Thikana Tv
+https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VWL70Dvx/logo.png" group-title="BANGLADESHI CHANNELS",Me IPTV BD
+https://iptvbd.live/metv1080/1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6xkMyD7/mob-logo.png" group-title="BANGLADESHI CHANNELS",Star News
+https://akash.sm-monirul.top/star_news.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6xkMyD7/mob-logo.png" group-title="BANGLADESHI CHANNELS",Sanonda TV
+https://live.sanandatelevision.in/sananda/index.m3u8
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp", Discovery Bangla
+https://stream.ottplus.bd/live/discovery_sd_abr/index.m3u8
+
+# --- Bangla Natok (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/ClcgnwX.th.jpg", Bangla Natok
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://imglink.cc/cdn/B1Dn0E5UKs.png", Movie Bangla
+https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://alvetv.com/moviebanglatv/8080/index.m3u8
+
+# ==========================================
+# 📺 INDIAN BANGLA TV
+# ==========================================
+
+# --- ZEE Bangla (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CEtU2af.th.jpg", ZEE Bangla
+https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
+
+# --- Star Jalsa (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CE2C1G2.th.jpg", Star Jalsa
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="", Zee Bangla Sonar
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CE2C1G2.th.jpg", Jalsa Movies
+https://iptvlive-beta.vercel.app/jalsha-movies/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://iili.io/Ckk5qiv.th.jpg",ZB Cinema
+https://server.zillarbarta.com/ZBCINEMA/index.m3u8
+
+# --- Enter 10 (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CwN1YYJ.th.jpg", Enter 10
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
+
+# --- Jhankar Tv (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CwNgw8v.th.jpg", Jhankar Tv
+https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
+
+# --- Colors Bangla (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CjpIwzb.th.jpg", COLORS Bangla
+https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
+
+# --- Rongeen TV (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CjL1Wnj.th.png", Rongeen TV
+https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
+
+# --- Akash Ath (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CjLENsf.th.jpg", Akash Ath
+https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
+
+# --- Sun Bangla (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/Ce1euqu.th.jpg", Sun Bangla
+https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://27.124.71.27/Sun_Bangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Republic Bangla
+https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/06e5afc2-a022-4e51-9131-4e33a6207c5c/1.m3u8
+
+# --- Sony Ath (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CwOJwUx.th.jpg", Sony Ath
+https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
+
+# --- Bangla Plus (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CwN0v0g.th.jpg", Bangla Plus
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GyDcpFZ/Aaj-tak-logo.png" group-title="INDIAN CHANNELS",Aaj Tak Bangla
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
+
+# --- ZEE Bangla Sonar (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CwNMSCN.th.jpg", ZEE Bangla Sonar
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=562400.m3u8
+
+
+# ==========================================
+# 📺 MUSIC TV 
+# ==========================================
+
+#EXTINF:-1  tvg-logo="https://tubextra.b-cdn.net/9xm.png",9xm
+https://wiselp.wiseplayout.com/9XM/HD1080/HD1080.m3u8
+
+#EXTINF:-1  tvg-logo="https://tubextra.b-cdn.net/images.png",YRF Music HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://tubextra.b-cdn.net/download%20(4).png",9X Jalwa
+https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",9X Jhakaas
+https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
+
+#EXTINF:-1 tvg-name="Hindi Hits HD" group-title="Hindi Music",Hindi Hits HD
+https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://146.59.253.52:8080/hindihitshd/index.m3u8
+
+#EXTINF:-1 tvg-name="Joo Music" group-title="Hindi Movies",Joo Music
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Baallee" group-title="MUSIC",Music India
+https://cdn-2.pishow.tv/live/226/master.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Music Masti
+https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/Ck8EfSa.th.jpg" group-title="MUSIC",B4U Music
+https://cdn-2.pishow.tv/live/415/master.m3u8
+
+#EXTINF:-1 tvg-name="B4U Movies" group-title="MUSIC",Zoom
+https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+
+# --- Sangeet Bangla (1 Server) ---
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://tubextra.b-cdn.net/download%20(14).jpg", Sangeet Bangla
+https://cdn-4.pishow.tv/live/1143/master.m3u8
+https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://66.102.126.10:8000/play/a076/66165879.m3u8
+
+# ==========================================
+# 📺 HINDI
+# ==========================================
+
+#EXTINF:-1 tvg-name="Hindi" tvg-logo="https://iili.io/CeW7rwG.th.jpg",  group-title="Hindi",Sony Max
+https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Movies" tvg-logo="",  group-title="Hindi",Z Bollywood
+https://stream.ottplus.live/live/zee_bollywood_abr/index.m3u8
+
+#EXTINF:-1 tvg-name="Movies" tvg-logo="https://iili.io/CkkquDB.th.jpg",  group-title="Hindi", & TV
+https://sm-monirul.top/@monirul_Islam_SM/play/andpicture_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="MOVIES CHANNELS",SHEEMAROO BOLLYWOOD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HDpmh2wH/Zee-Cinema-2025-svg.png" group-title="MOVIES CHANNELS",ZEE CINEMA HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/55zvH8Z/Picsart-23-06-09-19-57-34-590.png" group-title="INFOTAINMENT CHANNELS",DISCOVERY HINDI
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=discovery_hd&e=.m3u8
+
+# ==========================================
+# 📺 CARTOON TV
+# ==========================================
+
+# --- ZB Cartoon ---
+#EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/CwNWPIf.th.jpg", ZB Cartoon
+https://server.zillarbarta.com/zbcatun/video.m3u8
+
+# --- Gopal Var ---
+#EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/Ca2tYKP.jpg", Gopal Var
+https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/CjU8F3l.th.jpg", Motu Patlu
+https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/CjUecjs.th.jpg", Tom & Jerry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Mr Bean Animated" group-title="CARTOON Drama",Mr Bean Animated
+https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/CjUNsJ1.th.png", Cartoon Network
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
+
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://imglink.cc/cdn/cZxNWhHkaZ.jpg", Oggy and the Cockroaches
+https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://uretyhn.b-cdn.net/upload/photos/2026/07/Heart.Beat.(2026).S03..jpg" group-title="Latest Movie", Heart Beat S03E25-28 Dual 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://uretyhn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Heart.Beat.S03E25-28.Dual.720p.mkv
+
+#EXTINF:-1 tvg-id="tapmad-15935" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881781931020x576.jpg" group-title="Cricket", England vs Pakistan | Pakistan Tour of England 2026
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/U3QEd5YBcqxnFHJBpYzc/posters/8bc7ae1b-1a46-4b76-bdb1-13c7dbd3a95c.png",[BD] Zee Cafe
+https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_cafe_hd/playlist.m3u8"""
 
 def generate_m3u():
     # Fetch the JSON data
@@ -23,21 +322,25 @@ def generate_m3u():
         print(f"Error fetching JSON: {e}")
         return
 
-    # Write static channels first, then append the dynamic Tapmad channels
-    with open(M3U_FILE, 'w', encoding='utf-8') as f:
-        f.write(STATIC_CHANNELS)
+    # Build the dynamic section
+    dynamic_m3u = ""
+    for ch in channels:
+        name = ch.get('name', ch.get('title', 'Unknown Channel'))
+        url = ch.get('url', ch.get('link', ''))
+        logo = ch.get('logo', ch.get('tvg-logo', ''))
         
-        for ch in channels:
-            name = ch.get('name', ch.get('title', 'Unknown Channel'))
-            url = ch.get('url', ch.get('link', ''))
-            logo = ch.get('logo', ch.get('tvg-logo', ''))
-            
-            # FORCE the group title so your Blogger theme parses it into the Sports slider
-            group = "Sports LIVE"
+        # Force capitalization to match your template
+        group = "Sports Live"
 
-            if url:
-                f.write(f'#EXTINF:-1 tvg-logo="{logo}" group-title="{group}",{name}\n')
-                f.write(f'{url}\n')
+        if url:
+            dynamic_m3u += f'#EXTINF:-1 tvg-logo="{logo}" group-title="{group}",{name}\n{url}\n\n'
+
+    # Inject the generated dynamic string into the template
+    final_m3u = PLAYLIST_TEMPLATE.replace("{DYNAMIC_CHANNELS}", dynamic_m3u)
+
+    # Write the complete file
+    with open(M3U_FILE, 'w', encoding='utf-8') as f:
+        f.write(final_m3u)
 
 if __name__ == "__main__":
     generate_m3u()
