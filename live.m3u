@@ -10,6 +10,10 @@ https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="tapmad-17088" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890468111020x576.jpg" group-title="Football", Al Qadsiah vs Al-Ettifaq | Saudi Pro League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 
+
+#EXTINF:-1 tvg-id="sonyliv-1090542090" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023657/1788867245115826_WAC26_Semi_Final_Sri_Lanka_vs_Pakistan_8sep_eng_landscape_thumb.jpg" group-title="Cricket", Sri Lanka Women vs Pakistan Women - Semi-final - 11 Sep 2026 | DP World Women's Asia Cup 2026
+https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1109/ENG/master.m3u8?hdnea=exp=1789179642~acl=/*~id=36589603632662528717618025338865~hmac=d36a772f63b5ab0ce8fe05bb1b6d1cbc4642da46c7f3058e57a9ee70d2ea0466
+
 #EXTINF:-1 group-title="Sports Live" tvg-logo="", Sony Sports 1
 https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8
 
