@@ -1,5 +1,6 @@
 import urllib.request
 import re
+from datetime import datetime
 
 M3U_URL = "https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u"
 M3U_FILE = "live.m3u"
@@ -135,7 +136,6 @@ https://akash.sm-monirul.top/star_news.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6xkMyD7/mob-logo.png" group-title="BANGLADESHI CHANNELS",Sanonda TV
 https://live.sanandatelevision.in/sananda/index.m3u8
-
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp", Discovery Bangla
 https://stream.ottplus.bd/live/discovery_sd_abr/index.m3u8
@@ -318,7 +318,9 @@ def generate_m3u():
         print(f"Error fetching external M3U: {e}")
         return
 
-    dynamic_m3u = ""
+    # Add a dynamic timestamp comment so Git registers a change on every run
+    timestamp = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')
+    dynamic_m3u = f"# Auto-Updated via Actions at: {timestamp} UTC\n\n"
     current_extinf = ""
 
     for line in lines:
