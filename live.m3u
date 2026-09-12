@@ -7,8 +7,14 @@
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="tapmad-17179" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891117101020x576.jpg" group-title="Sports Live", Japan Cup Race 1 Live | GT World Challenge EU & Asia 2026
+#EXTINF:-1 tvg-id="tapmad-15935" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881781931020x576.jpg" group-title="Sports Live", England vs Pakistan | Pakistan Tour of England 2026
+https://tapmad.arroman99.workers.dev/?url=https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17191" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891159911020x576.jpg" group-title="Sports Live", Suzuka 1000 Qualifying Round Live | GT World Challenge EU & Asia 2026
 https://tapmad.arroman99.workers.dev/?url=https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-16709" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890282571020x576.jpg" group-title="Sports Live", Belfast Wolves vs Rotterdam Dockers | European T20 Premier League 2026
+https://tapmad.arroman99.workers.dev/?url=https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="", Sony Sports 1
