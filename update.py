@@ -31,9 +31,6 @@ https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 #EXTINF:-1 tvg-name="A Sports" group-title="SPORTS",A Sports
 https://playztv-apps.pages.dev/a-sports/index.m3u8
 
-#EXTINF:-1 tvg-name="A Sports" group-title="SPORTS",TEN Sports
-http://sm-monirul.xyz/live/epx/373119.m3u8
-
 # ==========================================
 # 🏏 CRICKET TV
 # ==========================================
@@ -44,10 +41,6 @@ https://tvsen5.aynascope.net/willowhd/tracks-v1a1/mono.ts.m3u8
 # --- Ban Vs Zim (1 Server) ---
 #EXTINF:-1 group-title="Cricket" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
-
-# --- Ban Vs Zim (1 Server) ---
-#EXTINF:-1 group-title="Cricket" tvg-logo="https://iili.io/ClmZfwX.th.jpg", Star Sports 1
-https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://103.151.60.204:881/StarSports1/video.m3u8
 
 # ==========================================
 # 📺 BD TV
