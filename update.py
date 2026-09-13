@@ -22,6 +22,7 @@ https://tvsen5.aynascope.net/willowhd/tracks-v1a1/mono.ts.m3u8
 https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="", Sony Sports 2
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
 https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="", Sony Sports 5
