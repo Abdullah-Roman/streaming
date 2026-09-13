@@ -4,17 +4,11 @@ from datetime import datetime
 
 M3U_URL = "https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u"
 M3U_FILE = "live.m3u"
-PROXY_PREFIX = "https://tapmad.arroman99.workers.dev/?url="
 
 PLAYLIST_TEMPLATE = """#EXTM3U
 # ==========================================
 # 🏆 Sports LIVE
 # ==========================================
-
-#EXTINF:-1 tvg-id="45258" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Le%20Mans%20vs%20Lens.jpg" group-title="LIVE", Le Mans vs Lens - Ligue 1 [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a54a-hd/chunks.m3u8?is_vip=false&token=1789405349-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5892eeb26491b4d88cd4209a63d7c596
 
 # --- T Sports ---
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
@@ -339,14 +333,7 @@ def generate_m3u():
             current_extinf = line
         elif line.startswith("http"):
             if current_extinf:
-                
-                # Check if it's a stream that needs the proxy (Akamai, Tapmad, or SonyLIV)
-                if "akamaized.net" in line or "tapmad" in line:
-                    final_url = f"{PROXY_PREFIX}{line}"
-                else:
-                    final_url = line
-                
-                dynamic_m3u += f"{current_extinf}\n{final_url}\n\n"
+                dynamic_m3u += f"{current_extinf}\n{line}\n\n"
                 current_extinf = ""
 
     final_m3u = PLAYLIST_TEMPLATE.replace("{DYNAMIC_CHANNELS}", dynamic_m3u)
