@@ -10,7 +10,7 @@ https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Cricket" tvg-logo="https://tubextra.b-cdn.net/download%20(5).png", Willow Sports
 https://tvsen5.aynascope.net/willowhd/tracks-v1a1/mono.ts.m3u8
 
-# Auto-Updated via Actions at: 2026-09-13 20:35:14 UTC
+# Auto-Updated via Actions at: 2026-09-13 20:40:19 UTC
 
 #EXTINF:-1 tvg-id="tapmad-16323" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891310551020x576.jpg" group-title="Sports Live", Men's Singles Final | US Open 2026
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
@@ -39,7 +39,6 @@ https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 
 #EXTINF:-1 tvg-name="A Sports" group-title="SPORTS",A Sports
 https://playztv-apps.pages.dev/a-sports/index.m3u8
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:72:72:A8&stream=809383&extension=m3u8
 
 # ==========================================
 # 📺 BD TV
@@ -192,7 +191,7 @@ https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1
 
 # --- Sony Ath (1 Server) ---
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CwOJwUx.th.jpg", Sony Ath
-https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
+https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
 
 # --- Bangla Plus (1 Server) ---
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CwN0v0g.th.jpg", Bangla Plus
