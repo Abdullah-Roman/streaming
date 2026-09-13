@@ -7,7 +7,7 @@
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 
-# Auto-Updated via Actions at: 2026-09-13 14:45:18 UTC
+# Auto-Updated via Actions at: 2026-09-13 14:50:18 UTC
 
 #EXTINF:-1 tvg-id="tapmad-16954" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892143281020x576.jpg" group-title="Sports Live", Levante vs Barcelona | LaLiga 2026/27
 https://tapmad.arroman99.workers.dev/?url=https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
@@ -34,9 +34,6 @@ https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 #EXTINF:-1 tvg-name="A Sports" group-title="SPORTS",A Sports
 https://playztv-apps.pages.dev/a-sports/index.m3u8
 
-#EXTINF:-1 tvg-name="A Sports" group-title="SPORTS",TEN Sports
-http://sm-monirul.xyz/live/epx/373119.m3u8
-
 # ==========================================
 # 🏏 CRICKET TV
 # ==========================================
@@ -47,10 +44,6 @@ https://tvsen5.aynascope.net/willowhd/tracks-v1a1/mono.ts.m3u8
 # --- Ban Vs Zim (1 Server) ---
 #EXTINF:-1 group-title="Cricket" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
-
-# --- Ban Vs Zim (1 Server) ---
-#EXTINF:-1 group-title="Cricket" tvg-logo="https://iili.io/ClmZfwX.th.jpg", Star Sports 1
-https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://103.151.60.204:881/StarSports1/video.m3u8
 
 # ==========================================
 # 📺 BD TV
