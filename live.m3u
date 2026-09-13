@@ -7,13 +7,16 @@
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 
-# Auto-Updated via Actions at: 2026-09-13 00:00:29 UTC
+# Auto-Updated via Actions at: 2026-09-13 00:05:16 UTC
 
 #EXTINF:-1 tvg-id="tapmad-16932" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890337031020x576.jpg" group-title="Sports Live", Silva vs Delgado | UFC 2026
 https://tapmad.arroman99.workers.dev/?url=https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-15809" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891290981020x576.jpg" group-title="Sports Live", Barbados Tridents vs Jamaica Kingsmen | Caribbean Premier League 2026
 https://tapmad.arroman99.workers.dev/?url=https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17197" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892415571020x576.jpg" group-title="Sports Live", Japan Cup Race 2 Live | GT World Challenge EU & Asia 2026
+https://tapmad.arroman99.workers.dev/?url=https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="", Sony Sports 1
