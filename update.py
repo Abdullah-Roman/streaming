@@ -35,7 +35,6 @@ https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 
 #EXTINF:-1 tvg-name="A Sports" group-title="SPORTS",A Sports
 https://playztv-apps.pages.dev/a-sports/index.m3u8
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:72:72:A8&stream=809383&extension=m3u8
 
 # ==========================================
 # 📺 BD TV
@@ -188,7 +187,7 @@ https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1
 
 # --- Sony Ath (1 Server) ---
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CwOJwUx.th.jpg", Sony Ath
-https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
+https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
 
 # --- Bangla Plus (1 Server) ---
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CwN0v0g.th.jpg", Bangla Plus
