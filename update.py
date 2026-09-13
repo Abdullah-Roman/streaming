@@ -30,6 +30,7 @@ https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 
 #EXTINF:-1 tvg-name="A Sports" group-title="SPORTS",A Sports
 https://playztv-apps.pages.dev/a-sports/index.m3u8
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:72:72:A8&stream=809383&extension=m3u8
 
 # ==========================================
 # 🏏 CRICKET TV
