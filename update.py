@@ -264,6 +264,9 @@ https://mflixott.com/tv/toffee-by-maruf/live.php?id=discovery_hd&e=.m3u8
 # 📺 CARTOON TV
 # ==========================================
 
+#EXTINF:-1 tvg-logo="https://srhady-live-stream.hf.space/image?url=https://krtyhg.b-cdn.net/upload/photos/2026/09/Bigg Boss.S20.jpg" group-title="Fibwatch Latest", Bigg Boss S20E07 Hindi 1080p
+https://krtyhg.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Bigg.Boss.S20E07.Hindi.1080p.mkv|Referer=https://fibwatch.art/
+
 # --- ZB Cartoon ---
 #EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/CwNWPIf.th.jpg", ZB Cartoon
 https://server.zillarbarta.com/zbcatun/video.m3u8
