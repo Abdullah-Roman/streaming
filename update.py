@@ -14,6 +14,9 @@ PLAYLIST_TEMPLATE = """#EXTM3U
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 group-title="Cricket" tvg-logo="https://tubextra.b-cdn.net/download%20(5).png", Willow Sports
+https://tvsen5.aynascope.net/willowhd/tracks-v1a1/mono.ts.m3u8
+
 {DYNAMIC_CHANNELS}
 #EXTINF:-1 group-title="Sports Live" tvg-logo="", Sony Sports 1
 https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8
@@ -30,17 +33,6 @@ https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 #EXTINF:-1 tvg-name="A Sports" group-title="SPORTS",A Sports
 https://playztv-apps.pages.dev/a-sports/index.m3u8
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:72:72:A8&stream=809383&extension=m3u8
-
-# ==========================================
-# 🏏 CRICKET TV
-# ==========================================
-
-#EXTINF:-1 group-title="Cricket" tvg-logo="https://tubextra.b-cdn.net/download%20(5).png", Willow Sports
-https://tvsen5.aynascope.net/willowhd/tracks-v1a1/mono.ts.m3u8
-
-# --- Ban Vs Zim (1 Server) ---
-#EXTINF:-1 group-title="Cricket" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
-https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 
 # ==========================================
 # 📺 BD TV
