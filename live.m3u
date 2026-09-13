@@ -10,7 +10,7 @@ https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Cricket" tvg-logo="https://tubextra.b-cdn.net/download%20(5).png", Willow Sports
 https://tvsen5.aynascope.net/willowhd/tracks-v1a1/mono.ts.m3u8
 
-# Auto-Updated via Actions at: 2026-09-13 20:05:19 UTC
+# Auto-Updated via Actions at: 2026-09-13 20:10:22 UTC
 
 #EXTINF:-1 tvg-id="tapmad-16323" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891310551020x576.jpg" group-title="Sports Live", Men's Singles Final | US Open 2026
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
@@ -267,6 +267,9 @@ https://mflixott.com/tv/toffee-by-maruf/live.php?id=discovery_hd&e=.m3u8
 # ==========================================
 # 📺 CARTOON TV
 # ==========================================
+
+#EXTINF:-1 tvg-logo="https://srhady-live-stream.hf.space/image?url=https://krtyhg.b-cdn.net/upload/photos/2026/09/Bigg Boss.S20.jpg" group-title="Fibwatch Latest", Bigg Boss S20E07 Hindi 1080p
+https://krtyhg.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Bigg.Boss.S20E07.Hindi.1080p.mkv|Referer=https://fibwatch.art/
 
 # --- ZB Cartoon ---
 #EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/CwNWPIf.th.jpg", ZB Cartoon
