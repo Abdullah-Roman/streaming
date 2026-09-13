@@ -31,6 +31,9 @@ https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 #EXTINF:-1 tvg-name="A Sports" group-title="SPORTS",A Sports
 https://playztv-apps.pages.dev/a-sports/index.m3u8
 
+#EXTINF:-1 tvg-name="A Sports" group-title="SPORTS",TEN Sports
+http://sm-monirul.xyz/live/epx/373119.m3u8
+
 # ==========================================
 # 🏏 CRICKET TV
 # ==========================================
