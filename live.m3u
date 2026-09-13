@@ -3,25 +3,17 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-#EXTINF:-1 tvg-id="45258" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Le%20Mans%20vs%20Lens.jpg" group-title="LIVE", Le Mans vs Lens - Ligue 1 [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a54a-hd/chunks.m3u8?is_vip=false&token=1789405349-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5892eeb26491b4d88cd4209a63d7c596
-
 # --- T Sports ---
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 
-# Auto-Updated via Actions at: 2026-09-13 17:20:19 UTC
-
-#EXTINF:-1 tvg-id="tapmad-17470" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892481601020x576.jpg" group-title="Sports Live", India vs Afghanistan | India Tour of Afghanistan 2026
-https://tapmad.arroman99.workers.dev/?url=https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
+# Auto-Updated via Actions at: 2026-09-13 17:24:49 UTC
 
 #EXTINF:-1 tvg-id="tapmad-16955" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892144341020x576.jpg" group-title="Sports Live", Getafe vs Deportivo | LaLiga 2026/27
-https://tapmad.arroman99.workers.dev/?url=https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-16322" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891308311020x576.jpg" group-title="Sports Live", Championship Sunday Show | US Open 2026
-https://tapmad.arroman99.workers.dev/?url=https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
+https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
 
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="", Sony Sports 1
