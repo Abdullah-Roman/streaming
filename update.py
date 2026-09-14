@@ -307,7 +307,24 @@ https://uretyhn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Heart.Beat.S03E
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/U3QEd5YBcqxnFHJBpYzc/posters/8bc7ae1b-1a46-4b76-bdb1-13c7dbd3a95c.png",[BD] Zee Cafe
-https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_cafe_hd/playlist.m3u8"""
+https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_cafe_hd/playlist.m3u8
+
+
+# --- BENGALI SERIES ---
+#EXTINF:-1 group-title="Bengali Series" tvg-logo="https://dummyimage.com/150x150/fbbf24/000.png&text=Taqdeer" series-name="Taqdeer", Episode 1
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Bengali Series" tvg-logo="https://dummyimage.com/150x150/fbbf24/000.png&text=Taqdeer" series-name="Taqdeer", Episode 2
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Bengali Series" tvg-logo="https://dummyimage.com/150x150/fbbf24/000.png&text=Taqdeer" series-name="Taqdeer", Episode 3
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
+
+# --- INDIAN SERIES ---
+#EXTINF:-1 group-title="Indian Series" tvg-logo="https://dummyimage.com/150x150/ef4444/fff.png&text=Mirzapur" series-name="Mirzapur", Season 1 - Ep 1
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Indian Series" tvg-logo="https://dummyimage.com/150x150/ef4444/fff.png&text=Mirzapur" series-name="Mirzapur", Season 1 - Ep 2
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
+
+
 
 def generate_m3u():
     req = urllib.request.Request(M3U_URL, headers={'User-Agent': 'Mozilla/5.0'})
