@@ -5,7 +5,7 @@ from datetime import datetime
 M3U_URL = "https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u"
 M3U_FILE = "live.m3u"
 
-PLAYLIST_TEMPLATE = #EXTM3U
+PLAYLIST_TEMPLATE = """#EXTM3U
 # ==========================================
 # 🏆 Sports LIVE
 # ==========================================
@@ -324,8 +324,7 @@ https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Indian Series" tvg-logo="https://dummyimage.com/150x150/ef4444/fff.png&text=Mirzapur" series-name="Mirzapur", Season 1 - Ep 2
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
-
-
+"""
 
 def generate_m3u():
     req = urllib.request.Request(M3U_URL, headers={'User-Agent': 'Mozilla/5.0'})
