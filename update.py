@@ -20,6 +20,8 @@ https://krtyhg.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Bigg.Boss.S20E08
 
 #EXTINF:-1 group-title="Cricket" tvg-logo="https://tubextra.b-cdn.net/download%20(5).png", Willow Sports
 https://tvsen5.aynascope.net/willowhd/tracks-v1a1/mono.ts.m3u8
+https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Drishyam%203%20(2026)%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Drishyam%203%20(2026)%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv
+
 
 {DYNAMIC_CHANNELS}
 #EXTINF:-1 group-title="Sports Live" tvg-logo="", Sony Sports 1
