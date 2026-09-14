@@ -7,33 +7,23 @@
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://krtyhg.b-cdn.net/upload/photos/2026/09/Bigg Boss.S20.jpg" group-title="Latest Movie", Bigg Boss S20E08 Hindi 720p
-#EXTVLCOPT:http-referrer=https://fibwatch.art/
-https://krtyhg.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Bigg.Boss.S20E08.Hindi.720p.mkv
-
 #EXTINF:-1 group-title="Cricket" tvg-logo="https://tubextra.b-cdn.net/download%20(5).png", Willow Sports
 https://tvsen5.aynascope.net/willowhd/tracks-v1a1/mono.ts.m3u8
-https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Drishyam%203%20(2026)%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Drishyam%203%20(2026)%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv
 
+# Auto-Updated via Actions at: 2026-09-14 15:27:04 UTC
 
-# Auto-Updated via Actions at: 2026-09-14 01:30:24 UTC
-
-#EXTINF:-1 tvg-id="tapmad-15810" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893025081020x576.jpg" group-title="Sports Live", Barbados Tridents vs Guyana Amazon Warriors | Caribbean Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17297" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893695951020x576.jpg" group-title="Sports Live", PFC Neftchi vs Air Force SC Live | AFC Champions League Elite 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="", Sony Sports 1
 https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="", Sony Sports 2
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
 https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="", Sony Sports 5
 https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
-
-#EXTINF:-1 group-title="Sports Live" tvg-logo="https://postimg.cc/G8Tyk3dc", Star Sports 1
-https://bcdn.hakunaymatata.com/resource/d96f56c80bf215267b620874311dc230.mp4?sign=bb1c4edb2b3161019001d4031264a4e8&t=1789339277
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://postimg.cc/G8Tyk3dc", Star Sports 2
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
@@ -133,7 +123,7 @@ https://akash.sm-monirul.top/star_news.m3u8
 https://live.sanandatelevision.in/sananda/index.m3u8
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp", Discovery Bangla
-https://stream.ottplus.bd/live/discovery_sd_abr/index.m3u8
+https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://180.94.28.28:8097/DISCOVERY-BANGLA/index.m3u8
 
 # --- Bangla Natok (1 Server) ---
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/ClcgnwX.th.jpg", Bangla Natok
@@ -267,6 +257,16 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/55zvH8Z/Picsart-23-06-09-19-57-34-590.png" group-title="INFOTAINMENT CHANNELS",DISCOVERY HINDI
 https://mflixott.com/tv/toffee-by-maruf/live.php?id=discovery_hd&e=.m3u8
 
+
+# ==========================================
+# 🎬 Hindi Movies
+# ==========================================
+
+# --- Hindi Movies 1 (1 Server) ---
+#EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://iili.io/example8.jpg", Hindi Movies 1
+https://tvsen5.aynaott.com/hindimovies1/tracks-v1a1/mono.ts.m3u8
+
+
 # ==========================================
 # 📺 CARTOON TV
 # ==========================================
@@ -305,4 +305,20 @@ https://uretyhn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Heart.Beat.S03E
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/U3QEd5YBcqxnFHJBpYzc/posters/8bc7ae1b-1a46-4b76-bdb1-13c7dbd3a95c.png",[BD] Zee Cafe
-https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_cafe_hd/playlist.m3u8
+https://tvsen7.aynaott.com/teennick/index.m3u8
+
+
+
+# --- BENGALI SERIES ---
+#EXTINF:-1 group-title="Bengali Series" tvg-logo="https://dummyimage.com/150x150/fbbf24/000.png&text=Taqdeer" series-name="Taqdeer", Episode 1
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Bengali Series" tvg-logo="https://dummyimage.com/150x150/fbbf24/000.png&text=Taqdeer" series-name="Taqdeer", Episode 2
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Bengali Series" tvg-logo="https://dummyimage.com/150x150/fbbf24/000.png&text=Taqdeer" series-name="Taqdeer", Episode 3
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
+
+# --- INDIAN SERIES ---
+#EXTINF:-1 group-title="Indian Series" tvg-logo="https://dummyimage.com/150x150/ef4444/fff.png&text=Mirzapur" series-name="Mirzapur", Season 1 - Ep 1
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Indian Series" tvg-logo="https://dummyimage.com/150x150/ef4444/fff.png&text=Mirzapur" series-name="Mirzapur", Season 1 - Ep 2
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
