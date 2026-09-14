@@ -135,7 +135,7 @@ https://akash.sm-monirul.top/star_news.m3u8
 https://live.sanandatelevision.in/sananda/index.m3u8
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp", Discovery Bangla
-https://stream.ottplus.bd/live/discovery_sd_abr/index.m3u8
+http://180.94.28.28:8097/DISCOVERY-BANGLA/index.m3u8
 
 # --- Bangla Natok (1 Server) ---
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/ClcgnwX.th.jpg", Bangla Natok
