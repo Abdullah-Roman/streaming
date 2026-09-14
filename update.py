@@ -14,28 +14,18 @@ PLAYLIST_TEMPLATE = """#EXTM3U
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://krtyhg.b-cdn.net/upload/photos/2026/09/Bigg Boss.S20.jpg" group-title="Latest Movie", Bigg Boss S20E08 Hindi 720p
-#EXTVLCOPT:http-referrer=https://fibwatch.art/
-https://krtyhg.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Bigg.Boss.S20E08.Hindi.720p.mkv
-
 #EXTINF:-1 group-title="Cricket" tvg-logo="https://tubextra.b-cdn.net/download%20(5).png", Willow Sports
 https://tvsen5.aynascope.net/willowhd/tracks-v1a1/mono.ts.m3u8
-https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Drishyam%203%20(2026)%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Drishyam%203%20(2026)%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mkv
-
 
 {DYNAMIC_CHANNELS}
 #EXTINF:-1 group-title="Sports Live" tvg-logo="", Sony Sports 1
 https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="", Sony Sports 2
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
 https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="", Sony Sports 5
 https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
-
-#EXTINF:-1 group-title="Sports Live" tvg-logo="https://postimg.cc/G8Tyk3dc", Star Sports 1
-https://bcdn.hakunaymatata.com/resource/d96f56c80bf215267b620874311dc230.mp4?sign=bb1c4edb2b3161019001d4031264a4e8&t=1789339277
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://postimg.cc/G8Tyk3dc", Star Sports 2
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
@@ -135,7 +125,7 @@ https://akash.sm-monirul.top/star_news.m3u8
 https://live.sanandatelevision.in/sananda/index.m3u8
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp", Discovery Bangla
-http://180.94.28.28:8097/DISCOVERY-BANGLA/index.m3u8
+https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://180.94.28.28:8097/DISCOVERY-BANGLA/index.m3u8
 
 # --- Bangla Natok (1 Server) ---
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/ClcgnwX.th.jpg", Bangla Natok
