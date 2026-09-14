@@ -259,6 +259,16 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/55zvH8Z/Picsart-23-06-09-19-57-34-590.png" group-title="INFOTAINMENT CHANNELS",DISCOVERY HINDI
 https://mflixott.com/tv/toffee-by-maruf/live.php?id=discovery_hd&e=.m3u8
 
+
+# ==========================================
+# 🎬 Hindi Movies
+# ==========================================
+
+# --- Hindi Movies 1 (1 Server) ---
+#EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://iili.io/example8.jpg", Hindi Movies 1
+https://tvsen5.aynaott.com/hindimovies1/tracks-v1a1/mono.ts.m3u8
+
+
 # ==========================================
 # 📺 CARTOON TV
 # ==========================================
