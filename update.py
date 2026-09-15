@@ -150,7 +150,7 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b19
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CE2C1G2.th.jpg", Jalsa Movies
-http://103.141.70.136:8080/bdtv/restrem/27.m3u8
+http://103.141.70.136:8080/auth/8IH102PxojqRs0BdASDWwH0cAczoNoT-X_Jyq6WX4JUKSpscyUcKC_x99ynn8YCkP5JZRiwZGNqX8U_fooyOSfziqKtBNJdWoOt8jYarNhusdZWS0LFcwONRp5EGfanJWk06x8YIftiYcDDbC-EGqvPaj1W-Ohog3gfgIbG5pQl4-_Wb65S4rePNTBQjF4_hs-mjJPpQC-goV2Xm4s2XDj3RLaOXx5bCTHAG4g7FQW9ekSektaDHdpYHzb212frzdZrubodTv6Gof-28XwIlfX9u3bbNiKaovDu--k45M80o4fIzhqimZgS7byHUi8YT3yJHx-RR8HMHtJJ26-1Z0H7eGIWgIH6Mr743LOfxIt_GI9C7FDHPkKAjHBOFOZpP-_fFsSi-eSwU7Dy79YeHrh7Rt5jHyCJ2nhf_l5YdaoQskamU_tpHVG0VpBBqxYWEoX7AfbLbl8gfvG8xAwzAbT4H_8P728V1sICaasuZBPqI5w7imgNuA8064nrBQ8W3Jsv5qZ-RJCzFS2PACfonWmUlBAPKbpoi6sgEwc3rpGmmF17ogluL0BQ5egl9qwbo7C9LlTJRzEKH-Z6i9dHYB1i1B-lgxudhWNBr0mjxNSA
 
 #EXTINF:-1  tvg-logo="https://iili.io/Ckk5qiv.th.jpg",ZB Cinema
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
