@@ -141,6 +141,10 @@ https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://alvetv.com/moviebang
 # 📺 INDIAN BANGLA TV
 # ==========================================
 
+#EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/JS1AqZgBNnOkwJLWlwg-/posters/02cede51-8806-40c6-95f7-29bb772d8d36.png",EPL channel 1
+#EXTVLCOPT:http-user-agent=okhttp/5.1.0
+https://prod-cdn01-live.toffeelive.com/live/EPL-26-27-CH-1/index.m3u8?edge-cache-token=Expires=1789488332~Starts=1789488032~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiNTg0NmVmMTAtMzgzYS00YjlhLThhZTAtNGZiMTEzNWIxNTVkIn0~Signature=PvURjOAY0mVHdxCF9xvPUol-IuI61uDd_bFuv59x4vEZQued96sdtJuGzExUvMBxiYIfQ1QVHRdeb4jyXAb9Ag
+
 # --- ZEE Bangla (1 Server) ---
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CEtU2af.th.jpg", ZEE Bangla
 https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
