@@ -17,6 +17,9 @@ https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 #EXTINF:-1 group-title="Cricket" tvg-logo="https://tubextra.b-cdn.net/download%20(5).png", Willow Sports
 https://tvsen5.aynascope.net/willowhd/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="019efa45-e8e5-7353-a606-b361cf5f42ce" tvg-name="Cricket Gold" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_dde39b3fb713d4946a32e2c8ad5db00a_playmist_cricket_gold_400x400.jpg" group-title="Cricket, Sports",Cricket Gold
+https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8
+
 {DYNAMIC_CHANNELS}
 #EXTINF:-1 group-title="Sports Live" tvg-logo="", Sony Sports 1
 https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8
@@ -244,6 +247,9 @@ https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://66.102.126.10:8000/p
 #EXTINF:-1 tvg-name="Hindi" tvg-logo="https://iili.io/CeW7rwG.th.jpg",  group-title="Hindi",Sony Max
 https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
 
+#EXTINF:-1 tvg-id="019de785-3a55-70ed-9fa1-e0459e2294dc" tvg-name="Goldmines" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_f102735d68ece1e00316c6187b9ad340_playmist_goldmines_400x400.jpg" group-title="Movie, Hindi",Goldmines
+https://tvsen3.aynaott.com/VamXuQH8/index.m3u8
+
 #EXTINF:-1 tvg-name="Movies" tvg-logo="",  group-title="Hindi",Z Bollywood
 https://stream.ottplus.live/live/zee_bollywood_abr/index.m3u8
 
@@ -265,8 +271,25 @@ https://mflixott.com/tv/toffee-by-maruf/live.php?id=discovery_hd&e=.m3u8
 # ==========================================
 
 # --- Hindi Movies 1 (1 Server) ---
-#EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://iili.io/example8.jpg", Hindi Movies 1
-https://tvsen5.aynaott.com/hindimovies1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://gretyn.b-cdn.net/upload/photos/2025/09/Sultan.Abdul.Hamid.jpg" group-title="Latest Movie", Sultan Abdul Hamid S01E173 Bengali ORG 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://gretyn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Sultan.Abdul.Hamid.S01E173.Bengali.ORG.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://gretyn.b-cdn.net/upload/photos/2026/08/Bigg.Boss.(2026).S01.Bengali.jpg" group-title="Latest Movie", Bigg Boss S01E16 Bengali 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://gretyn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Bigg.Boss.S01E16.Bengali.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://gretyn.b-cdn.net/upload/photos/2026/09/Hercai.jpg" group-title="Latest Movie", Hercai S01E01-05 Hindi ORG 1080P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://gretyn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Hercai.S01E01-05.Hindi.ORG.1080P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://gretyn.b-cdn.net/upload/photos/2026/09/A-Great-Awakening-Hindi-Dubbed.jpg" group-title="Latest Movie", A Great Awakening 2026 Dual 720p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://gretyn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]A.Great.Awakening.2026.Dual.720p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://gretyn.b-cdn.net/upload/photos/2026/08/The.End.of.Oak.Street.(2026).Hindi.Dubbed.jpg" group-title="Latest Movie", The End of Oak Street (2026) Hindi LiNE-English 1080P
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://gretyn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]The.End.of.Oak.Street.(2026).Hindi.LiNE-English.1080P.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://gretyn.b-cdn.net/upload/photos/2026/08/Sultan.Salahuddin.Ayyubi.jpg" group-title="Latest Movie", Sultan Salahuddin Ayyubi S01E33 1080p
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
+https://gretyn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Sultan.Salahuddin.Ayyubi.S01E33.1080p.mkv
+#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://gretyn.b-cdn.net/upload/photos/2026/06/Indias.Got.Latent.jpeg" group-title="Latest Movie", Indias Got Latent S02 Bonus E03 1080p
 
 
 # ==========================================
@@ -280,12 +303,11 @@ https://krtyhg.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Bigg.Boss.S20E07
 #EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/CwNWPIf.th.jpg", ZB Cartoon
 https://server.zillarbarta.com/zbcatun/video.m3u8
 
-# --- Gopal Var ---
-#EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/Ca2tYKP.jpg", Gopal Var
-https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="019de785-3a20-717e-9c8c-9e1deaefbd75" tvg-name="Disney XD" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_f02de913e3592f951e728234f2bef434_playmist_disney_xd_400x400.jpg" group-title="Kids",Disney XD
+https://tvsen5.aynaott.com/disneyxd/index.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/CjU8F3l.th.jpg", Motu Patlu
-https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="019de785-3a26-7aa1-b461-6ac35c734b7e" tvg-name="Teen Nick" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_ea86bedcc4f35a5855683f064d311b67_playmist_teen_nick_400x400.jpg" group-title="Kids",Teen Nick
+https://tvsen7.aynaott.com/teennick/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://iili.io/CjUecjs.th.jpg", Tom & Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
@@ -311,19 +333,7 @@ https://tvsen7.aynaott.com/teennick/index.m3u8
 
 
 
-# --- BENGALI SERIES ---
-#EXTINF:-1 group-title="Bengali Series" tvg-logo="https://dummyimage.com/150x150/fbbf24/000.png&text=Taqdeer" series-name="Taqdeer", Episode 1
-https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Bengali Series" tvg-logo="https://dummyimage.com/150x150/fbbf24/000.png&text=Taqdeer" series-name="Taqdeer", Episode 2
-https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Bengali Series" tvg-logo="https://dummyimage.com/150x150/fbbf24/000.png&text=Taqdeer" series-name="Taqdeer", Episode 3
-https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 
-# --- INDIAN SERIES ---
-#EXTINF:-1 group-title="Indian Series" tvg-logo="https://dummyimage.com/150x150/ef4444/fff.png&text=Mirzapur" series-name="Mirzapur", Season 1 - Ep 1
-https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Indian Series" tvg-logo="https://dummyimage.com/150x150/ef4444/fff.png&text=Mirzapur" series-name="Mirzapur", Season 1 - Ep 2
-https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 """
 
 def generate_m3u():
