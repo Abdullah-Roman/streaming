@@ -10,19 +10,10 @@ https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 #EXTINF:-1 group-title="Cricket" tvg-logo="https://tubextra.b-cdn.net/download%20(5).png", Willow Sports
 https://tvsen5.aynascope.net/willowhd/tracks-v1a1/mono.ts.m3u8
 
-# Auto-Updated via Actions at: 2026-09-15 16:00:30 UTC
-
-#EXTINF:-1 tvg-id="tapmad-17374" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893917951020x576.jpg" group-title="Sports Live", Zimbabwe vs Australia | Australia Tour of Zimbabwe 2026
-https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
+# Auto-Updated via Actions at: 2026-09-15 16:05:19 UTC
 
 #EXTINF:-1 tvg-id="tapmad-16714" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893799021020x576.jpg" group-title="Sports Live", Edinburgh Castle Rockers vs Rotterdam Dockers | European T20 Premier League 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-17392" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894594931020x576.jpg" group-title="Sports Live", Golgohar Sirjan SC vs Al Jazira Club Live | AFC Champions League Two 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-17397" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894598311020x576.jpg" group-title="Sports Live", FC Arkadag vs Al Muharraq SC Live | AFC Champions League Two 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-17471" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893759361020x576.jpg" group-title="Sports Live", India vs Afghanistan | India Tour of Afghanistan 2026
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
