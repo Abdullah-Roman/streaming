@@ -10,19 +10,19 @@ https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 #EXTINF:-1 group-title="Cricket" tvg-logo="https://tubextra.b-cdn.net/download%20(5).png", Willow Sports
 https://tvsen5.aynascope.net/willowhd/tracks-v1a1/mono.ts.m3u8
 
-# Auto-Updated via Actions at: 2026-09-15 13:15:24 UTC
+# Auto-Updated via Actions at: 2026-09-15 13:20:20 UTC
 
 #EXTINF:-1 tvg-id="tapmad-17374" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893917951020x576.jpg" group-title="Sports Live", Zimbabwe vs Australia | Australia Tour of Zimbabwe 2026
 https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-16713" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893797671020x576.jpg" group-title="Sports Live", Amsterdam Flames vs Dublin Guardians | European T20 Premier League 2026
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-17347" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894549001020x576.jpg" group-title="Sports Live", Johor Darul Ta'zim FC vs Buriram United Live | AFC Champions League Elite 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-17352" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894559191020x576.jpg" group-title="Sports Live", Beijing FC vs FC Pohang Steelers Live | AFC Champions League Elite 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-16714" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893799021020x576.jpg" group-title="Sports Live", Edinburgh Castle Rockers vs Rotterdam Dockers | European T20 Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="", Sony Sports 1
