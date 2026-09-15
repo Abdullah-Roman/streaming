@@ -13,7 +13,7 @@ https://tvsen5.aynascope.net/willowhd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="019efa45-e8e5-7353-a606-b361cf5f42ce" tvg-name="Cricket Gold" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_dde39b3fb713d4946a32e2c8ad5db00a_playmist_cricket_gold_400x400.jpg" group-title="Cricket, Sports",Cricket Gold
 https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8
 
-# Auto-Updated via Actions at: 2026-09-15 17:25:18 UTC
+# Auto-Updated via Actions at: 2026-09-15 17:30:24 UTC
 
 #EXTINF:-1 tvg-id="tapmad-16714" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893799021020x576.jpg" group-title="Sports Live", Edinburgh Castle Rockers vs Rotterdam Dockers | European T20 Premier League 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
@@ -150,6 +150,10 @@ https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://alvetv.com/moviebang
 # ==========================================
 # 📺 INDIAN BANGLA TV
 # ==========================================
+
+#EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/JS1AqZgBNnOkwJLWlwg-/posters/02cede51-8806-40c6-95f7-29bb772d8d36.png",EPL channel 1
+#EXTVLCOPT:http-user-agent=okhttp/5.1.0
+https://prod-cdn01-live.toffeelive.com/live/EPL-26-27-CH-1/index.m3u8?edge-cache-token=Expires=1789488332~Starts=1789488032~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiNTg0NmVmMTAtMzgzYS00YjlhLThhZTAtNGZiMTEzNWIxNTVkIn0~Signature=PvURjOAY0mVHdxCF9xvPUol-IuI61uDd_bFuv59x4vEZQued96sdtJuGzExUvMBxiYIfQ1QVHRdeb4jyXAb9Ag
 
 # --- ZEE Bangla (1 Server) ---
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CEtU2af.th.jpg", ZEE Bangla
