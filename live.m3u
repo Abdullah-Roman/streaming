@@ -11,9 +11,9 @@ https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 https://tvsen5.aynascope.net/willowhd/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="019efa45-e8e5-7353-a606-b361cf5f42ce" tvg-name="Cricket Gold" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_dde39b3fb713d4946a32e2c8ad5db00a_playmist_cricket_gold_400x400.jpg" group-title="Cricket, Sports",Cricket Gold
-http://livetv.akr4m.com:8080/bdtv/restrem/47.m3u8
+https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8
 
-# Auto-Updated via Actions at: 2026-09-16 23:05:16 UTC
+# Auto-Updated via Actions at: 2026-09-16 23:15:18 UTC
 
 #EXTINF:-1 tvg-id="tapmad-15811" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895486181020x576.jpg" group-title="Sports Live", Barbados Tridents vs Jamaica Kingsmen | Caribbean Premier League 2026
 https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
@@ -46,8 +46,9 @@ https://tvsen5.aynaott.com/banglavision/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  tvg-logo="https://iili.io/CeMZ8fs.th.png",ATN News
 https://playztv-apps.pages.dev/atn-bangla/index.m3u8
 
-#EXTINF:-1  tvg-logo="",Asian TV
-https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8
+#EXTINF:-1 tvg-id="019de785-3978-7f99-9708-4a0d34e53511" tvg-name="Boishakhi TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_8a69251df11b66c4e85e7a2fe6d89286_playmist_boishakhi_tv_400x400.jpg" group-title="Bangla",Boishakhi TV
+https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
+
 # --- Somoy TV (1 Server) ---
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CjUEHuV.th.jpg", Somoy TV
 https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/tracks-v1a1/mono.ts.m3u8
@@ -90,8 +91,8 @@ https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/C76RVR9.png", Independent TV
 https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/live/independent_tv_720/chunks.m3u8
 
-#EXTINF:-1 tvg-id="191000" tvg-name="Star News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png" group-title="BD TV",Star News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
+#EXTINF:-1 tvg-id="019de785-397a-7df0-b523-b00c861be256" tvg-name="Mohona TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_1c2c83a36e990c46964ce6ef25528d84_playmist_mohona_tv400x400.jpg" group-title="Bangla",Mohona TV
+https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="BD TV",Ekushey TV
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
@@ -154,8 +155,8 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b19
 #EXTINF:-1 group-title="Entertainment" tvg-logo="", Zee Bangla Sonar
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CE2C1G2.th.jpg", Jalsa Movies
-http://103.141.70.136:8080/auth/8IH102PxojqRs0BdASDWwH0cAczoNoT-X_Jyq6WX4JUKSpscyUcKC_x99ynn8YCkP5JZRiwZGNqX8U_fooyOSfziqKtBNJdWoOt8jYarNhusdZWS0LFcwONRp5EGfanJWk06x8YIftiYcDDbC-EGqvPaj1W-Ohog3gfgIbG5pQl4-_Wb65S4rePNTBQjF4_hs-mjJPpQC-goV2Xm4s2XDj3RLaOXx5bCTHAG4g7FQW9ekSektaDHdpYHzb212frzdZrubodTv6Gof-28XwIlfX9u3bbNiKaovDu--k45M80o4fIzhqimZgS7byHUi8YT3yJHx-RR8HMHtJJ26-1Z0H7eGIWgIH6Mr743LOfxIt_GI9C7FDHPkKAjHBOFOZpP-_fFsSi-eSwU7Dy79YeHrh7Rt5jHyCJ2nhf_l5YdaoQskamU_tpHVG0VpBBqxYWEoX7AfbLbl8gfvG8xAwzAbT4H_8P728V1sICaasuZBPqI5w7imgNuA8064nrBQ8W3Jsv5qZ-RJCzFS2PACfonWmUlBAPKbpoi6sgEwc3rpGmmF17ogluL0BQ5egl9qwbo7C9LlTJRzEKH-Z6i9dHYB1i1B-lgxudhWNBr0mjxNSA
+#EXTINF:-1 tvg-id="019de785-399f-7d6a-9f41-dc7f834b3300" tvg-name="TV9 Bangla" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_4c08302f7fbe506a998e74c89fcf08ac_playmist_tv9_bangla_400x400.jpg" group-title="Indian Bangla",TV9 Bangla
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://iili.io/Ckk5qiv.th.jpg",ZB Cinema
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
@@ -184,8 +185,8 @@ https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/Ce1euqu.th.jpg", Sun Bangla
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://27.124.71.27/Sun_Bangla/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Republic Bangla
-https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/06e5afc2-a022-4e51-9131-4e33a6207c5c/1.m3u8
+#EXTINF:-1 tvg-id="019de785-39a3-74dd-8ef6-fbe0295e1222" tvg-name="kolkata TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_067234e427ca902620258631b762cea8_playmist_kolkata_tv_400x400.jpg" group-title="Indian Bangla",kolkata TV
+https://tvsen6.aynaott.com/kolkatatv/index.m3u8
 
 # --- Sony Ath (1 Server) ---
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CwOJwUx.th.jpg", Sony Ath
