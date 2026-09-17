@@ -276,15 +276,15 @@ https://mflixott.com/tv/toffee-by-maruf/live.php?id=discovery_hd&e=.m3u8
 # ==========================================
 
 # --- Hindi Movies 1 (1 Server) ---
-#EXTINF:-1 tvg-logo="https://iili.io/noSf8Kv.th.jpg" group-title="Latest Movie", Last Man in Tower (2026)
+#EXTINF:-1 tvg-logo="https://iili.io/noSf8Kv.th.jpg" group-title="Hindi Movies", Last Man in Tower (2026)
 https://ftp.ctgfun.com/Indian/Hindi%20Movies/Last%20Man%20In%20Tower%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Last%20Man%20In%20Tower%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://ctgmovies.com/imgcache/ab/abdae27441884f06b76f6e292ddb108acc7bb004.webp" group-title="Latest Movie", Vishwanath & Sons (2026)
+#EXTINF:-1 tvg-logo="https://ctgmovies.com/imgcache/ab/abdae27441884f06b76f6e292ddb108acc7bb004.webp" group-title="Hindi Movies", Vishwanath & Sons (2026)
 https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Vishwanath%20and%20Sons%20(2026)%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Vishwanath%20and%20Sons%20%282026%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://gretyn.b-cdn.net/upload/photos/2026/09/Hercai.jpg" group-title="Latest Movie", Hercai S01E01-05 Hindi ORG 1080P
-#EXTVLCOPT:http-referrer=https://fibwatch.art/
-https://gretyn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Hercai.S01E01-05.Hindi.ORG.1080P.mkv
+#EXTINF:-1 tvg-logo="https://ctgmovies.com/imgcache/78/78d8c25996765722a1d53b836d81370191eed42e.webp" group-title="Hindi Movies", Sardar 2 (2026)
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Sardar-2%20(2026)%20Tamil%20Telugu%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Sardar-2%20%282026%29%20Tamil%20Telugu%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4
+
 #EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://gretyn.b-cdn.net/upload/photos/2026/09/A-Great-Awakening-Hindi-Dubbed.jpg" group-title="Latest Movie", A Great Awakening 2026 Dual 720p
 #EXTVLCOPT:http-referrer=https://fibwatch.art/
 https://gretyn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]A.Great.Awakening.2026.Dual.720p.mkv
