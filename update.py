@@ -45,7 +45,7 @@ https://playztv-apps.pages.dev/a-sports/index.m3u8
 https://tvsen5.aynaott.com/banglavision/tracks-v1a1/mono.ts.m3u8
 
 #-------ATN NEWS----
-#EXTINF:-1  tvg-logo="https://iili.io/CeMZ8fs.th.png",ATN News
+#EXTINF:-1 tvg-logo="https://iili.io/CeMZ8fs.th.png",ATN News
 https://playztv-apps.pages.dev/atn-bangla/index.m3u8
 
 #EXTINF:-1 tvg-id="019de785-3978-7f99-9708-4a0d34e53511" tvg-name="Boishakhi TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_8a69251df11b66c4e85e7a2fe6d89286_playmist_boishakhi_tv_400x400.jpg" group-title="Bangla",Boishakhi TV
@@ -82,7 +82,7 @@ https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://ekusheyserver.com/
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CwNc0IS.th.jpg", Desh TV
 https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8?e=1784102570&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=78b23c868a34420397be9c985d04db9b
 
-#EXTINF:-1  tvg-logo="https://iili.io/CkkTc9n.th.jpg",NEXUS TV
+#EXTINF:-1 tvg-logo="https://iili.io/CkkTc9n.th.jpg",NEXUS TV
 https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8?e=1784102571&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=61db2452abffc778eb75333c98c136a2
 
 # --- Deshe Bideshe TV (1 Server) ---
@@ -108,7 +108,7 @@ https://playztv-apps.pages.dev/ekattor-tv/index.m3u8
 https://playztv-apps.pages.dev/jamuna-tv/index.m3u8
 
 #-------Channel 9----------
-#EXTINF:-1  tvg-logo="https://tubextra.b-cdn.net/channel9.png",Channel 9 HD
+#EXTINF:-1 tvg-logo="https://tubextra.b-cdn.net/channel9.png",Channel 9 HD
 https://playztv-apps.pages.dev/channel-9/index.m3u8
 
 # --- Deepto TV (1 Server) ---
@@ -116,7 +116,7 @@ https://playztv-apps.pages.dev/channel-9/index.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
 #-------Thikana TV---------
-#EXTINF:-1  tvg-logo="https://tubextra.b-cdn.net/thikana.jpg",Thikana Tv
+#EXTINF:-1 tvg-logo="https://tubextra.b-cdn.net/thikana.jpg",Thikana Tv
 https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VWL70Dvx/logo.png" group-title="BANGLADESHI CHANNELS",Me IPTV BD
@@ -160,7 +160,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 #EXTINF:-1 tvg-id="019de785-399f-7d6a-9f41-dc7f834b3300" tvg-name="TV9 Bangla" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_4c08302f7fbe506a998e74c89fcf08ac_playmist_tv9_bangla_400x400.jpg" group-title="Indian Bangla",TV9 Bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://iili.io/Ckk5qiv.th.jpg",ZB Cinema
+#EXTINF:-1 tvg-logo="https://iili.io/Ckk5qiv.th.jpg",ZB Cinema
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 
 # --- Enter 10 (1 Server) ---
@@ -210,16 +210,16 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=562
 # 📺 MUSIC TV 
 # ==========================================
 
-#EXTINF:-1  tvg-logo="https://tubextra.b-cdn.net/9xm.png",9xm
+#EXTINF:-1 tvg-logo="https://tubextra.b-cdn.net/9xm.png",9xm
 https://wiselp.wiseplayout.com/9XM/HD1080/HD1080.m3u8
 
-#EXTINF:-1  tvg-logo="https://tubextra.b-cdn.net/images.png",YRF Music HD
+#EXTINF:-1 tvg-logo="https://tubextra.b-cdn.net/images.png",YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://tubextra.b-cdn.net/download%20(4).png",9X Jalwa
+#EXTINF:-1 tvg-logo="https://tubextra.b-cdn.net/download%20(4).png",9X Jalwa
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
 
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",9X Jhakaas
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",9X Jhakaas
 https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
 
 #EXTINF:-1 tvg-name="Hindi Hits HD" group-title="Hindi Music",Hindi Hits HD
@@ -231,7 +231,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 #EXTINF:-1 tvg-name="Baallee" group-title="MUSIC",Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
 
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Music Masti
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",Music Masti
 https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/Ck8EfSa.th.jpg" group-title="MUSIC",B4U Music
@@ -341,9 +341,6 @@ https://tvsen7.aynaott.com/teennick/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://mz01.playerr03.com:7060/hls/willowsd.m3u8?md5=ytIZI_6LcezOicrHB421HQ&expires=1789500040&ch=willowsd&s=190e9006767ed6cd24bed15ba88e6c3b
 
-
-
-
 """
 
 def generate_m3u():
@@ -358,7 +355,8 @@ def generate_m3u():
     # Add a dynamic timestamp comment so Git registers a change on every run
     timestamp = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')
     dynamic_m3u = f"# Auto-Updated via Actions at: {timestamp} UTC\n\n"
-    current_extinf = ""
+    
+    current_channel_block = []
 
     for line in lines:
         line = line.strip()
@@ -371,11 +369,21 @@ def generate_m3u():
                 line = re.sub(r'group-title="[^"]*"', 'group-title="Sports Live"', line)
             else:
                 line = line.replace('#EXTINF:-1', '#EXTINF:-1 group-title="Sports Live"')
-            current_extinf = line
+            
+            # Start a new channel block
+            current_channel_block = [line]
+            
+        elif line.startswith("#EXTVLCOPT") or line.startswith("#KODIPROP"):
+            # Append options to the current channel block
+            if current_channel_block:
+                current_channel_block.append(line)
+                
         elif line.startswith("http"):
-            if current_extinf:
-                dynamic_m3u += f"{current_extinf}\n{line}\n\n"
-                current_extinf = ""
+            # Append URL and commit the block to the dynamic string
+            if current_channel_block:
+                current_channel_block.append(line)
+                dynamic_m3u += "\n".join(current_channel_block) + "\n\n"
+                current_channel_block = [] # Reset for the next channel
 
     final_m3u = PLAYLIST_TEMPLATE.replace("{DYNAMIC_CHANNELS}", dynamic_m3u)
 
