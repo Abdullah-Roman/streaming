@@ -291,6 +291,12 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 #EXTINF:-1 tvg-id="HumTV.pk" tvg-name="HUM TV" tvg-logo="https://i.postimg.cc/vT4DKmf3/20240925_075103.png" tvg-chno="298" group-title="Indian Entertainment",HUM TV
 https://drk6xq0vhn.gpcdn.net/live/hum_tv_abr/index.m3u8
 
+# ==========================================
+# 🏆 Infotainment
+# ==========================================
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
+https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=t_sports&formet=.m3u8
+
 
 
 # ==========================================
