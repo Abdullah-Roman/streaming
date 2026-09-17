@@ -5,7 +5,7 @@
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=t_sports&formet=.m3u8
 
-# Auto-Updated via Actions at: 2026-09-17 19:30:26 UTC
+# Auto-Updated via Actions at: 2026-09-17 19:35:20 UTC
 
 #EXTINF:-1 tvg-id="tapmad-17384" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894714901020x576.jpg" group-title="Sports Live", England vs Sri Lanka | Sri Lanka Tour of England 2026
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
@@ -33,6 +33,9 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-17293" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896481641020x576.jpg" group-title="Sports Live", Real Sociedad vs Bournemouth | UEFA Europa League 2026/27
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-16966" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896460151020x576.jpg" group-title="Sports Live", Malaga vs Villarreal | LaLiga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
 
 
 
