@@ -10,10 +10,6 @@ PLAYLIST_TEMPLATE = """#EXTM3U
 # 🏆 Sports LIVE
 # ==========================================
 
-#EXTINF:-1 group-title="Sports Live" tvg-logo="https://tubextra.b-cdn.net/download%20(5).png", Willow Sports
-https://tvsen5.aynascope.net/willowhd/tracks-v1a1/mono.ts.m3u8
-http://103.141.70.136:8080/auth/WHWVn-ucvSW1KhaKHqoaFGfsCMsaBFEOVNjiMVf_XUojW6I8a2qW7fMXRas3TVORavnzGSMmRVLPcLTRdONIrwXtLPzzySNCtLRVJZLkKuT2PMVKOaes1V498MmT9cA8xIPqYJ282WwCGzldkkMkzvxA50PsJsW5hZQGf8MfwcX7cz14B9WPl-5uRW2sbhEVg0iKUSyWBZlFhQyXFDpkG__cGWXtSq6VRRHtvRgneUXLq3i4W4cJPmap4H2YQ-9NW6cCpdE_XnG6M8rmb62uN4v5zZYTExLYtFIkcp09i7dpqBRyp0M3NCKW-2PIzBaiSDB6Wk3r-aL2H8TYRaZ1xx-WpIHwzgFtzGeaWR_0B9Yz_Ybj4O4M0WGLiQvEwZc_-MUp7O0679O0Grc_ChJSLOsUDE1GhapjEPFmGOWkY_xh6vjTc9zDeWpObL9VTbX-ijmSKN5iY4lk6R84r8kXlOWCcQhDeRpQWzDZE5s9oZXTBi6FGtspgkf1w1OImmAb50AEhi5K9mSODMKQaN-wy__v-i884tR00zSN7xkdjSC6wQUCkeGQ8EFmoLBtQAPeBOKX4OB7UiJP35tW1e-AUCLAwiat1ZjDq4jIq-Uffsk
-
 #EXTINF:-1 tvg-id="019efa45-e8e5-7353-a606-b361cf5f42ce" tvg-name="Cricket Gold" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_dde39b3fb713d4946a32e2c8ad5db00a_playmist_cricket_gold_400x400.jpg" group-title="Cricket, Sports",Cricket Gold
 https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8
 
