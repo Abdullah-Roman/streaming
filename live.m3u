@@ -11,7 +11,7 @@ https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8
 #EXTINF:-1 tvg-id="019efa45-e8e5-7353-a606-b361cf5f42ce" tvg-name="Cricket Gold" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_dde39b3fb713d4946a32e2c8ad5db00a_playmist_cricket_gold_400x400.jpg" group-title="Cricket, Sports",Cricket Gold
 https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8
 
-# Auto-Updated via Actions at: 2026-09-17 18:45:20 UTC
+# Auto-Updated via Actions at: 2026-09-17 18:50:22 UTC
 
 #EXTINF:-1 tvg-id="tapmad-17285" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895534131020x576.jpg" group-title="Sports Live", Levski Sofia vs RB Salzburg | UEFA Europa League 2026/27
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
@@ -27,6 +27,27 @@ https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-17058" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896376971020x576.jpg" group-title="Sports Live", Guyana Amazon Warriors Women vs Trinbago Knight Riders Women | Women's Caribbean Premier League 2026
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17287" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896470611020x576.jpg" group-title="Sports Live", Celtic vs Ferencvaros | UEFA Europa League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17288" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896472041020x576.jpg" group-title="Sports Live", Juventus vs NEC | UEFA Europa League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17289" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896475341020x576.jpg" group-title="Sports Live", Viktoria Plzen vs Union | UEFA Europa League 2026/27
+https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17290" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896476851020x576.jpg" group-title="Sports Live", Besiktas vs Marseille | UEFA Europa League 2026/27
+https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17291" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896478301020x576.jpg" group-title="Sports Live", Lillestrom vs Torreense | UEFA Europa League 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17292" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896479901020x576.jpg" group-title="Sports Live", Palace vs Lech Poznan | UEFA Europa League 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17293" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896481641020x576.jpg" group-title="Sports Live", Real Sociedad vs Bournemouth | UEFA Europa League 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
 
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="", Sony Sports 1
@@ -300,6 +321,12 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 
 #EXTINF:-1 tvg-id="HumTV.pk" tvg-name="HUM TV" tvg-logo="https://i.postimg.cc/vT4DKmf3/20240925_075103.png" tvg-chno="298" group-title="Indian Entertainment",HUM TV
 https://drk6xq0vhn.gpcdn.net/live/hum_tv_abr/index.m3u8
+
+# ==========================================
+# 🏆 Infotainment
+# ==========================================
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
+https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=t_sports&formet=.m3u8
 
 
 
