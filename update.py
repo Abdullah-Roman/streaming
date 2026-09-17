@@ -136,9 +136,6 @@ https://akash.sm-monirul.top/star_news.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6xkMyD7/mob-logo.png" group-title="BANGLADESHI CHANNELS",Sanonda TV
 https://live.sanandatelevision.in/sananda/index.m3u8
 
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp", Discovery Bangla
-http://sm-monirul.xyz/@monirul_Islam_SM/exp.php?id=discovery_bangla&sm=.m3u8
-
 # --- Bangla Natok (1 Server) ---
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/ClcgnwX.th.jpg", Bangla Natok
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
@@ -294,8 +291,23 @@ https://drk6xq0vhn.gpcdn.net/live/hum_tv_abr/index.m3u8
 # ==========================================
 # 🏆 Infotainment
 # ==========================================
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
-https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=t_sports&formet=.m3u8
+
+#EXTINF:-1 tvg-id="AnimalPlanet.in" tvg-name="Animal Planet [" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" tvg-chno="429" group-title="Documentary & Wildlife",Animal Planet [Backup 2]
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd/index.m3u8
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp", Discovery Bangla
+https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://sm-monirul.xyz/@monirul_Islam_SM/exp.php?id=discovery_bangla&sm=.m3u8
+
+#EXTINF:-1 tvg-id="BBCEarth.ca" tvg-name="BBC Earth" tvg-logo="https://bbcearth.ca/wp-content/uploads/2024/02/BBCEarth_Logo-1.png" tvg-chno="431" group-title="Documentary & Wildlife",BBC Earth [Backup 1]
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InvestigationDiscovery.in" tvg-name="Investigation Discovery" tvg-logo="https://dtil.tmsimg.com/assets/s157811_ld_h15_aa.png?lock=720x540" tvg-chno="439" group-title="Documentary & Wildlife",Investigation Discovery
+https://stream.ottplus.live/live/id_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="local.bc3ae4d983e661a3" tvg-name="Love Nature" tvg-logo="https://i.postimg.cc/MZR248Yw/20240823-024104.png" tvg-chno="440" group-title="Documentary & Wildlife",Love Nature
+https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
+
+
 
 
 
