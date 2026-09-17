@@ -10,7 +10,7 @@ http://103.141.70.136:8080/auth/WHWVn-ucvSW1KhaKHqoaFGfsCMsaBFEOVNjiMVf_XUojW6I8
 #EXTINF:-1 tvg-id="019efa45-e8e5-7353-a606-b361cf5f42ce" tvg-name="Cricket Gold" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_dde39b3fb713d4946a32e2c8ad5db00a_playmist_cricket_gold_400x400.jpg" group-title="Cricket, Sports",Cricket Gold
 https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8
 
-# Auto-Updated via Actions at: 2026-09-17 17:00:31 UTC
+# Auto-Updated via Actions at: 2026-09-17 17:05:17 UTC
 
 #EXTINF:-1 tvg-id="tapmad-16717" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895491991020x576.jpg" group-title="Sports Live", Rotterdam Dockers vs Dublin Guardians | European T20 Premier League 2026
 https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
@@ -26,6 +26,9 @@ https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-16965" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895591411020x576.jpg" group-title="Sports Live", Betis vs Getafe | LaLiga 2026/27
 https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17384" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894714901020x576.jpg" group-title="Sports Live", England vs Sri Lanka | Sri Lanka Tour of England 2026
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="", Sony Sports 1
