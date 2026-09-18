@@ -5,7 +5,10 @@
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", Willow Sports
 https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
 
-# Auto-Updated via Actions at: 2026-09-18 22:30:24 UTC
+# Auto-Updated via Actions at: 2026-09-18 22:35:18 UTC
+
+#EXTINF:-1 tvg-id="tapmad-15813" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897337221020x576.jpg" group-title="Sports Live", Guyana Amazon Warriors vs Jamaica Kingsmen | Caribbean Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
 
 
 
