@@ -9,8 +9,8 @@ PLAYLIST_TEMPLATE = """#EXTM3U
 # ==========================================
 # 🏆 Sports LIVE
 # ==========================================
-#EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
-https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=t_sports&formet=.m3u8
+#EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", Willow Sports
+https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
 
 {DYNAMIC_CHANNELS}
 
