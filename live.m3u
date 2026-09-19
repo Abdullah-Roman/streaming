@@ -5,7 +5,7 @@
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", Willow Sports
 https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
 
-# Auto-Updated via Actions at: 2026-09-19 14:00:31 UTC
+# Auto-Updated via Actions at: 2026-09-19 14:05:14 UTC
 
 #EXTINF:-1 tvg-id="tapmad-16967" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897167661020x576.jpg" group-title="Sports Live", Osasuna vs Rayo Vallecano | LaLiga 2026/27
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
@@ -18,6 +18,12 @@ https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-17385" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896740041020x576.jpg" group-title="Sports Live", England vs Sri Lanka | Sri Lanka Tour of England 2026
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-16968" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897168551020x576.jpg" group-title="Sports Live", Athletic vs Alaves | LaLiga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17551" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897692321020-23andlast.jpg" group-title="Sports Live", Porsche Carrera Cup France - Race 1 | GT World Challenge EU & Asia 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 
 
 
