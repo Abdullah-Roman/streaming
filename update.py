@@ -11,6 +11,10 @@ PLAYLIST_TEMPLATE = """#EXTM3U
 # ==========================================
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
+
+#EXTINF:-1 tvg-id="24114" tvg-name="02/12 01:00pm Dallas-ATP, Rotterdam-ATP & Buenos Aires-ATP Early Rounds; Doha-WTA Quarterfinals Tennis Mixed Coverage" tvg-logo="" group-title="US | Events Sports",02/12 01:00pm Dallas-ATP, Rotterdam-ATP & Buenos Aires-ATP Early Rounds; Doha-WTA Quarterfinals Tennis Mixed Coverage
+https://edf1.xyz/live/57786896/9783407/24114
+
 {DYNAMIC_CHANNELS}
 
 #EXTINF:-1 tvg-id="StarSports2Hindi.in" tvg-name="Star Sports 2 Hindi (720p)" tvg-logo="https://dtil.tmsimg.com/assets/s143807_ld_h15_ac.png?lock=720x540" tvg-chno="579" tvg-language="hin" tvg-country="IN" group-title="Sports" nexus-score="100",Star Sports 2 Hindi (720p)
