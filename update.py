@@ -13,6 +13,12 @@ PLAYLIST_TEMPLATE = """#EXTM3U
 https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20Sri%20Lanka.png" group-title="Sri Lanka tour of England, 2026", England vs Sri Lanka - Willow Cricket
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.playerr03.com:7060/hls/willowsd.m3u8?md5=KCUe7xNtd7ghBNkn89SAgg&expires=1790097648&ch=willowsd&s=40a53eed00ffe34367062c926986bcfc
+
+
 {DYNAMIC_CHANNELS}
 
 #EXTINF:-1 tvg-id="StarSports2Hindi.in" tvg-name="Star Sports 2 Hindi (720p)" tvg-logo="https://dtil.tmsimg.com/assets/s143807_ld_h15_ac.png?lock=720x540" tvg-chno="579" tvg-language="hin" tvg-country="IN" group-title="Sports" nexus-score="100",Star Sports 2 Hindi (720p)
