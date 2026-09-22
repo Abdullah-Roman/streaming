@@ -12,9 +12,6 @@ PLAYLIST_TEMPLATE = """#EXTM3U
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", Willow Sports
 https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Channel Name" tvg-logo="https://example.com/logo.png" group-title="BD Live", Channel Name
-#EXTVLCOPT:http-user-agent=ExoPlayer
-http://103.141.70.136:8080/auth/YOUR_AUTH_TOKEN
 
 {DYNAMIC_CHANNELS}
 
