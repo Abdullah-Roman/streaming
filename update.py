@@ -14,6 +14,11 @@ PLAYLIST_TEMPLATE = """#EXTM3U
 https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8
 https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=t_sports&formet=.m3u8
 
+#EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png",Somoy TV
+#EXTVLCOPT:http-user-agent=okhttp/5.1.0
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1790352080:KeyName=prod_linear:Signature=5K6gbilSs2z32yQcSaZJ_ENDZF8k-kcUN8wbF0Ekj7KzPOa-0Pilyr0P-NY_WsrKliFiH-0NP0IrX3ro4HuCBA"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8
+
 #EXTINF:-1 tvg-name="STAR SPORTS 2 SELECT HD" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7227/597227-h.jpg" group-title="Sports", STAR SPORTS 2 SELECT HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
