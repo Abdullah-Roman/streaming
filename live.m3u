@@ -6,7 +6,7 @@
 #EXTINF:-1 tvg-id="StarSports2Hindi.in" tvg-name="Star Sports 2 Hindi (720p)" tvg-logo="https://dtil.tmsimg.com/assets/s143807_ld_h15_ac.png?lock=720x540" tvg-chno="579" tvg-language="hin" tvg-country="IN" group-title="Sports" nexus-score="100",Star Sports 2 Hindi (720p)
 https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8
 
-# Auto-Updated via Actions at: 2026-09-23 18:00:29 UTC
+# Auto-Updated via Actions at: 2026-09-23 18:05:15 UTC
 
 
 
@@ -84,8 +84,11 @@ https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://ekusheyserver.com/
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CwNc0IS.th.jpg", Desh TV
 https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8?e=1784102570&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=78b23c868a34420397be9c985d04db9b
 
-#EXTINF:-1 tvg-logo="https://iili.io/CkkTc9n.th.jpg",NEXUS TV
-https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8?e=1784102571&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=61db2452abffc778eb75333c98c136a2
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SA TV
+https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Bangla Tv
+https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
 
 # --- Deshe Bideshe TV (1 Server) ---
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CwNl6Pe.th.jpg", Deshe Bideshe
@@ -255,6 +258,12 @@ https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://sm-monirul.xyz/priva
 #EXTINF:-1 tvg-name="Hindi" tvg-logo="https://iili.io/CeW7rwG.th.jpg",  group-title="Hindi",HBO Movies
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Goldmines Bollywood
+https://vods2.aynaott.com/hindimovies/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Hindi Movies 3
+https://vods2.aynaott.com/hindimovies/index.m3u8
+
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision" tvg-name="Sony Entertainment TV [Backup 3]" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/-y50-JQBv9knK3AHLzSn/posters/0ab48ac0-ec84-4ca2-9601-746ff3cb809e.webp" tvg-chno="307" group-title="Indian Entertainment",Sony Entertainment TV [Backup 3]
 https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
 
@@ -321,7 +330,7 @@ https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 https://ftp.ctgfun.com/Indian/Hindi%20Movies/Last%20Man%20In%20Tower%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Last%20Man%20In%20Tower%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4
 
 #EXTINF:-1 tvg-logo="https://ctgmovies.com/imgcache/ab/abdae27441884f06b76f6e292ddb108acc7bb004.webp" group-title="Hindi Movies", Vishwanath & Sons (2026)
-https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Vishwanath%20and%20Sons%20(2026)%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Vishwanath%20and%20Sons%20%282026%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+http://cineplexbd.net/v/m/Indian%20Bangla/2026/Aajo%20Ardhangini%20%282026%29/Aajo%20Ardhangini%20%5BBengali%5D-1080P.mp4?md5=keoBRLjL-APijb9yNhSAqQ&expires=1790215342
 
 #EXTINF:-1 tvg-logo="https://ctgmovies.com/imgcache/78/78d8c25996765722a1d53b836d81370191eed42e.webp" group-title="Hindi Movies", Sardar 2 (2026)
 https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Sardar-2%20(2026)%20Tamil%20Telugu%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Sardar-2%20%282026%29%20Tamil%20Telugu%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4
