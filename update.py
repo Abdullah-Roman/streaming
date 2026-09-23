@@ -13,6 +13,7 @@ PLAYLIST_TEMPLATE = """#EXTM3U
 #EXTINF:-1 tvg-id="StarSports2Hindi.in" tvg-name="Star Sports 2 Hindi (720p)" tvg-logo="https://dtil.tmsimg.com/assets/s143807_ld_h15_ac.png?lock=720x540" tvg-chno="579" tvg-language="hin" tvg-country="IN" group-title="Sports" nexus-score="100",Star Sports 2 Hindi (720p)
 https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/40.m3u8
+http://202.70.146.135:8000/play/a02d/37074190.m3u8
 
 {DYNAMIC_CHANNELS}
 
