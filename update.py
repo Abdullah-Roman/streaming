@@ -334,7 +334,7 @@ https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/noSf8Kv.th.jpg" group-title="Hindi Movies", Last Man in Tower (2026)
 https://ftp.ctgfun.com/Indian/Hindi%20Movies/Last%20Man%20In%20Tower%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Last%20Man%20In%20Tower%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://ctgmovies.com/imgcache/ab/abdae27441884f06b76f6e292ddb108acc7bb004.webp" group-title="Hindi Movies", Vishwanath & Sons (2026)
+#EXTINF:-1 tvg-logo="http://cineplexbd.net/uploads/1789710402_MV5BZWM2MDk4Y2QtOTY5Ny00MzU0LWE5YWUtZTVlNjgyODI3MjQwXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies", Ajo Ordangini
 http://cineplexbd.net/v/m/Indian%20Bangla/2026/Aajo%20Ardhangini%20%282026%29/Aajo%20Ardhangini%20%5BBengali%5D-1080P.mp4?md5=keoBRLjL-APijb9yNhSAqQ&expires=1790215342
 
 #EXTINF:-1 tvg-logo="https://ctgmovies.com/imgcache/78/78d8c25996765722a1d53b836d81370191eed42e.webp" group-title="Hindi Movies", Sardar 2 (2026)
