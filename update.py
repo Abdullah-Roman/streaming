@@ -15,6 +15,18 @@ https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/40.m3u8
 http://202.70.146.135:8000/play/a02d/37074190.m3u8
 
+#EXTINF:-1 tvg-name="STAR SPORTS 2 SELECT HD" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7227/597227-h.jpg" group-title="Sports", STAR SPORTS 2 SELECT HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2effd2e98f95492cb7418857bf610000:f0e42f1c91fb4b59bf6684cb4478d82e
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-cookie=hdntl=exp=1790246998~acl=%2f*~id=39cb773715487d523890ff9a37df35f6~data=hdntl~hmac=327db251b87bdb65b98c34d9bd5f6d1b2a8d2880276bf69091448253987f07ca
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1790246998~acl=%2f*~id=39cb773715487d523890ff9a37df35f6~data=hdntl~hmac=327db251b87bdb65b98c34d9bd5f6d1b2a8d2880276bf69091448253987f07ca"}
+https://livetv.hotstar.com/mp1/gec-india-1540065794/e2408fbafb9d4a5ab23775b69e5737d7/index.mpd?|cookie=hdntl=exp=1790246998~acl=%2f*~id=39cb773715487d523890ff9a37df35f6~data=hdntl~hmac=327db251b87bdb65b98c34d9bd5f6d1b2a8d2880276bf69091448253987f07ca&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
+
 {DYNAMIC_CHANNELS}
 
 #EXTINF:-1 tvg-id="019efa45-e8e5-7353-a606-b361cf5f42ce" tvg-name="Cricket Gold" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_dde39b3fb713d4946a32e2c8ad5db00a_playmist_cricket_gold_400x400.jpg" group-title="Cricket, Sports",Cricket Gold
