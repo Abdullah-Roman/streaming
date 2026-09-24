@@ -274,7 +274,7 @@ https://cdn-4.pishow.tv/live/1143/master.m3u8
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://66.102.126.10:8000/play/a076/66165879.m3u8
 
 # ==========================================
-# 📺 Movies Channel
+# 📺 Entertainment
 # ==========================================
 
 #EXTINF:-1 tvg-name="Hindi" tvg-logo="https://iili.io/CeW7rwG.th.jpg",  group-title="Hindi",Sony Max
