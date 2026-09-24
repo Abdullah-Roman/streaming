@@ -21,6 +21,15 @@ https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1790352080:KeyName=prod_linear:Signature=5K6gbilSs2z32yQcSaZJ_ENDZF8k-kcUN8wbF0Ekj7KzPOa-0Pilyr0P-NY_WsrKliFiH-0NP0IrX3ro4HuCBA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8
 
+#EXTINF:-1 group-title="Family" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png",Toffee TV
+https://prod-linear-media.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8?edge-cache-token=Expires=1790265633~Starts=1790262033~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=hl3pKzqXRbYzjH3ILk_BXOYnJzMz7h8GGR7DBRQ15YT_pZRJMufy9S8J9BgwtFtnVJOnvAd7sPLbdEwRcnJsAA
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://assets-prod.services.toffeelive.com/b60Ss5UBrjBfS2_RJPb8/posters/c68ede73-0be0-41b7-9130-9628a16f2feb.png",Toffee Movies
+https://prod-linear-media.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8?edge-cache-token=Expires=1790265633~Starts=1790262033~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=hl3pKzqXRbYzjH3ILk_BXOYnJzMz7h8GGR7DBRQ15YT_pZRJMufy9S8J9BgwtFtnVJOnvAd7sPLbdEwRcnJsAA
+
+#EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/JS1AqZgBNnOkwJLWlwg-/posters/f030066c-0649-4d82-836f-c85321381d67.png",EPL channel 1
+https://prod-cdn01-live.toffeelive.com/live/EPL-26-27-CH-1/index.m3u8?edge-cache-token=Expires=1790262334~Starts=1790262034~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=hWAP1NFl1wn3kfNWRhmFawLjSB2ljcWOyMg8Ny9cWRdK9FQrQCedCA9LGsXN2ghD19P-VBX4TcrVkyu7BbaNDg
+
 #EXTINF:-1 tvg-name="STAR SPORTS 2 SELECT HD" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7227/597227-h.jpg" group-title="Sports", STAR SPORTS 2 SELECT HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
