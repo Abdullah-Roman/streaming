@@ -2,7 +2,7 @@ import urllib.request
 import re
 from datetime import datetime
 
-M3U_URL = "https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u"
+M3U_URL = "https://github.com/streambd/Tapmad_Auto_Update_Playlist/main/Tapmad_sm.m3u"
 M3U_FILE = "live.m3u"
 
 PLAYLIST_TEMPLATE = """#EXTM3U
