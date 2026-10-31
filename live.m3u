@@ -6,6 +6,14 @@
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
 http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast
 
+# Auto-Updated via Actions at: 2026-10-31 23:35:16 UTC
+
+#EXTINF:-1 tvg-id="tapmad-19312" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930165771020x576.jpg" group-title="Sports Live", Moicano vs Nolan - Fight Night - UFC 2026 - Server 1
+https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19312" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930165771020x576.jpg" group-title="Sports Live", Moicano vs Nolan - Fight Night - UFC 2026 - Server 2
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
+
 
 
 #EXTINF:-1 tvg-id="sonyliv-1090551577" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027940/1793474597073145_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day2_landscape_thumb.jpg" group-title="Sports Live", 2nd Unofficial Test - Day 2 | India A Tour of New Zealand [English]
