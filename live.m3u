@@ -6,7 +6,7 @@
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
 http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast
 
-# Auto-Updated via Actions at: 2026-10-31 21:50:20 UTC
+# Auto-Updated via Actions at: 2026-10-31 21:55:14 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18445" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17931685911020x576.jpg" group-title="Sports Live", Troyes vs Le Mans - MATCHDAY 9 - French Ligue 1 2026/27 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
@@ -21,6 +21,9 @@ https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
 
 
+
+#EXTINF:-1 tvg-id="sonyliv-1090551577" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027940/1793474597073145_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day2_landscape_thumb.jpg" group-title="Sports Live", 2nd Unofficial Test - Day 2 | India A Tour of New Zealand [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTf4faprod-PlaybackConfig/2018457/criclive3110/ENG/master.m3u8?hdnea=exp=1793526649~acl=/*~id=21758488662213733113165110736931~hmac=747f87ea6ea3d9404b2c229e8fe400393401e2841ccc2762546ed8c83e4510e9
 
 
 
