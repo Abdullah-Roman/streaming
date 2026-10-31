@@ -6,13 +6,7 @@
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
 http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast
 
-# Auto-Updated via Actions at: 2026-10-31 20:30:23 UTC
-
-#EXTINF:-1 tvg-id="tapmad-19450" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17933449331020x576.jpg" group-title="Sports Live", Betis vs Malaga - MATCHDAY 11 - LaLiga 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-17111" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17932612401020x576.jpg" group-title="Sports Live", Al Hilal vs Al Fateh - MATCHDAY 12 - Saudi Pro League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
+# Auto-Updated via Actions at: 2026-10-31 20:35:14 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18445" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17931685911020x576.jpg" group-title="Sports Live", Troyes vs Le Mans - MATCHDAY 9 - French Ligue 1 2026/27 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
