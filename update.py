@@ -18,12 +18,12 @@ PLAYLIST_TEMPLATE = """#EXTM3U
 # 🏆 Sports LIVE
 # ==========================================
 
-#EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
-http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast
-
 {DYNAMIC_CHANNELS}
 
 {DYNAMIC_SONYLIV}
+
+#EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
+http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast
 
 #EXTINF:-1 tvg-id="abfabaee-3898-4279-8645-3da5b0232867" tvg-name="Willow TV" tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="Sports",Willow TV
 https://tvsen7.aynaott.com/rEBp38Ax/tracks-v1a1/mono.ts.m3u8
@@ -343,6 +343,9 @@ https://drk6xq0vhn.gpcdn.net/live/hum_tv_abr/index.m3u8
 # ==========================================
 
 #EXTINF:-1  group-title="Islamic" tvg-logo="https://i.ibb.co.com/5gMzQmLm/Islamic.jpg", Islamic TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/index.m3u8
+
+#EXTINF:-1  group-title="Islamic" tvg-logo="https://i.ibb.co.com/ynGHYLH9/download.jpg", Peace TV Bangla
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/index.m3u8
 
 #EXTINF:-1  group-title="Islamic" tvg-logo="https://i.ibb.co.com/hJ332kvz/Madani-Tv.jpg", Madani TV
