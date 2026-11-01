@@ -6,7 +6,7 @@
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
 http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast
 
-# Auto-Updated via Actions at: 2026-11-01 10:50:34 UTC
+# Auto-Updated via Actions at: 2026-11-01 10:55:15 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19059" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17925741151020x576.jpg" group-title="Sports Live", New Zealand vs India - 5th T20I - India Tour of New Zealand 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
@@ -27,6 +27,12 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
 
 
+
+#EXTINF:-1 tvg-id="sonyliv-1090551626" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792881645594355_ISL26_Mumbai_City_FC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg" group-title="Sports Live", Mumbai City FC vs Sporting Club Delhi | MG Indian Super League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2120299/footlive0111/ENG/master.m3u8?hdnea=exp=1793573457~acl=/*~id=51841935488676790268620609403187~hmac=7064df43423b00a303c0236945e80e356a72c5bd41322796c2bd6b9a3ba1e8e3
+
+#EXTINF:-1 tvg-id="sonyliv-1090551626" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792881645594355_ISL26_Mumbai_City_FC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg" group-title="Sports Live", Mumbai City FC vs Sporting Club Delhi | MG Indian Super League 2026-27 [Hindi]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2120301/footlive0111/HIN/master.m3u8?hdnea=exp=1793573457~acl=/*~id=51841935488676790268620609403187~hmac=7064df43423b00a303c0236945e80e356a72c5bd41322796c2bd6b9a3ba1e8e3
 
 #EXTINF:-1 tvg-id="sonyliv-1090551654" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg" group-title="Sports Live", 5th T20I | India Tour of New Zealand 2026 [English]
 https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1793557250~acl=/*~id=19985914225233742252051235600186~hmac=335ff81241bab07b20eb3e7c0e2af0df47fe58728b49b43e705b6789245e9424
