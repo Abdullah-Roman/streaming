@@ -3,10 +3,19 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-11-01 12:45:18 UTC
+# Auto-Updated via Actions at: 2026-11-01 12:50:21 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19234" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930943591020x576.jpg" group-title="Sports Live", Beijing Jingtan Football Club (CHN) vs Kaya FC-Iloilo (PHI) - MATCHDAY 1 - AFC Women's Champions League 2026/27
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19239" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930947221020x576.jpg" group-title="Sports Live", Naegohyang Women's FC (PRK) vs Ayeyawady FC - Women (MYA) - MATCHDAY 1 - AFC Women's Champions League 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19452" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17933458451020x576.jpg" group-title="Sports Live", Getafe vs Sevilla - MATCHDAY 11 - LaLiga 2026/27 - Server 1
+https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19452" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17933458451020x576.jpg" group-title="Sports Live", Getafe vs Sevilla - MATCHDAY 11 - LaLiga 2026/27 - Server 2
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 
 
 
