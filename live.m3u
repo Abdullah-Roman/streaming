@@ -3,10 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-#EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
-http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast
-
-# Auto-Updated via Actions at: 2026-11-01 12:35:14 UTC
+# Auto-Updated via Actions at: 2026-11-01 12:40:22 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19234" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930943591020x576.jpg" group-title="Sports Live", Beijing Jingtan Football Club (CHN) vs Kaya FC-Iloilo (PHI) - MATCHDAY 1 - AFC Women's Champions League 2026/27
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
@@ -20,6 +17,9 @@ https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2120301/footlive0111/HIN/master.m3u8?hdnea=exp=1793573457~acl=/*~id=51841935488676790268620609403187~hmac=7064df43423b00a303c0236945e80e356a72c5bd41322796c2bd6b9a3ba1e8e3
 
 
+
+#EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
+http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast
 
 #EXTINF:-1 tvg-id="abfabaee-3898-4279-8645-3da5b0232867" tvg-name="Willow TV" tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="Sports",Willow TV
 https://tvsen7.aynaott.com/rEBp38Ax/tracks-v1a1/mono.ts.m3u8
@@ -339,6 +339,9 @@ https://drk6xq0vhn.gpcdn.net/live/hum_tv_abr/index.m3u8
 # ==========================================
 
 #EXTINF:-1  group-title="Islamic" tvg-logo="https://i.ibb.co.com/5gMzQmLm/Islamic.jpg", Islamic TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/index.m3u8
+
+#EXTINF:-1  group-title="Islamic" tvg-logo="https://i.ibb.co.com/ynGHYLH9/download.jpg", Peace TV Bangla
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/index.m3u8
 
 #EXTINF:-1  group-title="Islamic" tvg-logo="https://i.ibb.co.com/hJ332kvz/Madani-Tv.jpg", Madani TV
