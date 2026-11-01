@@ -6,7 +6,7 @@
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
 http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast
 
-# Auto-Updated via Actions at: 2026-11-01 06:20:18 UTC
+# Auto-Updated via Actions at: 2026-11-01 06:25:16 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19338" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17932645421020x576.jpg" group-title="Sports Live", Hong Kong Sixes - Day 3 - Knockout Stage / Finals - Hong Kong International Sixes 2026
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
@@ -18,6 +18,9 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/
 https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
 
 
+
+#EXTINF:-1 tvg-id="sonyliv-1090551654" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg" group-title="Sports Live", 5th T20I | India Tour of New Zealand 2026 [English]
+https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1793557250~acl=/*~id=19985914225233742252051235600186~hmac=335ff81241bab07b20eb3e7c0e2af0df47fe58728b49b43e705b6789245e9424
 
 
 
