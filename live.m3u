@@ -3,10 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-11-01 14:45:16 UTC
-
-#EXTINF:-1 tvg-id="tapmad-19239" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930947221020x576.jpg" group-title="Sports Live", Naegohyang Women's FC (PRK) vs Ayeyawady FC - Women (MYA) - MATCHDAY 1 - AFC Women's Champions League 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
+# Auto-Updated via Actions at: 2026-11-01 14:50:20 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19452" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17933458451020x576.jpg" group-title="Sports Live", Getafe vs Sevilla - MATCHDAY 11 - LaLiga 2026/27 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
@@ -19,6 +16,21 @@ https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115f
 
 #EXTINF:-1 tvg-id="tapmad-18446" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17931687531020x576.jpg" group-title="Sports Live", Strasbourg vs Auxerre - MATCHDAY 9 - French Ligue 1 2026/27 - Server 2
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad5/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19332" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930987881020x576.jpg" group-title="Sports Live", Leg 2 - Lyon (FRA) - Race - Longines FEI Jumping World Cup 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19249" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930956371020x576.jpg" group-title="Sports Live", Melbourne City FC (AUS) vs PFC Nasaf (UZB) - MATCHDAY 1 - AFC Women's Champions League 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19244" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930953311020x576.jpg" group-title="Sports Live", Ho Chi Minh City Women's FC (VIE) vs East Bengal FC (IND) - MATCHDAY 1 - AFC Women's Champions League 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19113" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930918031020x576.jpg" group-title="Sports Live", Afghanistan vs Zimbabwe - 3rd T20I - Afghanistan vs Zimbabwe 2026 - Server 1
+https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19113" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930918031020x576.jpg" group-title="Sports Live", Afghanistan vs Zimbabwe - 3rd T20I - Afghanistan vs Zimbabwe 2026 - Server 2
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
 
 
 
