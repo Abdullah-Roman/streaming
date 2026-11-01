@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-11-01 12:50:21 UTC
+# Auto-Updated via Actions at: 2026-11-01 12:55:15 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19234" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930943591020x576.jpg" group-title="Sports Live", Beijing Jingtan Football Club (CHN) vs Kaya FC-Iloilo (PHI) - MATCHDAY 1 - AFC Women's Champions League 2026/27
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
@@ -28,6 +28,7 @@ https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf
 
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
+https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/tracks-v1a1/mono.ts.m3u8
 http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast
 
 #EXTINF:-1 tvg-id="abfabaee-3898-4279-8645-3da5b0232867" tvg-name="Willow TV" tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="Sports",Willow TV
