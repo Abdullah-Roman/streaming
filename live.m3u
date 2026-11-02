@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-11-02 21:50:20 UTC
+# Auto-Updated via Actions at: 2026-11-02 21:55:15 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19456" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/1793607983540x302.jpg" group-title="Sports Live", Deportivo vs Osasuna - MATCHDAY 11 - LaLiga 2026/27 - Server 1
 https://t-prod-bd.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
@@ -12,6 +12,9 @@ https://t-prod-bd.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc6
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 
 
+
+#EXTINF:-1 tvg-id="sonyliv-1090551679" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027943/179347590688283_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day4_landscape_thumb.jpg" group-title="Sports Live", 2nd Unofficial Test - Day 4 | India A Tour of New Zealand [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2120299/criclive0211/ENG/master.m3u8?hdnea=exp=1793699451~acl=/*~id=46400774054652309573953798773993~hmac=bafc88b14d1af488e195062afbef13f495a2fa4e32577c05d1c65127c8b37b0e
 
 
 
