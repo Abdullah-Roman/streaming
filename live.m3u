@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-11-02 18:00:31 UTC
+# Auto-Updated via Actions at: 2026-11-02 18:05:18 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19663" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17935997551020x576.jpg" group-title="Sports Live", Al Sadd SC (QAT) vs Al Ahli Saudi FC (KSA) - MATCHDAY 4 - AFC Champions League Elite 2026/27
 https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
@@ -13,6 +13,12 @@ https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154
 
 #EXTINF:-1 tvg-id="tapmad-19653" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17935989621020x576.jpg" group-title="Sports Live", Tractor FC (IRN) vs PFC Neftchi (UZB) - MATCHDAY 4 - AFC Champions League Elite 2026/27
 https://multiregion-asia-cdn.tapmad.com/v1/01a154e351d61ea557841e1612cf79/01a154e3809215fc60e91e1786b098/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19673" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936000621020x576.jpg" group-title="Sports Live", Al Gharafa SC (QAT) vs Al Qadsiah Club (KSA) - MATCHDAY 4 - AFC Champions League Elite 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19668" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936004211020x576.jpg" group-title="Sports Live", Al Ittihad Club (KSA) vs Al Ain FC (UAE) - MATCHDAY 4 - AFC Champions League Elite 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
 
 
 
