@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-11-03 14:55:19 UTC
+# Auto-Updated via Actions at: 2026-11-03 14:57:13 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19703" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936471311020x576.jpg" group-title="Sports Live", Cong An Ha Noi FC (VIE) vs Kyoto Sanga F.C.(JPN) - MATCHDAY 4 - AFC Champions League Elite 2026/27
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
@@ -301,6 +301,9 @@ https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8
 
 #EXTINF:-1 tvg-name="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg",  group-title="Hindi", Sony Movies
 https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Hindi" tvg-logo="https://i.ibb.co.com/QvKnybgx/images-5.jpg",  group-title="Hindi", Movies Now
+http://103.135.253.32:8080/MOVIES-NOW/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Hindi" tvg-logo="https://iili.io/CeW7rwG.th.jpg",  group-title="Hindi",Colors Cineplex
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chunklist_b1928000.m3u8
