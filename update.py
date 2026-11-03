@@ -27,6 +27,7 @@ https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/tracks-v1a1/mono.ts.m3u8
 http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast
 
 #EXTINF:-1 tvg-name="Willow TV" tvg-logo="https://i.ibb.co.com/9HNtwDKJ/images-2.jpg" group-title="Sports",Willow TV
+https://tvsen7.aynaott.com/rEBp38Ax/tracks-v1a1/mono.ts.m3u8
 https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://i.ibb.co.com/Z6Y14TZ9/images-3.jpg",PTV Sports 
@@ -369,6 +370,9 @@ https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd/index.m3u8
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 
 #EXTINF:-1 group-title="Documentary & Wildlife" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYi8fTRD2JvQusZi21I6hvtmjCEoRKlDx2APFYaWgrWg&s=10",Love Nature
+https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary & Wildlife" tvg-logo="https://i.ibb.co.com/yF8cbnXj/images-4.jpg",Wild Fox Hindi
 https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Documentary & Wildlife" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZQWcPxt5kC7VHUHvcGN5is8XySLDC5RFpVKcctUgHw&s=10",Real Wild
