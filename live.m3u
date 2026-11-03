@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-11-03 17:20:25 UTC
+# Auto-Updated via Actions at: 2026-11-03 17:25:18 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19708" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936480811020x576.jpg" group-title="Sports Live", Esteghlal FC (IRN) vs Al Shamal SC (QAT) - MATCHDAY 4 - AFC Champions League Elite 2026/27
 https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
@@ -13,8 +13,11 @@ https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a154
 
 
 
-#EXTINF:-1 tvg-id="sonyliv-1090551682" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027304/1792890253126359_UYL26_MD4_Atletico_vs_Bayern_landscape_thumb.jpg" group-title="Sports Live", Atletico de Madrid vs FC Bayern Munich | UEFA Youth League 2026-27 [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT0b06prod-PlaybackConfig/2120301/footlive0311/ENG/master.m3u8?hdnea=exp=1793760663~acl=/*~id=03663142962483151395503966481037~hmac=ccbb99732faf8533ed825be10bb9c3538630c237094372d8c597ffc0f6d78b3e
+#EXTINF:-1 tvg-id="sonyliv-1090551744" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792950924165243_UCL26_MD4_Shakhtar_vs_SportingCP_landscape_thumb.jpg" group-title="Sports Live", Shakhtar Donetsk vs Sporting CP - MD 4 | UEFA Champions League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT7a8bprod-PlaybackConfig/2120304/footlive0311/ENG/master.m3u8?hdnea=exp=1793769662~acl=/*~id=21676438590316111351385312268782~hmac=786e3833cb6eab507a49917f3257e528f7b98cf252e0d0271f1f5d477c906202
+
+#EXTINF:-1 tvg-id="sonyliv-1090551745" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792951478118378_UCL26_MD4_Galatasaray_vs_VfB_Stuttgart_landscape_thumb.jpg" group-title="Sports Live", Galatasaray vs VfB Stuttgart | UEFA Champions League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTf4faprod-PlaybackConfig/2120303/footlive0311/ENG/master.m3u8?hdnea=exp=1793769662~acl=/*~id=21676438590316111351385312268782~hmac=786e3833cb6eab507a49917f3257e528f7b98cf252e0d0271f1f5d477c906202
 
 
 
