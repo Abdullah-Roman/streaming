@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-11-03 20:20:30 UTC
+# Auto-Updated via Actions at: 2026-11-03 20:25:28 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19713" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936480271020x576.jpg" group-title="Sports Live", Al Hilal SFC (KSA) vs Shabab Al Ahli (UAE) - MATCHDAY 4 - AFC Champions League Elite 2026/27
 https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8
@@ -33,6 +33,9 @@ https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea
 
 #EXTINF:-1 tvg-id="sonyliv-1090551748" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952482824378_UCL26_MD4_Man_United_vs_AS_Roma_eng_landscape_thumb.jpg" group-title="Sports Live", Manchester United vs AS Roma | UEFA Champions League 2026-27 [English]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa270prod-PlaybackConfig/2120308/footlive0311/ENG/master.m3u8?hdnea=exp=1793778670~acl=/*~id=00697157076113949785893863624833~hmac=1f53f35929440f77adb676a4b87c25e10b1cbb8fa6c882e76a2c3831741b06cf
+
+#EXTINF:-1 tvg-id="sonyliv-1090551748" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952482824378_UCL26_MD4_Man_United_vs_AS_Roma_eng_landscape_thumb.jpg" group-title="Sports Live", Manchester United vs AS Roma | UEFA Champions League 2026-27 [Hindi]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe7d9prod-PlaybackConfig/2120306/footlive0311/HIN/master.m3u8?hdnea=exp=1793778670~acl=/*~id=00697157076113949785893863624833~hmac=1f53f35929440f77adb676a4b87c25e10b1cbb8fa6c882e76a2c3831741b06cf
 
 #EXTINF:-1 tvg-id="sonyliv-1090551748" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952482824378_UCL26_MD4_Man_United_vs_AS_Roma_eng_landscape_thumb.jpg" group-title="Sports Live", Manchester United vs AS Roma | UEFA Champions League 2026-27 [Telugu]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe7d9prod-PlaybackConfig/2120307/footlive0311/TEL/master.m3u8?hdnea=exp=1793778670~acl=/*~id=00697157076113949785893863624833~hmac=1f53f35929440f77adb676a4b87c25e10b1cbb8fa6c882e76a2c3831741b06cf
