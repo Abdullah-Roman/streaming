@@ -300,6 +300,9 @@ https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8
 #EXTINF:-1 tvg-name="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg",  group-title="Hindi", Sony Movies
 https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
 
+#EXTINF:-1 tvg-name="Hindi" tvg-logo="https://i.ibb.co.com/QvKnybgx/images-5.jpg",  group-title="Hindi", Movies Now
+http://103.135.253.32:8080/MOVIES-NOW/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="Hindi" tvg-logo="https://iili.io/CeW7rwG.th.jpg",  group-title="Hindi",Colors Cineplex
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chunklist_b1928000.m3u8
 
