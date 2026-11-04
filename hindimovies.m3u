@@ -3,6 +3,12 @@
 # 🎬 Hindi Movies
 # ==========================================
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/18Lhkc3nf92bY1cacQomXIqihhN.jpg" group-title="Hindi Movies", Sigma
+https://flixhub.net/stream/movie/sigma
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qrDFJdUBAqdiwcd0e0ajGpWtUPo.jpg" group-title="Hindi Movies", Sumo Didi
+https://flixhub.net/stream/movie/sumo-didi
+
 #EXTINF:-1 tvg-logo="https://ctgmovies.com/imgcache/9e/9e9de1112c6a9068067be2c51ec9476f8cd41003.webp" group-title="Hindi Movies", Little Thomas
 https://ftp.ctgfun.com/Indian/Hindi%20Movies/Little%20Thomas%20%282026%29%20Hindi%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D/Little%20Thomas%20%282026%29%20Hindi%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4
 
