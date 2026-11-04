@@ -354,7 +354,7 @@ https://drk6xq0vhn.gpcdn.net/live/hum_tv_abr/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/index.m3u8
 
 #EXTINF:-1  group-title="Islamic" tvg-logo="https://i.ibb.co.com/ynGHYLH9/download.jpg", Peace TV Bangla
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/index.m3u8
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v1a1/mono.m3u8?sid=dyNhNcg1VEi3XupQTz4JtA
 
 #EXTINF:-1  group-title="Islamic" tvg-logo="https://i.ibb.co.com/hJ332kvz/Madani-Tv.jpg", Madani TV
 https://tvsen3.aynaott.com/z24qLsqV/index.m3u8
