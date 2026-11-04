@@ -285,7 +285,7 @@ https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
 # --- Sangeet Bangla (1 Server) ---
 #EXTINF:-1 group-title="Indian Music" tvg-logo="https://tubextra.b-cdn.net/download%20(14).jpg", Sangeet Bangla
-https://cdn.pishow.tv/ott/live/1143/1143_1.m3u8
+https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8#skym3u.dev
 
 # ==========================================
 # 📺 Entertainment
