@@ -291,10 +291,10 @@ https://cdn.pishow.tv/ott/live/1143/1143_1.m3u8
 # 📺 Entertainment
 # ==========================================
 
-#EXTINF:-1 tvg-name="Hindi" tvg-logo="https://iili.io/CeW7rwG.th.jpg",  group-title="Hindi",Sony Max
+#EXTINF:-1 tvg-name="Hindi" tvg-logo="https://iili.io/CeW7rwG.th.jpg", group-title="Hindi",Sony Max
 https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8#skym3u.dev
 
-#EXTINF:-1 tvg-name="Hindi" tvg-logo="https://iili.io/CeW7rwG.th.jpg",  group-title="Hindi",Colors Cineplex
+#EXTINF:-1 tvg-name="Hindi" tvg-logo="https://i.ibb.co.com/CKdjfpRG/download-2.png"", group-title="Hindi",Colors Cineplex
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chunklist_b1928000.m3u8
 
 #EXTINF:-1 tvg-name="Hindi" tvg-logo="https://i.ibb.co.com/23pJ9NM8/download-1.jpg",  group-title="Hindi", Sony Max 2
