@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-11-04 15:45:21 UTC
+# Auto-Updated via Actions at: 2026-11-04 15:50:21 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19508" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936496991020x576.jpg" group-title="Sports Live", FC Arkadag (TKM) vs Golgohar Sirjan SC (IRN) - MATCHDAY 4 - AFC Champions League Two 2026/27
 https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
@@ -16,6 +16,15 @@ https://multiregion-asia-cdn.tapmad.com/v1/01a154e351d61ea557841e1612cf79/01a154
 
 #EXTINF:-1 tvg-id="tapmad-19841" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937347461020x576.jpg" group-title="Sports Live", Rennes vs Olympiacos - MATCHDAY 4 - UEFA Europa League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19523" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936510611020x576.jpg" group-title="Sports Live", Al Rayyan SC (QAT) vs Al Nahda Club (OMA) - MATCHDAY 4 - AFC Champions League Two 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19518" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936507081020x576.jpg" group-title="Sports Live", Kuwait SC (KUW) vs PFC Nasaf (UZB) - MATCHDAY 4 - AFC Champions League Two 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19513" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936502701020x576.jpg" group-title="Sports Live", Al Wahda FC (UAE) vs Al Khaldiya SC (BHR) - MATCHDAY 4 - AFC Champions League Two 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
 
 
 
