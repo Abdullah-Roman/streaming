@@ -294,25 +294,25 @@ https://cdn.pishow.tv/ott/live/1143/1143_1.m3u8
 #EXTINF:-1 tvg-name="Hindi" tvg-logo="https://iili.io/CeW7rwG.th.jpg",  group-title="Hindi",Sony Max
 https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8#skym3u.dev
 
-#EXTINF:-1 tvg-name="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg",  group-title="Hindi", Sony Max 2
+#EXTINF:-1 tvg-name="Hindi" tvg-logo="https://iili.io/CeW7rwG.th.jpg",  group-title="Hindi",Colors Cineplex
+https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chunklist_b1928000.m3u8
+
+#EXTINF:-1 tvg-name="Hindi" tvg-logo="https://i.ibb.co.com/23pJ9NM8/download-1.jpg",  group-title="Hindi", Sony Max 2
 https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8
 
-#EXTINF:-1 tvg-name="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg",  group-title="Hindi", Sony Movies
+#EXTINF:-1 tvg-name="Hindi" tvg-logo="https://i.ibb.co.com/zkFHw9d/download-2.jpg",  group-title="Hindi", Sony Movies
 https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-name="Hindi" tvg-logo="https://i.ibb.co.com/QvKnybgx/images-5.jpg",  group-title="Hindi", Movies Now
 http://103.135.253.32:8080/MOVIES-NOW/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="Hindi" tvg-logo="https://iili.io/CeW7rwG.th.jpg",  group-title="Hindi",Colors Cineplex
-https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chunklist_b1928000.m3u8
-
-#EXTINF:-1 tvg-name="Hindi" tvg-logo="https://imgur.com/79g2kMA.png",Action Hollywood Movies
+#EXTINF:-1 tvg-name="Hindi" tvg-logo="https://i.ibb.co.com/XZw1Qbbx/download-1.png",Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Hindi" tvg-logo="https://img.favpng.com/14/9/13/sony-sab-logo-sony-sab-logo-in-orange-and-black-Fhr0xfHf_t.jpg",  group-title="Hindi",Sony SAB
 https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
 
-#EXTINF:-1, tvg-name="Hindi", Hindi Movie Club
+#EXTINF:-1, tvg-name="Hindi", tvg-logo="https://i.ibb.co.com/cMPnd53/download-3.jpg", Hindi Movie Club
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Goldmines Bollywood
