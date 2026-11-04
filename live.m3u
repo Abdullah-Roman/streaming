@@ -3,13 +3,16 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-11-04 07:35:15 UTC
+# Auto-Updated via Actions at: 2026-11-04 07:40:23 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19060" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936125251020x576.jpg" group-title="Sports Live", New Zealand vs India - 1st ODI - India Tour of New Zealand 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-19060" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936125251020x576.jpg" group-title="Sports Live", New Zealand vs India - 1st ODI - India Tour of New Zealand 2026 - Server 2
 https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19498" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936488321020x576.jpg" group-title="Sports Live", Melbourne Victory FC (AUS) vs Persib Bandung (IDN) - MATCHDAY 4 - AFC Champions League Two 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
 
 
 
