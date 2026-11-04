@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-11-04 09:35:16 UTC
+# Auto-Updated via Actions at: 2026-11-04 09:55:15 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19060" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936125251020x576.jpg" group-title="Sports Live", New Zealand vs India - 1st ODI - India Tour of New Zealand 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
@@ -22,6 +22,12 @@ https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154
 
 #EXTINF:-1 tvg-id="tapmad-19254" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937782681020x576.jpg" group-title="Sports Live", Bam Khatoon FC (IRN) vs Naegohyang Women's FC (PRK) - MATCHDAY 2 - AFC Women's Champions League 2026/27
 https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19718" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937767231020x576.jpg" group-title="Sports Live", FC Pohang Steelers (KOR) vs Gamba Osaka (JPN) - MATCHDAY 4 - AFC Champions League Elite 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19503" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936492951020x576.jpg" group-title="Sports Live", FC Seoul (KOR) vs The Cong - Viettel FC (VIE) - MATCHDAY 4 - AFC Champions League Two 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a154e351d61ea557841e1612cf79/01a154e3809215fc60e91e1786b098/main.m3u8
 
 
 
