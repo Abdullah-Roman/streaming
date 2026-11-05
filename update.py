@@ -19,7 +19,6 @@ PLAYLIST_TEMPLATE = """#EXTM3U
 # ==========================================
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/NgSwt5sX/images.jpg" group-title="Sports Live", Pakistan Vs India Saff Championship
-https://s1.itcnbd.live/PTV-Sports/tracks-v1a1/mono.m3u8?nocache=1785582200018
 https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/tracks-v1a1/mono.ts.m3u8
 
 {DYNAMIC_CHANNELS}
