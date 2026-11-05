@@ -8,7 +8,7 @@ https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/tracks-v1a1/mono.ts.m3u8
 http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast
 
 
-# Auto-Updated via Actions at: 2026-11-05 09:34:43 UTC
+# Auto-Updated via Actions at: 2026-11-05 09:35:15 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19121" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936115231020x576.jpg" group-title="Sports Live", Bangladesh vs West Indies - 2nd Test - West indies Tour of Bangladesh 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
@@ -21,6 +21,15 @@ https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15f
 
 #EXTINF:-1 tvg-id="tapmad-19188" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937843151020x576.jpg" group-title="Sports Live", Sydney Thunder vs Perth Scorchers - Group Stage - Women's Big Bash League 2026
 https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19548" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937353441020x576.jpg" group-title="Sports Live", Kitchee SC (HKG) vs Phnom Penh Crown FC (CAM) - MATCHDAY 4 - AFC Champions League Two 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19543" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937349211020x576.jpg" group-title="Sports Live", FC Machida Zelvia (JPN) vs Shanghai Shenhua FC (CHN) - MATCHDAY 4 - AFC Champions League Two 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19538" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937346131020x576.jpg" group-title="Sports Live", Lion City Sailors FC (SGP) vs Adelaide United FC (AUS) - MATCHDAY 4 - AFC Champions League Two 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8
 
 
 
