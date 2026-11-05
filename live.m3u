@@ -2,8 +2,10 @@
 # ==========================================
 # 🏆 Sports LIVE
 # ==========================================
-#EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", Willow Sports
-https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qFsk0bX7/Capture5.jpg" group-title="Sports Live", Bangladesh Vs Bhutan Saff Championship
+http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast
+https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/tracks-v1a1/mono.ts.m3u8
 
 EXTINF:-1 tvg-id="24114" tvg-name="02/12 01:00pm Dallas-ATP, Rotterdam-ATP & Buenos Aires-ATP Early Rounds; Doha-WTA Quarterfinals Tennis Mixed Coverage" tvg-logo="" group-title="US | Events Sports",02/12 01:00pm Dallas-ATP, Rotterdam-ATP & Buenos Aires-ATP Early Rounds; Doha-WTA Quarterfinals Tennis Mixed Coverage
 https://edf1.xyz/live/57786896/9783407/24114
