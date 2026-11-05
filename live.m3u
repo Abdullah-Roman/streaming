@@ -3,13 +3,16 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-11-05 04:30:22 UTC
+# Auto-Updated via Actions at: 2026-11-05 04:35:14 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19121" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936115231020x576.jpg" group-title="Sports Live", Bangladesh vs West Indies - 2nd Test - West indies Tour of Bangladesh 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-19121" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936115231020x576.jpg" group-title="Sports Live", Bangladesh vs West Indies - 2nd Test - West indies Tour of Bangladesh 2026 - Server 2
 https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19187" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937841621020x576.jpg" group-title="Sports Live", Adelaide Strikers vs Brisbane Heat - Group Stage - Women's Big Bash League 2026
+https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
 
 
 
