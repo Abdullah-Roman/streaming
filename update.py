@@ -19,10 +19,9 @@ PLAYLIST_TEMPLATE = """#EXTM3U
 # ==========================================
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/NgSwt5sX/images.jpg" group-title="Sports Live", Pakistan Vs India Saff Championship
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1793874874-0-0-3147ae48875948924e1d7b8c0d4cd56a
 http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1793874874-0-0-3147ae48875948924e1d7b8c0d4cd56a
 https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/tracks-v1a1/mono.ts.m3u8
-
 
 {DYNAMIC_CHANNELS}
 
