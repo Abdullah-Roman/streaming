@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-11-05 06:50:20 UTC
+# Auto-Updated via Actions at: 2026-11-05 06:55:24 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19121" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936115231020x576.jpg" group-title="Sports Live", Bangladesh vs West Indies - 2nd Test - West indies Tour of Bangladesh 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
@@ -18,6 +18,9 @@ https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15f
 https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
 
 
+
+#EXTINF:-1 tvg-id="sonyliv-1090552580" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888667543682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day1_landscape_thumb.jpg" group-title="Sports Live", Abu Dhabi HSBC Championship - Day 1 | DP World Tour [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT4379prod-PlaybackConfig/2037141/Golf_Abu0511/ENG/master.m3u8?hdnea=exp=1793904650~acl=/*~id=28507298206890606559463641353992~hmac=73a0c85ef2ca2c6f3d1412c349b6979f321089b1f8edb312f97f23c4fa2abaa6
 
 
 
